@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Istok+Web&display=swap');
+
+* {
+    margin: 0 auto;
+}
+
+
+html {
+    height: 100%;
+}
+
+body {
+    max-height: 100%;
+}
+
+header,
+footer {
+    width: 100%;
+    background-color: #4BAD3B;
+}
+
+header {
+    height: 17%;
+    display: flex;
+}
+
+#titulo {
+    display: flex;
+    flex: 87.5%;
+    vertical-align: bottom;
+}
+
+h1 {
+    color: white;
+    font-size: 4em;
+    font-family: 'Inter', sans-serif;
+}
+
+#menu {
+    display: flex;
+    flex: 12.5%;
+    background-color: #146008;
+    border-radius: 11.11111% 0px 0px 11.111%;
+}
+
+#menu div {
+    align-items: center;
+    background-color: white;
+    height: 2%;
+    width: 80%;
+}
+
+main {
+    height: 83%;
+    background-color: #E0FFDB;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    height: 15%;
+}
+
+main div {
+    margin: 0;
+}
+
+h2 {
+    color: black;
+    font-size: 2em;
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 1.25em;
+    color: black;
+}
+
+li {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 1.25em;
+    color: black;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cyan;
+}

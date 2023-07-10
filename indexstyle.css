@@ -1,0 +1,66 @@
+#top{
+    display: flex;
+    flex: 60%;
+}
+#bottom{
+    display: flex;
+    flex: 40%;
+}
+
+.left, .right{
+        flex-direction: column;
+        display: flex;
+}   
+
+.left{
+    flex: 30%;
+}
+
+.right{
+    flex: 70%;
+}
+.topico{
+    display: flex;
+    flex: 1;
+}
+.topico p{
+    flex: 50%;
+}
+.right div div{
+    border-radius: 16.6666%;
+    height: 6vh;
+    width: 6vh;
+    margin-right: 5%;
+    background-color: #146008;
+}
+.left li{
+    margin: 0;
+}
+#bottom .left{
+    text-align: center;
+}
+#bottom .left img{
+    margin-bottom: 2vh;
+    width: 75%;
+}
+
+#bottom .right{
+    align-items: center;
+}
+
+#bottom .right img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 80px;
+}
+#imagem{
+    width: 80%;
+    height: 30%;
+    margin-bottom: 2vh;
+    overflow: hidden;
+}
+h2{
+    align-self: center;
+    margin-bottom: 15%;
+}
