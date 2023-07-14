@@ -41,7 +41,7 @@
     margin-right: 5%;
     background-color: #146008;
 }
-.left li{
+.left li, ul{
     margin: 0;
 }
 #bottom .left{
