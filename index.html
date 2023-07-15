@@ -14,7 +14,7 @@
 <body>
     <header>
         <div id="titulo">
-            <h1>WIKI DOS PAÍSES</h1>
+            <a href="index.html"><h1>WIKI DOS PAÍSES</h1></a>
         </div>
         <div id="menu" onclick="menulateral()">
             <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="white" class="bi bi-list"
@@ -46,8 +46,8 @@
             </li>
             <li class="item-menu">
                 <a href="#">
-                    <span class="icon"><i class="bi bi-globe-asia-australia"></i></span>
-                    <span class="txt-link">A DEFINIR</span>
+                    <span class="icon"><i class="bi bi-translate"></i></span>
+                    <span class="txt-link">MUDAR IDIOMA</span>
                 </a>
             </li>
             <li class="item-menu">
@@ -111,34 +111,6 @@
         <p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>
     </footer>
 </body>
-<script>
-    function menulateral() {
-        rodape = document.getElementsByTagName("footer")[0]
-        principal = document.getElementsByTagName("main")[0]; //+ window.getComputedStyle(rodape).height
-        navegacao = document.getElementsByTagName("nav")[0];
-        if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
-            document.getElementsByTagName("ul")[0].style.display = "flex"
-            navegacao.classList.remove("desaparecer");
-            document.getElementsByTagName("svg")[0].classList.remove("contragira_barras");
-            document.getElementsByTagName("svg")[0].classList.add("gira_barras");
-            navegacao.style.display = "flex";
-            navegacao.style.height = "0px";
-            navegacao.classList.add("aparecer");
-            setTimeout(function(){
-            document.getElementsByTagName("nav")[0].style.height = window.getComputedStyle(principal).height;
-        }, 500)
-        } else {
-            navegacao.classList.remove("aparecer");
-            document.getElementsByTagName("svg")[0].classList.add("contragira_barras");
-            document.getElementsByTagName("svg")[0].classList.remove("gira_barras");
-            navegacao.classList.add("desaparecer");
-            document.getElementsByTagName("ul")[0].style.display = "none";
-            setTimeout(function()
-            {
-                navegacao.style.display = "none";
-            }, 950)
-        }
-    }
-</script>
+<script src="assets/indexscript.js"></script>
 
 </html>

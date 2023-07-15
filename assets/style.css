@@ -43,6 +43,7 @@ h1 {
     background-color: #146008;
     border-radius: 11.11111%;
     justify-content: space-around;
+    cursor: pointer;
 }
 
 i {
@@ -65,7 +66,6 @@ nav {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     display: none;
-    cursor: pointer;
 }
 
 
@@ -94,11 +94,9 @@ span {
 }
 
 main {
-    height: fit-content;
     background-color: #E0FFDB;
-    display: flex;
-    flex-direction: column;
     position: relative;
+    display: flex;
 }
 
 footer {
@@ -107,6 +105,7 @@ footer {
     height: 15%;
     text-align: center;
     align-items: center;
+    position: relative;
 }
 
 main div {
@@ -135,6 +134,7 @@ li {
 a {
     color: inherit;
     text-decoration: none;
+    margin: 0;
 }
 
 a:hover {
@@ -182,7 +182,7 @@ a:hover {
     }
 
     100% {
-        height: 100%;
+        height: 113%;
     }
 }
 

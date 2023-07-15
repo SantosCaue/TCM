@@ -1,0 +1,62 @@
+main {
+    flex-direction: row;
+    min-height: 83%;
+}
+
+#left {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    box-sizing: border-box;
+    padding: 3vh;
+    justify-content: space-around;
+}
+
+#nome {
+    border-width: 0px 0 3px 0;
+    border-style: solid;
+}
+
+#right {
+    box-sizing: border-box;
+    padding: 3vh;
+    width: 50%;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+}
+#meio, #dados {
+    background: #8CFF79;
+    border-radius: 4vh;
+    box-sizing: border-box;
+    padding: 2vh;
+}
+
+#meio{
+    justify-content: space-between;
+}
+
+#meio p {
+    text-align: justify;
+}
+
+#right div {
+    margin-bottom: 5vh;
+    flex: 1;
+}
+
+#mapa {
+    width: 40%
+}
+
+@keyframes apear {
+    0% {
+        height: 0;
+    }
+
+    100% {
+        height: 98%;
+    }
+}
