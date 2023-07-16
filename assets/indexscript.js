@@ -52,16 +52,27 @@ function traduzir(){
     if(getCookie("idioma") ==  "portugues"){
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "ingles" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
-    document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
-    document.getElementsByTagName("span")[3].innerText = "CONTINENTS";
-    document.getElementsByTagName("span")[5].innerText = "COUNTRIES";
-    document.getElementsByTagName("span")[7].innerText = "CHANGE LANGUAGE";
     }else if(getCookie("idioma") == "ingles"){
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
-    document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
-    document.getElementsByTagName("span")[3].innerText = "CONTINENTES";
-    document.getElementsByTagName("span")[5].innerText = "PAÍSES";
-    document.getElementsByTagName("span")[7].innerText = "MUDAR IDIOMA";
     }
 }
+function traduzido(){
+    if (getCookie("idioma") == "ingles") {
+      document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
+      document.getElementsByTagName("span")[3].innerText = "CONTINENTS";
+      document.getElementsByTagName("span")[5].innerText = "COUNTRIES";
+      document.getElementsByTagName("span")[7].innerText = "CHANGE LANGUAGE";
+      document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+    } else if (getCookie("idioma") == "portugues") {
+      document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
+      document.getElementsByTagName("span")[3].innerText = "CONTINENTES";
+      document.getElementsByTagName("span")[5].innerText = "PAÍSES";
+      document.getElementsByTagName("span")[7].innerText = "MUDAR IDIOMA";
+      document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+    }
+  }
+  
+  window.onload = function(){
+    traduzido();
+  }

@@ -93,7 +93,7 @@ function loadCountryData() {
         document.getElementById("bibliografia").innerText = "SOURCE: CIA WORLD FACTBOOK";
       }
       document.getElementById("mapa").src = jsonData.mapa;
-      document.getElementById("bandeira").src = "assets/paisesdados/" + nomeArquivo.split(".")[0] + ".png";
+      document.getElementById("bandeira").src = jsonData.bandeira;
     }
   };
   ajaxRequest.send();

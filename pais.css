@@ -27,6 +27,9 @@ main {
     display: flex;
     flex-direction: column;
 }
+#bandeira{
+    width: 50%;
+}
 #meio, #dados {
     background: #8CFF79;
     border-radius: 4vh;
