@@ -141,6 +141,10 @@ a:hover {
     color: cyan;
 }
 
+footer p{
+    color: white;
+}
+
 
 /* ANIMAÇÕES*/
 .gira_barras {
@@ -182,7 +186,7 @@ a:hover {
     }
 
     100% {
-        height: 113%;
+        height: var(--joazin);
     }
 }
 

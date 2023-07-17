@@ -1,0 +1,2192 @@
+{
+    "01_01": {
+        "PAISingles": "Germany",
+        "PAISportugues": "Alemanha",
+        "Arquivo": "germany.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Germany.svg"
+    },
+    "02_01": {
+        "PAISingles": "Kazakhstan",
+        "PAISportugues": "Cazaquistão",
+        "Arquivo": "kazakhstan.html",
+        "Bandeira": ""
+    },
+    "03_01": {
+        "PAISingles": "Mexico",
+        "PAISportugues": "México",
+        "Arquivo": "mexico.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+    },
+    "04_01": {
+        "PAISingles": "Canada",
+        "PAISportugues": "Canadá",
+        "Arquivo": "canada.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    "05_01": {
+        "PAISingles": "Malawi",
+        "PAISportugues": "Malawi",
+        "Arquivo": "malawi.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+    },
+    "06_01": {
+        "PAISingles": "Iran",
+        "PAISportugues": "Irã",
+        "Arquivo": "iran.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+    },
+    "07_01": {
+        "PAISingles": "Cape Verde",
+        "PAISportugues": "Cabo Verde",
+        "Arquivo": "capeverde.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+    },
+    "08_01": {
+        "PAISingles": "Laos",
+        "PAISportugues": "Laos",
+        "Arquivo": "laos.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+    },
+    "09_01": {
+        "PAISingles": "Bahrain",
+        "PAISportugues": "Bahrein",
+        "Arquivo": "bahrain.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+    },
+    "10_01": {
+        "PAISingles": "Brazil",
+        "PAISportugues": "Brasil",
+        "Arquivo": "brazil.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    "11_01": {
+        "PAISingles": "Netherlands",
+        "PAISportugues": "Países Baixos",
+        "Arquivo": "netherlands.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    "12_01": {
+        "PAISingles": "Slovenia",
+        "PAISportugues": "Eslovênia",
+        "Arquivo": "slovenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    "13_01": {
+        "PAISingles": "Vietnam",
+        "PAISportugues": "Vietnã",
+        "Arquivo": "vietnam.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    },
+    "14_01": {
+        "PAISingles": "Belize",
+        "PAISportugues": "Belize",
+        "Arquivo": "belize.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    "15_01": {
+        "PAISingles": "Libya",
+        "PAISportugues": "Líbia",
+        "Arquivo": "libya.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
+    },
+    "16_01": {
+        "PAISingles": "Ukraine",
+        "PAISportugues": "Ucrânia",
+        "Arquivo": "ukraine.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+    },
+    "17_01": {
+        "PAISingles": "Belgium",
+        "PAISportugues": "Bélgica",
+        "Arquivo": "belgium.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    "18_01": {
+        "PAISingles": "Egypt",
+        "PAISportugues": "Egito",
+        "Arquivo": "egypt.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    },
+    "19_01": {
+        "PAISingles": "Hungary",
+        "PAISportugues": "Hungria",
+        "Arquivo": "hungary.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+    },
+    "20_01": {
+        "PAISingles": "Sweden",
+        "PAISportugues": "Suécia",
+        "Arquivo": "sweden.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    },
+    "21_01": {
+        "PAISingles": "Kiribati",
+        "PAISportugues": "Kiribati",
+        "Arquivo": "kiribati.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
+    },
+    "22_01": {
+        "PAISingles": "Botswana",
+        "PAISportugues": "Botsuana",
+        "Arquivo": "botswana.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+    },
+    "23_01": {
+        "PAISingles": "Samoa",
+        "PAISportugues": "Samoa",
+        "Arquivo": "samoa.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+    },
+    "24_01": {
+        "PAISingles": "Turkey",
+        "PAISportugues": "Turquia",
+        "Arquivo": "turkey.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+    },
+    "25_01": {
+        "PAISingles": "Algeria",
+        "PAISportugues": "Argélia",
+        "Arquivo": "algeria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
+    },
+    "26_01": {
+        "PAISingles": "Australia",
+        "PAISportugues": "Austrália",
+        "Arquivo": "australia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    "27_01": {
+        "PAISingles": "Saudi Arabia",
+        "PAISportugues": "Arábia Saudita",
+        "Arquivo": "saudiarabia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+    },
+    "28_01": {
+        "PAISingles": "United States",
+        "PAISportugues": "Estados Unidos",
+        "Arquivo": "unitedstates.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    "29_01": {
+        "PAISingles": "Maldives",
+        "PAISportugues": "Maldivas",
+        "Arquivo": "maldives.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+    },
+    "30_01": {
+        "PAISingles": "Ecuador",
+        "PAISportugues": "Equador",
+        "Arquivo": "ecuador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    "31_01": {
+        "PAISingles": "Angola",
+        "PAISportugues": "Angola",
+        "Arquivo": "angola.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+    },
+    "01_02": {
+        "PAISingles": "Lithuania",
+        "PAISportugues": "Lituânia",
+        "Arquivo": "lithuania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+    },
+    "02_02": {
+        "PAISingles": "Uruguay",
+        "PAISportugues": "Uruguai",
+        "Arquivo": "uruguay.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+    },
+    "03_02": {
+        "PAISingles": "Rwanda",
+        "PAISportugues": "Ruanda",
+        "Arquivo": "rwanda.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
+    },
+    "04_02": {
+        "PAISingles": "Costa Rica",
+        "PAISportugues": "Costa Rica",
+        "Arquivo": "costarica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg"
+    },
+    "05_02": {
+        "PAISingles": "Philippines",
+        "PAISportugues": "Filipinas",
+        "Arquivo": "philippines.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+    },
+    "06_02": {
+        "PAISingles": "South Korea",
+        "PAISportugues": "Coreia do Sul",
+        "Arquivo": "southkorea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    "07_02": {
+        "PAISingles": "Serbia",
+        "PAISportugues": "Sérvia",
+        "Arquivo": "serbia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+    },
+    "08_02": {
+        "PAISingles": "Cyprus",
+        "PAISportugues": "Chipre",
+        "Arquivo": "cyprus.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+    },
+    "09_02": {
+        "PAISingles": "Slovenia",
+        "PAISportugues": "Eslovênia",
+        "Arquivo": "slovenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    "10_02": {
+        "PAISingles": "Czechia",
+        "PAISportugues": "República Tcheca",
+        "Arquivo": "czechia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+    },
+    "11_02": {
+        "PAISingles": "Bangladesh",
+        "PAISportugues": "Bangladesh",
+        "Arquivo": "bangladesh.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    "12_02": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "13_02": {
+        "PAISingles": "Finland",
+        "PAISportugues": "Finlândia",
+        "Arquivo": "finland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+    },
+    "14_02": {
+        "PAISingles": "Malawi",
+        "PAISportugues": "Malawi",
+        "Arquivo": "malawi.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+    },
+    "15_02": {
+        "PAISingles": "Colombia",
+        "PAISportugues": "Colômbia",
+        "Arquivo": "colombia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    "16_02": {
+        "PAISingles": "Jordan",
+        "PAISportugues": "Jordânia",
+        "Arquivo": "jordan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+    },
+    "17_02": {
+        "PAISingles": "Netherlands",
+        "PAISportugues": "Países Baixos",
+        "Arquivo": "netherlands.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    "18_02": {
+        "PAISingles": "Ethiopia",
+        "PAISportugues": "Etiópia",
+        "Arquivo": "ethiopia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    "19_02": {
+        "PAISingles": "Saudi Arabia",
+        "PAISportugues": "Arábia Saudita",
+        "Arquivo": "saudiarabia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+    },
+    "20_02": {
+        "PAISingles": "Dominica",
+        "PAISportugues": "Dominica",
+        "Arquivo": "dominica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+    },
+    "21_02": {
+        "PAISingles": "Ukraine",
+        "PAISportugues": "Ucrânia",
+        "Arquivo": "ukraine.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+    },
+    "22_02": {
+        "PAISingles": "Tonga",
+        "PAISportugues": "Tonga",
+        "Arquivo": "tonga.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+    },
+    "23_02": {
+        "PAISingles": "Haiti",
+        "PAISportugues": "Haiti",
+        "Arquivo": "haiti.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+    },
+    "24_02": {
+        "PAISingles": "Morocco",
+        "PAISportugues": "Marrocos",
+        "Arquivo": "morocco.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+    },
+    "25_02": {
+        "PAISingles": "Panama",
+        "PAISportugues": "Panamá",
+        "Arquivo": "panama.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+    },
+    "26_02": {
+        "PAISingles": "Slovakia",
+        "PAISportugues": "Eslováquia",
+        "Arquivo": "slovakia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    "27_02": {
+        "PAISingles": "Bolivia",
+        "PAISportugues": "Bolívia",
+        "Arquivo": "bolivia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg"
+    },
+    "28_02": {
+        "PAISingles": "Nigeria",
+        "PAISportugues": "Nigéria",
+        "Arquivo": "nigeria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    "01_03": {
+        "PAISingles": "Qatar",
+        "PAISportugues": "Catar",
+        "Arquivo": "qatar.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
+    },
+    "02_03": {
+        "PAISingles": "Sweden",
+        "PAISportugues": "Suécia",
+        "Arquivo": "sweden.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    },
+    "03_03": {
+        "PAISingles": "Saint Vincent and the Grenadines",
+        "PAISportugues": "São Vicente e Granadinas",
+        "Arquivo": "saintvincentandthegrenadines.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+    },
+    "04_03": {
+        "PAISingles": "Ghana",
+        "PAISportugues": "Gana",
+        "Arquivo": "ghana.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+    },
+    "05_03": {
+        "PAISingles": "Albania",
+        "PAISportugues": "Albânia",
+        "Arquivo": "albania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+    },
+    "06_03": {
+        "PAISingles": "Jamaica",
+        "PAISportugues": "Jamaica",
+        "Arquivo": "jamaica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
+    },
+    "07_03": {
+        "PAISingles": "Comoros",
+        "PAISportugues": "Comores",
+        "Arquivo": "comoros.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+    },
+    "08_03": {
+        "PAISingles": "Indonesia",
+        "PAISportugues": "Indonésia",
+        "Arquivo": "indonesia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+    },
+    "09_03": {
+        "PAISingles": "Belize",
+        "PAISportugues": "Belize",
+        "Arquivo": "belize.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    "10_03": {
+        "PAISingles": "China",
+        "PAISportugues": "China",
+        "Arquivo": "china.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    "11_03": {
+        "PAISingles": "Lithuania",
+        "PAISportugues": "Lituânia",
+        "Arquivo": "lithuania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+    },
+    "12_03": {
+        "PAISingles": "Kenya",
+        "PAISportugues": "Quênia",
+        "Arquivo": "kenya.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
+    },
+    "13_03": {
+        "PAISingles": "Equatorial Guinea",
+        "PAISportugues": "Guiné Equatorial",
+        "Arquivo": "equatorialguinea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+    },
+    "14_03": {
+        "PAISingles": "Uzbekistan",
+        "PAISportugues": "Uzbequistão",
+        "Arquivo": "uzbekistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+    },
+    "15_03": {
+        "PAISingles": "Hungary",
+        "PAISportugues": "Hungria",
+        "Arquivo": "hungary.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+    },
+    "16_03": {
+        "PAISingles": "Timor-Leste",
+        "PAISportugues": "Timor-Leste",
+        "Arquivo": "timorleste.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg"
+    },
+    "17_03": {
+        "PAISingles": "Ireland",
+        "PAISportugues": "Irlanda",
+        "Arquivo": "ireland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+    },
+    "18_03": {
+        "PAISingles": "Jordan",
+        "PAISportugues": "Jordânia",
+        "Arquivo": "jordan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+    },
+    "19_03": {
+        "PAISingles": "Andorra",
+        "PAISportugues": "Andorra",
+        "Arquivo": "andorra.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+    },
+    "20_03": {
+        "PAISingles": "Tunisia",
+        "PAISportugues": "Tunísia",
+        "Arquivo": "tunisia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+    },
+    "21_03": {
+        "PAISingles": "Switzerland",
+        "PAISportugues": "Suíça",
+        "Arquivo": "switzerland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+    },
+    "22_03": {
+        "PAISingles": "Mali",
+        "PAISportugues": "Mali",
+        "Arquivo": "mali.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg"
+    },
+    "23_03": {
+        "PAISingles": "Pakistan",
+        "PAISportugues": "Paquistão",
+        "Arquivo": "pakistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    "24_03": {
+        "PAISingles": "Croatia",
+        "PAISportugues": "Croácia",
+        "Arquivo": "croatia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+    },
+    "25_03": {
+        "PAISingles": "Greece",
+        "PAISportugues": "Grécia",
+        "Arquivo": "greece.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+    },
+    "26_03": {
+        "PAISingles": "Bangladesh",
+        "PAISportugues": "Bangladesh",
+        "Arquivo": "bangladesh.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    "27_03": {
+        "PAISingles": "South Korea",
+        "PAISportugues": "Coreia do Sul",
+        "Arquivo": "southkorea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    "28_03": {
+        "PAISingles": "Chile",
+        "PAISportugues": "Chile",
+        "Arquivo": "chile.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+    },
+    "29_03": {
+        "PAISingles": "Moldova",
+        "PAISportugues": "Moldávia",
+        "Arquivo": "moldova.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+    },
+    "30_03": {
+        "PAISingles": "Trinidad and Tobago",
+        "PAISportugues": "Trinidad e Tobago",
+        "Arquivo": "trinidadandtobago.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+    },
+    "31_03": {
+        "PAISingles": "Namibia",
+        "PAISportugues": "Namíbia",
+        "Arquivo": "namibia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+    },
+    "01_04": {
+        "PAISingles": "Iran",
+        "PAISportugues": "Irã",
+        "Arquivo": "iran.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+    },
+    "02_04": {
+        "PAISingles": "Nepal",
+        "PAISportugues": "Nepal",
+        "Arquivo": "nepal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    "03_04": {
+        "PAISingles": "Micronesia",
+        "PAISportugues": "Micronésia",
+        "Arquivo": "micronesia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg"
+    },
+    "04_04": {
+        "PAISingles": "Mauritius",
+        "PAISportugues": "Maurício",
+        "Arquivo": "mauritius.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
+    },
+    "05_04": {
+        "PAISingles": "North Macedonia",
+        "PAISportugues": "Macedônia do Norte",
+        "Arquivo": "northmacedonia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_North_Macedonia.svg"
+    },
+    "06_04": {
+        "PAISingles": "Germany",
+        "PAISportugues": "Alemanha",
+        "Arquivo": "germany.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Germany.svg"
+    },
+    "07_04": {
+        "PAISingles": "Kyrgyzstan",
+        "PAISportugues": "Quirguistão",
+        "Arquivo": "kyrgyzstan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    "08_04": {
+        "PAISingles": "Lesotho",
+        "PAISportugues": "Lesoto",
+        "Arquivo": "lesotho.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"
+    },
+    "09_04": {
+        "PAISingles": "Palau",
+        "PAISportugues": "Palau",
+        "Arquivo": "palau.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
+    },
+    "10_04": {
+        "PAISingles": "Italy",
+        "PAISportugues": "Itália",
+        "Arquivo": "italy.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+    },
+    "11_04": {
+        "PAISingles": "Laos",
+        "PAISportugues": "Laos",
+        "Arquivo": "laos.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+    },
+    "12_04": {
+        "PAISingles": "Bahamas",
+        "PAISportugues": "Bahamas",
+        "Arquivo": "bahamas.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    "13_04": {
+        "PAISingles": "Cameroon",
+        "PAISportugues": "Camarões",
+        "Arquivo": "cameroon.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+    },
+    "14_04": {
+        "PAISingles": "Sudan",
+        "PAISportugues": "Sudão",
+        "Arquivo": "sudan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+    },
+    "15_04": {
+        "PAISingles": "Cuba",
+        "PAISportugues": "Cuba",
+        "Arquivo": "cuba.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+    },
+    "16_04": {
+        "PAISingles": "Guinea",
+        "PAISportugues": "Guiné",
+        "Arquivo": "guinea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"
+    },
+    "17_04": {
+        "PAISingles": "Romania",
+        "PAISportugues": "Romênia",
+        "Arquivo": "romania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+    },
+    "18_04": {
+        "PAISingles": "Zimbabwe",
+        "PAISportugues": "Zimbábue",
+        "Arquivo": "zimbabwe.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+    },
+    "19_04": {
+        "PAISingles": "Benin",
+        "PAISportugues": "Benin",
+        "Arquivo": "benin.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
+    },
+    "20_04": {
+        "PAISingles": "Australia",
+        "PAISportugues": "Austrália",
+        "Arquivo": "australia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    "21_04": {
+        "PAISingles": "El Salvador",
+        "PAISportugues": "El Salvador",
+        "Arquivo": "elsalvador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+    },
+    "22_04": {
+        "PAISingles": "Serbia",
+        "PAISportugues": "Sérvia",
+        "Arquivo": "serbia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+    },
+    "23_04": {
+        "PAISingles": "Niger",
+        "PAISportugues": "Níger",
+        "Arquivo": "niger.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
+    },
+    "24_04": {
+        "PAISingles": "Iceland",
+        "PAISportugues": "Islândia",
+        "Arquivo": "iceland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+    },
+    "25_04": {
+        "PAISingles": "Tanzania",
+        "PAISportugues": "Tanzânia",
+        "Arquivo": "tanzania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+    },
+    "26_04": {
+        "PAISingles": "Mauritania",
+        "PAISportugues": "Mauritânia",
+        "Arquivo": "mauritania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
+    },
+    "27_04": {
+        "PAISingles": "Paraguay",
+        "PAISportugues": "Paraguai",
+        "Arquivo": "paraguay.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+    },
+    "28_04": {
+        "PAISingles": "Barbados",
+        "PAISportugues": "Barbados",
+        "Arquivo": "barbados.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+    },
+    "29_04": {
+        "PAISingles": "South Africa",
+        "PAISportugues": "África do Sul",
+        "Arquivo": "southafrica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    "30_04": {
+        "PAISingles": "Nepal",
+        "PAISportugues": "Nepal",
+        "Arquivo": "nepal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    "01_05": {
+        "PAISingles": "Uganda",
+        "PAISportugues": "Uganda",
+        "Arquivo": "uganda.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+    },
+    "02_05": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "03_05": {
+        "PAISingles": "Poland",
+        "PAISportugues": "Polônia",
+        "Arquivo": "poland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+    },
+    "04_05": {
+        "PAISingles": "Sao Tome and Principe",
+        "PAISportugues": "São Tomé e Príncipe",
+        "Arquivo": "saotomeandprincipe.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg"
+    },
+    "05_05": {
+        "PAISingles": "Denmark",
+        "PAISportugues": "Dinamarca",
+        "Arquivo": "denmark.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+    },
+    "06_05": {
+        "PAISingles": "Suriname",
+        "PAISportugues": "Suriname",
+        "Arquivo": "suriname.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+    },
+    "07_05": {
+        "PAISingles": "Turkey",
+        "PAISportugues": "Turquia",
+        "Arquivo": "turkey.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+    },
+    "08_05": {
+        "PAISingles": "Ethiopia",
+        "PAISportugues": "Etiópia",
+        "Arquivo": "ethiopia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    "09_05": {
+        "PAISingles": "Kyrgyzstan",
+        "PAISportugues": "Quirguistão",
+        "Arquivo": "kyrgyzstan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    "10_05": {
+        "PAISingles": "Equatorial Guinea",
+        "PAISportugues": "Guiné Equatorial",
+        "Arquivo": "equatorialguinea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+    },
+    "11_05": {
+        "PAISingles": "Canada",
+        "PAISportugues": "Canadá",
+        "Arquivo": "canada.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    "12_05": {
+        "PAISingles": "Israel",
+        "PAISportugues": "Israel",
+        "Arquivo": "israel.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+    },
+    "13_05": {
+        "PAISingles": "Saint Kitts and Nevis",
+        "PAISportugues": "Saint Kitts e Nevis",
+        "Arquivo": "saintkittsandnevis.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+    },
+    "14_05": {
+        "PAISingles": "Thailand",
+        "PAISportugues": "Tailândia",
+        "Arquivo": "thailand.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+    },
+    "15_05": {
+        "PAISingles": "Paraguay",
+        "PAISportugues": "Paraguai",
+        "Arquivo": "paraguay.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+    },
+    "16_05": {
+        "PAISingles": "Slovenia",
+        "PAISportugues": "Eslovênia",
+        "Arquivo": "slovenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    "17_05": {
+        "PAISingles": "Norway",
+        "PAISportugues": "Noruega",
+        "Arquivo": "norway.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    },
+    "18_05": {
+        "PAISingles": "Haiti",
+        "PAISportugues": "Haiti",
+        "Arquivo": "haiti.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+    },
+    "19_05": {
+        "PAISingles": "Turkmenistan",
+        "PAISportugues": "Turcomenistão",
+        "Arquivo": "turkmenistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+    },
+    "20_05": {
+        "PAISingles": "Cuba",
+        "PAISportugues": "Cuba",
+        "Arquivo": "cuba.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+    },
+    "21_05": {
+        "PAISingles": "Montenegro",
+        "PAISportugues": "Montenegro",
+        "Arquivo": "montenegro.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+    },
+    "22_05": {
+        "PAISingles": "Yemen",
+        "PAISportugues": "Iêmen",
+        "Arquivo": "yemen.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
+    },
+    "23_05": {
+        "PAISingles": "Latvia",
+        "PAISportugues": "Letônia",
+        "Arquivo": "latvia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+    },
+    "24_05": {
+        "PAISingles": "Ecuador",
+        "PAISportugues": "Equador",
+        "Arquivo": "ecuador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    "25_05": {
+        "PAISingles": "Lithuania",
+        "PAISportugues": "Lituânia",
+        "Arquivo": "lithuania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+    },
+    "26_05": {
+        "PAISingles": "Georgia",
+        "PAISportugues": "Geórgia",
+        "Arquivo": "georgia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+    },
+    "27_05": {
+        "PAISingles": "Bolivia",
+        "PAISportugues": "Bolívia",
+        "Arquivo": "bolivia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg"
+    },
+    "28_05": {
+        "PAISingles": "Nepal",
+        "PAISportugues": "Nepal",
+        "Arquivo": "nepal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    "29_05": {
+        "PAISingles": "Nigeria",
+        "PAISportugues": "Nigéria",
+        "Arquivo": "nigeria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    "30_05": {
+        "PAISingles": "Central African Republic",
+        "PAISportugues": "República Centro-Africana",
+        "Arquivo": "centralafricanrepublic.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+    },
+    "31_05": {
+        "PAISingles": "San Marino",
+        "PAISportugues": "San Marino",
+        "Arquivo": "sanmarino.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+    },
+    "01_06": {
+        "PAISingles": "Mongolia",
+        "PAISportugues": "Mongólia",
+        "Arquivo": "mongolia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+    },
+    "02_06": {
+        "PAISingles": "Italy",
+        "PAISportugues": "Itália",
+        "Arquivo": "italy.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+    },
+    "03_06": {
+        "PAISingles": "Belgium",
+        "PAISportugues": "Bélgica",
+        "Arquivo": "belgium.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    "04_06": {
+        "PAISingles": "Seychelles",
+        "PAISportugues": "Seicheles",
+        "Arquivo": "seychelles.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    },
+    "05_06": {
+        "PAISingles": "Venezuela",
+        "PAISportugues": "Venezuela",
+        "Arquivo": "venezuela.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg"
+    },
+    "06_06": {
+        "PAISingles": "Sweden",
+        "PAISportugues": "Suécia",
+        "Arquivo": "sweden.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    },
+    "07_06": {
+        "PAISingles": "Tajikistan",
+        "PAISportugues": "Tajiquistão",
+        "Arquivo": "tajikistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+    },
+    "08_06": {
+        "PAISingles": "Mauritius",
+        "PAISportugues": "Maurício",
+        "Arquivo": "mauritius.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
+    },
+    "09_06": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "10_06": {
+        "PAISingles": "Portugal",
+        "PAISportugues": "Portugal",
+        "Arquivo": "portugal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    "11_06": {
+        "PAISingles": "Philippines",
+        "PAISportugues": "Filipinas",
+        "Arquivo": "philippines.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+    },
+    "12_06": {
+        "PAISingles": "Russia",
+        "PAISportugues": "Rússia",
+        "Arquivo": "russia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    "13_06": {
+        "PAISingles": "Turkmenistan",
+        "PAISportugues": "Turcomenistão",
+        "Arquivo": "turkmenistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+    },
+    "14_06": {
+        "PAISingles": "Comoros",
+        "PAISportugues": "Comores",
+        "Arquivo": "comoros.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+    },
+    "15_06": {
+        "PAISingles": "Denmark",
+        "PAISportugues": "Dinamarca",
+        "Arquivo": "denmark.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+    },
+    "16_06": {
+        "PAISingles": "Bhutan",
+        "PAISportugues": "Butão",
+        "Arquivo": "bhutan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+    },
+    "17_06": {
+        "PAISingles": "Iceland",
+        "PAISportugues": "Islândia",
+        "Arquivo": "iceland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+    },
+    "18_06": {
+        "PAISingles": "Honduras",
+        "PAISportugues": "Honduras",
+        "Arquivo": "honduras.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
+    },
+    "19_06": {
+        "PAISingles": "Eritrea",
+        "PAISportugues": "Eritreia",
+        "Arquivo": "eritrea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+    },
+    "20_06": {
+        "PAISingles": "Cameroon",
+        "PAISportugues": "Camarões",
+        "Arquivo": "cameroon.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+    },
+    "21_06": {
+        "PAISingles": "Greenland",
+        "PAISportugues": "Groenlândia",
+        "Arquivo": "greenland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
+    },
+    "22_06": {
+        "PAISingles": "Greece",
+        "PAISportugues": "Grécia",
+        "Arquivo": "greece.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+    },
+    "23_06": {
+        "PAISingles": "Luxembourg",
+        "PAISportugues": "Luxemburgo",
+        "Arquivo": "luxembourg.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+    },
+    "24_06": {
+        "PAISingles": "Saint-Jean-Baptiste Day",
+        "PAISportugues": "Dia de São João Batista",
+        "Arquivo": "saintjeanbaptisteday.html",
+        "Bandeira": ""
+    },
+    "25_06": {
+        "PAISingles": "Mozambique",
+        "PAISportugues": "Moçambique",
+        "Arquivo": "mozambique.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+    },
+    "26_06": {
+        "PAISingles": "Madagascar",
+        "PAISportugues": "Madagascar",
+        "Arquivo": "madagascar.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+    },
+    "27_06": {
+        "PAISingles": "Djibouti",
+        "PAISportugues": "Djibouti",
+        "Arquivo": "djibouti.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
+    },
+    "28_06": {
+        "PAISingles": "Slovakia",
+        "PAISportugues": "Eslováquia",
+        "Arquivo": "slovakia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    "29_06": {
+        "PAISingles": "Seychelles",
+        "PAISportugues": "Seicheles",
+        "Arquivo": "seychelles.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    },
+    "30_06": {
+        "PAISingles": "Congo",
+        "PAISportugues": "Congo",
+        "Arquivo": "congo.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+    },
+    "01_07": {
+        "PAISingles": "Burundi",
+        "PAISportugues": "Burundi",
+        "Arquivo": "burundi.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+    },
+    "02_07": {
+        "PAISingles": "Bahamas",
+        "PAISportugues": "Bahamas",
+        "Arquivo": "bahamas.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    "03_07": {
+        "PAISingles": "Belarus",
+        "PAISportugues": "Bielorrússia",
+        "Arquivo": "belarus.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+    },
+    "04_07": {
+        "PAISingles": "United States",
+        "PAISportugues": "Estados Unidos",
+        "Arquivo": "unitedstates.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    "05_07": {
+        "PAISingles": "Cape Verde",
+        "PAISportugues": "Cabo Verde",
+        "Arquivo": "capeverde.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+    },
+    "06_07": {
+        "PAISingles": "Comoros",
+        "PAISportugues": "Comores",
+        "Arquivo": "comoros.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+    },
+    "07_07": {
+        "PAISingles": "Kyrgyzstan",
+        "PAISportugues": "Quirguistão",
+        "Arquivo": "kyrgyzstan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    "08_07": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "09_07": {
+        "PAISingles": "South Sudan",
+        "PAISportugues": "Sudão do Sul",
+        "Arquivo": "southsudan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+    },
+    "10_07": {
+        "PAISingles": "Bahamas",
+        "PAISportugues": "Bahamas",
+        "Arquivo": "bahamas.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    "11_07": {
+        "PAISingles": "Mongolia",
+        "PAISportugues": "Mongólia",
+        "Arquivo": "mongolia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+    },
+    "12_07": {
+        "PAISingles": "Kiribati",
+        "PAISportugues": "Kiribati",
+        "Arquivo": "kiribati.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
+    },
+    "13_07": {
+        "PAISingles": "Montenegro",
+        "PAISportugues": "Montenegro",
+        "Arquivo": "montenegro.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+    },
+    "14_07": {
+        "PAISingles": "France",
+        "PAISportugues": "França",
+        "Arquivo": "france.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    "15_07": {
+        "PAISingles": "São Tomé and Príncipe",
+        "PAISportugues": "São Tomé e Príncipe",
+        "Arquivo": "saotomeandprincipe.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg"
+    },
+    "16_07": {
+        "PAISingles": "Uruguay",
+        "PAISportugues": "Uruguai",
+        "Arquivo": "uruguay.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+    },
+    "17_07": {
+        "PAISingles": "South Korea",
+        "PAISportugues": "Coreia do Sul",
+        "Arquivo": "southkorea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    "18_07": {
+        "PAISingles": "Estonia",
+        "PAISportugues": "Estônia",
+        "Arquivo": "estonia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+    },
+    "19_07": {
+        "PAISingles": "Finland",
+        "PAISportugues": "Finlândia",
+        "Arquivo": "finland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+    },
+    "20_07": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "21_07": {
+        "PAISingles": "Sudan",
+        "PAISportugues": "Sudão",
+        "Arquivo": "sudan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+    },
+    "22_07": {
+        "PAISingles": "Ecuador",
+        "PAISportugues": "Equador",
+        "Arquivo": "ecuador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    "23_07": {
+        "PAISingles": "Bahamas",
+        "PAISportugues": "Bahamas",
+        "Arquivo": "bahamas.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    "24_07": {
+        "PAISingles": "Zimbabwe",
+        "PAISportugues": "Zimbábue",
+        "Arquivo": "zimbabwe.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+    },
+    "25_07": {
+        "PAISingles": "Serbia",
+        "PAISportugues": "Sérvia",
+        "Arquivo": "serbia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+    },
+    "26_07": {
+        "PAISingles": "Antigua and Barbuda",
+        "PAISportugues": "Antígua e Barbuda",
+        "Arquivo": "antigua_and_barbuda.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+    },
+    "27_07": {
+        "PAISingles": "Seychelles",
+        "PAISportugues": "Seicheles",
+        "Arquivo": "seychelles.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    },
+    "28_07": {
+        "PAISingles": "Belize",
+        "PAISportugues": "Belize",
+        "Arquivo": "belize.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    "29_07": {
+        "PAISingles": "Nigeria",
+        "PAISportugues": "Nigéria",
+        "Arquivo": "nigeria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    "30_07": {
+        "PAISingles": "Monaco",
+        "PAISportugues": "Mônaco",
+        "Arquivo": "monaco.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+    },
+    "31_07": {
+        "PAISingles": "China",
+        "PAISportugues": "China",
+        "Arquivo": "china.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    "01_08": {
+        "PAISingles": "Vanuatu",
+        "PAISportugues": "Vanuatu",
+        "Arquivo": "vanuatu.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu_%281980%E2%80%931987%29.svg"
+    },
+    "02_08": {
+        "PAISingles": "Mauritius",
+        "PAISportugues": "Maurício",
+        "Arquivo": "mauritius.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
+    },
+    "03_08": {
+        "PAISingles": "Germany",
+        "PAISportugues": "Alemanha",
+        "Arquivo": "germany.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    "04_08": {
+        "PAISingles": "India",
+        "PAISportugues": "Índia",
+        "Arquivo": "india.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+    },
+    "05_08": {
+        "PAISingles": "Denmark",
+        "PAISportugues": "Dinamarca",
+        "Arquivo": "denmark.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+    },
+    "06_08": {
+        "PAISingles": "Slovakia",
+        "PAISportugues": "Eslováquia",
+        "Arquivo": "slovakia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    "07_08": {
+        "PAISingles": "Latvia",
+        "PAISportugues": "Letônia",
+        "Arquivo": "latvia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+    },
+    "08_08": {
+        "PAISingles": "Costa Rica",
+        "PAISportugues": "Costa Rica",
+        "Arquivo": "costa_rica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg"
+    },
+    "09_08": {
+        "PAISingles": "France",
+        "PAISportugues": "França",
+        "Arquivo": "france.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    "10_08": {
+        "PAISingles": "Ethiopia",
+        "PAISportugues": "Etiópia",
+        "Arquivo": "ethiopia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    "11_08": {
+        "PAISingles": "Fiji",
+        "PAISportugues": "Fiji",
+        "Arquivo": "fiji.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+    },
+    "12_08": {
+        "PAISingles": "Lebanon",
+        "PAISportugues": "Líbano",
+        "Arquivo": "lebanon.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+    },
+    "13_08": {
+        "PAISingles": "Kyrgyzstan",
+        "PAISportugues": "Quirguistão",
+        "Arquivo": "kyrgyzstan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    "14_08": {
+        "PAISingles": "Panama",
+        "PAISportugues": "Panamá",
+        "Arquivo": "panama.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+    },
+    "15_08": {
+        "PAISingles": "Greece",
+        "PAISportugues": "Grécia",
+        "Arquivo": "greece.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+    },
+    "16_08": {
+        "PAISingles": "Colombia",
+        "PAISportugues": "Colômbia",
+        "Arquivo": "colombia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    "17_08": {
+        "PAISingles": "Mozambique",
+        "PAISportugues": "Moçambique",
+        "Arquivo": "mozambique.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+    },
+    "18_08": {
+        "PAISingles": "Mongolia",
+        "PAISportugues": "Mongólia",
+        "Arquivo": "mongolia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+    },
+    "19_08": {
+        "PAISingles": "Honduras",
+        "PAISportugues": "Honduras",
+        "Arquivo": "honduras.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
+    },
+    "20_08": {
+        "PAISingles": "Iraq",
+        "PAISportugues": "Iraque",
+        "Arquivo": "iraq.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
+    },
+    "21_08": {
+        "PAISingles": "Brazil",
+        "PAISportugues": "Brasil",
+        "Arquivo": "brazil.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    "22_08": {
+        "PAISingles": "Slovenia",
+        "PAISportugues": "Eslovênia",
+        "Arquivo": "slovenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    "23_08": {
+        "PAISingles": "Morocco",
+        "PAISportugues": "Marrocos",
+        "Arquivo": "morocco.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+    },
+    "24_08": {
+        "PAISingles": "Azerbaijan",
+        "PAISportugues": "Azerbaijão",
+        "Arquivo": "azerbaijan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+    },
+    "25_08": {
+        "PAISingles": "Tonga",
+        "PAISportugues": "Tonga",
+        "Arquivo": "tonga.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+    },
+    "26_08": {
+        "PAISingles": "South Korea",
+        "PAISportugues": "Coreia do Sul",
+        "Arquivo": "south_korea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    "27_08": {
+        "PAISingles": "Suriname",
+        "PAISportugues": "Suriname",
+        "Arquivo": "suriname.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+    },
+    "28_08": {
+        "PAISingles": "Lithuania",
+        "PAISportugues": "Lituânia",
+        "Arquivo": "lithuania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+    },
+    "29_08": {
+        "PAISingles": "Mexico",
+        "PAISportugues": "México",
+        "Arquivo": "mexico.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+    },
+    "30_08": {
+        "PAISingles": "El Salvador",
+        "PAISportugues": "El Salvador",
+        "Arquivo": "el_salvador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+    },
+    "31_08": {
+        "PAISingles": "Iran",
+        "PAISportugues": "Irã",
+        "Arquivo": "iran.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+    },
+    "01_09": {
+        "PAISingles": "New Zealand",
+        "PAISportugues": "Nova Zelândia",
+        "Arquivo": "new_zealand.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    },
+    "02_09": {
+        "PAISingles": "Chile",
+        "PAISportugues": "Chile",
+        "Arquivo": "chile.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+    },
+    "03_09": {
+        "PAISingles": "Sudan",
+        "PAISportugues": "Sudão",
+        "Arquivo": "sudan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+    },
+    "04_09": {
+        "PAISingles": "Guyana",
+        "PAISportugues": "Guiana",
+        "Arquivo": "guyana.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
+    },
+    "05_09": {
+        "PAISingles": "Estonia",
+        "PAISportugues": "Estônia",
+        "Arquivo": "estonia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+    },
+    "06_09": {
+        "PAISingles": "China",
+        "PAISportugues": "China",
+        "Arquivo": "china.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    "07_09": {
+        "PAISingles": "Antigua and Barbuda",
+        "PAISportugues": "Antígua e Barbuda",
+        "Arquivo": "antigua_and_barbuda.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+    },
+    "08_09": {
+        "PAISingles": "Armenia",
+        "PAISportugues": "Armênia",
+        "Arquivo": "armenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+    },
+    "09_09": {
+        "PAISingles": "India",
+        "PAISportugues": "Índia",
+        "Arquivo": "india.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+    },
+    "10_09": {
+        "PAISingles": "Zambia",
+        "PAISportugues": "Zâmbia",
+        "Arquivo": "zambia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+    },
+    "11_09": {
+        "PAISingles": "Colombia",
+        "PAISportugues": "Colômbia",
+        "Arquivo": "colombia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    "12_09": {
+        "PAISingles": "Saint Lucia",
+        "PAISportugues": "Santa Lúcia",
+        "Arquivo": "saint_lucia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+    },
+    "13_09": {
+        "PAISingles": "Maldives",
+        "PAISportugues": "Maldivas",
+        "Arquivo": "maldives.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+    },
+    "14_09": {
+        "PAISingles": "Croatia",
+        "PAISportugues": "Croácia",
+        "Arquivo": "croatia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+    },
+    "15_09": {
+        "PAISingles": "Germany",
+        "PAISportugues": "Alemanha",
+        "Arquivo": "germany.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    "16_09": {
+        "PAISingles": "Costa Rica",
+        "PAISportugues": "Costa Rica",
+        "Arquivo": "costa_rica.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg"
+    },
+    "17_09": {
+        "PAISingles": "Bahrain",
+        "PAISportugues": "Bahrein",
+        "Arquivo": "bahrain.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+    },
+    "18_09": {
+        "PAISingles": "Namibia",
+        "PAISportugues": "Namíbia",
+        "Arquivo": "namibia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+    },
+    "19_09": {
+        "PAISingles": "Venezuela",
+        "PAISportugues": "Venezuela",
+        "Arquivo": "venezuela.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
+    },
+    "20_09": {
+        "PAISingles": "Haiti",
+        "PAISportugues": "Haiti",
+        "Arquivo": "haiti.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+    },
+    "21_09": {
+        "PAISingles": "Laos",
+        "PAISportugues": "Laos",
+        "Arquivo": "laos.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+    },
+    "22_09": {
+        "PAISingles": "Hungary",
+        "PAISportugues": "Hungria",
+        "Arquivo": "hungary.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+    },
+    "23_09": {
+        "PAISingles": "Solomon Islands",
+        "PAISportugues": "Ilhas Salomão",
+        "Arquivo": "solomon_islands.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
+    },
+    "24_09": {
+        "PAISingles": "Brunei",
+        "PAISportugues": "Brunei",
+        "Arquivo": "brunei.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+    },
+    "25_09": {
+        "PAISingles": "Madagascar",
+        "PAISportugues": "Madagascar",
+        "Arquivo": "madagascar.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+    },
+    "26_09": {
+        "PAISingles": "Bahamas",
+        "PAISportugues": "Bahamas",
+        "Arquivo": "bahamas.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    "27_09": {
+        "PAISingles": "Canada",
+        "PAISportugues": "Canadá",
+        "Arquivo": "canada.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    "28_09": {
+        "PAISingles": "Malawi",
+        "PAISportugues": "Malawi",
+        "Arquivo": "malawi.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+    },
+    "29_09": {
+        "PAISingles": "Montenegro",
+        "PAISportugues": "Montenegro",
+        "Arquivo": "montenegro.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+    },
+    "30_09": {
+        "PAISingles": "Russia",
+        "PAISportugues": "Rússia",
+        "Arquivo": "russia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    "01_10": {
+        "PAISingles": "Burkina Faso",
+        "PAISportugues": "Burquina Faso",
+        "Arquivo": "burkina_faso.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
+    },
+    "02_10": {
+        "PAISingles": "Syria",
+        "PAISportugues": "Síria",
+        "Arquivo": "syria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
+    },
+    "03_10": {
+        "PAISingles": "Angola",
+        "PAISportugues": "Angola",
+        "Arquivo": "angola.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+    },
+    "04_10": {
+        "PAISingles": "Eswatini",
+        "PAISportugues": "Eswatini",
+        "Arquivo": "eswatini.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Eswatini.svg"
+    },
+    "05_10": {
+        "PAISingles": "Iran",
+        "PAISportugues": "Irã",
+        "Arquivo": "iran.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+    },
+    "06_10": {
+        "PAISingles": "Belgium",
+        "PAISportugues": "Bélgica",
+        "Arquivo": "belgium.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    "07_10": {
+        "PAISingles": "Fiji",
+        "PAISportugues": "Fiji",
+        "Arquivo": "fiji.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+    },
+    "08_10": {
+        "PAISingles": "Barbados",
+        "PAISportugues": "Barbados",
+        "Arquivo": "barbados.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+    },
+    "09_10": {
+        "PAISingles": "Austria",
+        "PAISportugues": "Áustria",
+        "Arquivo": "austria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+    },
+    "10_10": {
+        "PAISingles": "Greece",
+        "PAISportugues": "Grécia",
+        "Arquivo": "greece.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+    },
+    "11_10": {
+        "PAISingles": "Maldives",
+        "PAISportugues": "Maldivas",
+        "Arquivo": "maldives.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+    },
+    "12_10": {
+        "PAISingles": "Nepal",
+        "PAISportugues": "Nepal",
+        "Arquivo": "nepal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    "13_10": {
+        "PAISingles": "Israel",
+        "PAISportugues": "Israel",
+        "Arquivo": "israel.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+    },
+    "14_10": {
+        "PAISingles": "Switzerland",
+        "PAISportugues": "Suíça",
+        "Arquivo": "switzerland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
+    },
+    "15_10": {
+        "PAISingles": "Equatorial Guinea",
+        "PAISportugues": "Guiné Equatorial",
+        "Arquivo": "equatorial_guinea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+    },
+    "16_10": {
+        "PAISingles": "Peru",
+        "PAISportugues": "Peru",
+        "Arquivo": "peru.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+    },
+    "17_10": {
+        "PAISingles": "North Korea",
+        "PAISportugues": "Coreia do Norte",
+        "Arquivo": "north_korea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg"
+    },
+    "18_10": {
+        "PAISingles": "Tunisia",
+        "PAISportugues": "Tunísia",
+        "Arquivo": "tunisia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+    },
+    "19_10": {
+        "PAISingles": "Seychelles",
+        "PAISportugues": "Seicheles",
+        "Arquivo": "seychelles.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    },
+    "20_10": {
+        "PAISingles": "Bulgaria",
+        "PAISportugues": "Bulgária",
+        "Arquivo": "bulgaria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+    },
+    "21_10": {
+        "PAISingles": "Belize",
+        "PAISportugues": "Belize",
+        "Arquivo": "belize.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    "22_10": {
+        "PAISingles": "Czechia",
+        "PAISportugues": "República Tcheca",
+        "Arquivo": "czechia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+    },
+    "23_10": {
+        "PAISingles": "Botswana",
+        "PAISportugues": "Botsuana",
+        "Arquivo": "botswana.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+    },
+    "24_10": {
+        "PAISingles": "Zimbabwe",
+        "PAISportugues": "Zimbábue",
+        "Arquivo": "zimbabwe.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+    },
+    "25_10": {
+        "PAISingles": "Liberia",
+        "PAISportugues": "Libéria",
+        "Arquivo": "liberia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg"
+    },
+    "26_10": {
+        "PAISingles": "Azerbaijan",
+        "PAISportugues": "Azerbaijão",
+        "Arquivo": "azerbaijan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+    },
+    "27_10": {
+        "PAISingles": "Finland",
+        "PAISportugues": "Finlândia",
+        "Arquivo": "finland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+    },
+    "28_10": {
+        "PAISingles": "South Africa",
+        "PAISportugues": "África do Sul",
+        "Arquivo": "south_africa.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    "29_10": {
+        "PAISingles": "Turkey",
+        "PAISportugues": "Turquia",
+        "Arquivo": "turkey.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+    },
+    "30_10": {
+        "PAISingles": "Vanuatu",
+        "PAISportugues": "Vanuatu",
+        "Arquivo": "vanuatu.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg"
+    },
+    "31_10": {
+        "PAISingles": "Slovakia",
+        "PAISportugues": "Eslováquia",
+        "Arquivo": "slovakia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    "01_11": {
+        "PAISingles": "Dominican Republic",
+        "PAISportugues": "República Dominicana",
+        "Arquivo": "dominican_republic.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+    },
+    "02_11": {
+        "PAISingles": "Micronesia",
+        "PAISportugues": "Micronésia",
+        "Arquivo": "micronesia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg"
+    },
+    "03_11": {
+        "PAISingles": "Australia",
+        "PAISportugues": "Austrália",
+        "Arquivo": "australia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    "04_11": {
+        "PAISingles": "Honduras",
+        "PAISportugues": "Honduras",
+        "Arquivo": "honduras.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
+    },
+    "05_11": {
+        "PAISingles": "Nigeria",
+        "PAISportugues": "Nigéria",
+        "Arquivo": "nigeria.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    "06_11": {
+        "PAISingles": "Sweden",
+        "PAISportugues": "Suécia",
+        "Arquivo": "sweden.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    },
+    "07_11": {
+        "PAISingles": "Tajikistan",
+        "PAISportugues": "Tajiquistão",
+        "Arquivo": "tajikistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+    },
+    "08_11": {
+        "PAISingles": "Mozambique",
+        "PAISportugues": "Moçambique",
+        "Arquivo": "mozambique.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+    },
+    "09_11": {
+        "PAISingles": "Pakistan",
+        "PAISportugues": "Paquistão",
+        "Arquivo": "pakistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    "10_11": {
+        "PAISingles": "Slovenia",
+        "PAISportugues": "Eslovênia",
+        "Arquivo": "slovenia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    "11_11": {
+        "PAISingles": "Latvia",
+        "PAISportugues": "Letônia",
+        "Arquivo": "latvia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+    },
+    "12_11": {
+        "PAISingles": "Anguilla",
+        "PAISportugues": "Anguilla",
+        "Arquivo": "anguilla.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg"
+    },
+    "13_11": {
+        "PAISingles": "Cameroon",
+        "PAISportugues": "Camarões",
+        "Arquivo": "cameroon.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+    },
+    "14_11": {
+        "PAISingles": "China",
+        "PAISportugues": "China",
+        "Arquivo": "china.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    "15_11": {
+        "PAISingles": "Saint Kitts and Nevis",
+        "PAISportugues": "São Cristóvão e Nevis",
+        "Arquivo": "saint_kitts_and_nevis.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+    },
+    "16_11": {
+        "PAISingles": "Lebanon",
+        "PAISportugues": "Líbano",
+        "Arquivo": "lebanon.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+    },
+    "17_11": {
+        "PAISingles": "Sierra Leone",
+        "PAISportugues": "Serra Leoa",
+        "Arquivo": "sierra_leone.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+    },
+    "18_11": {
+        "PAISingles": "United Arab Emirates",
+        "PAISportugues": "Emirados Árabes Unidos",
+        "Arquivo": "united_arab_emirates.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+    },
+    "19_11": {
+        "PAISingles": "Jordan",
+        "PAISportugues": "Jordânia",
+        "Arquivo": "jordan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+    },
+    "20_11": {
+        "PAISingles": "Ecuador",
+        "PAISportugues": "Equador",
+        "Arquivo": "ecuador.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    "21_11": {
+        "PAISingles": "Monaco",
+        "PAISportugues": "Mônaco",
+        "Arquivo": "monaco.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+    },
+    "22_11": {
+        "PAISingles": "Argentina",
+        "PAISportugues": "Argentina",
+        "Arquivo": "argentina.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    "23_11": {
+        "PAISingles": "Cyprus",
+        "PAISportugues": "Chipre",
+        "Arquivo": "cyprus.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+    },
+    "24_11": {
+        "PAISingles": "Denmark",
+        "PAISportugues": "Dinamarca",
+        "Arquivo": "denmark.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+    },
+    "25_11": {
+        "PAISingles": "Gambia",
+        "PAISportugues": "Gâmbia",
+        "Arquivo": "gambia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+    },
+    "26_11": {
+        "PAISingles": "Papua New Guinea",
+        "PAISportugues": "Papua-Nova Guiné",
+        "Arquivo": "papua_new_guinea.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
+    },
+    "27_11": {
+        "PAISingles": "Ethiopia",
+        "PAISportugues": "Etiópia",
+        "Arquivo": "ethiopia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    "28_11": {
+        "PAISingles": "Iceland",
+        "PAISportugues": "Islândia",
+        "Arquivo": "iceland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+    },
+    "29_11": {
+        "PAISingles": "Samoa",
+        "PAISportugues": "Samoa",
+        "Arquivo": "samoa.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+    },
+    "30_11": {
+        "PAISingles": "Malta",
+        "PAISportugues": "Malta",
+        "Arquivo": "malta.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+    },
+    "01_12": {
+        "PAISingles": "Central African Republic",
+        "PAISportugues": "República Centro-Africana",
+        "Arquivo": "central_african_republic.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+    },
+    "02_12": {
+        "PAISingles": "Vietnam",
+        "PAISportugues": "Vietnã",
+        "Arquivo": "vietnam.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    },
+    "03_12": {
+        "PAISingles": "Saudi Arabia",
+        "PAISportugues": "Arábia Saudita",
+        "Arquivo": "saudi_arabia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+    },
+    "04_12": {
+        "PAISingles": "Panama",
+        "PAISportugues": "Panamá",
+        "Arquivo": "panama.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+    },
+    "05_12": {
+        "PAISingles": "Belarus",
+        "PAISportugues": "Bielorrússia",
+        "Arquivo": "belarus.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+    },
+    "06_12": {
+        "PAISingles": "Albania",
+        "PAISportugues": "Albânia",
+        "Arquivo": "albania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+    },
+    "07_12": {
+        "PAISingles": "Kyrgyzstan",
+        "PAISportugues": "Quirguistão",
+        "Arquivo": "kyrgyzstan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    "08_12": {
+        "PAISingles": "South Sudan",
+        "PAISportugues": "Sudão do Sul",
+        "Arquivo": "south_sudan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+    },
+    "09_12": {
+        "PAISingles": "Mauritania",
+        "PAISportugues": "Mauritânia",
+        "Arquivo": "mauritania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
+    },
+    "10_12": {
+        "PAISingles": "Morocco",
+        "PAISportugues": "Marrocos",
+        "Arquivo": "morocco.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+    },
+    "11_12": {
+        "PAISingles": "Germany",
+        "PAISportugues": "Alemanha",
+        "Arquivo": "germany.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    "12_12": {
+        "PAISingles": "United States",
+        "PAISportugues": "Estados Unidos",
+        "Arquivo": "united_states.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    "13_12": {
+        "PAISingles": "Ghana",
+        "PAISportugues": "Gana",
+        "Arquivo": "ghana.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+    },
+    "14_12": {
+        "PAISingles": "Kuwait",
+        "PAISportugues": "Kuwait",
+        "Arquivo": "kuwait.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg"
+    },
+    "15_12": {
+        "PAISingles": "Zambia",
+        "PAISportugues": "Zâmbia",
+        "Arquivo": "zambia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+    },
+    "16_12": {
+        "PAISingles": "Brazil",
+        "PAISportugues": "Brasil",
+        "Arquivo": "brazil.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    "17_12": {
+        "PAISingles": "Togo",
+        "PAISportugues": "Togo",
+        "Arquivo": "togo.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
+    },
+    "18_12": {
+        "PAISingles": "Ireland",
+        "PAISportugues": "Irlanda",
+        "Arquivo": "ireland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+    },
+    "19_12": {
+        "PAISingles": "Tanzania",
+        "PAISportugues": "Tanzânia",
+        "Arquivo": "tanzania.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+    },
+    "20_12": {
+        "PAISingles": "United Kingdom",
+        "PAISportugues": "Reino Unido",
+        "Arquivo": "united_kingdom.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_Kingdom.svg"
+    },
+    "21_12": {
+        "PAISingles": "Egypt",
+        "PAISportugues": "Egito",
+        "Arquivo": "egypt.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    },
+    "22_12": {
+        "PAISingles": "Namibia",
+        "PAISportugues": "Namíbia",
+        "Arquivo": "namibia.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+    },
+    "23_12": {
+        "PAISingles": "Paraguay",
+        "PAISportugues": "Paraguai",
+        "Arquivo": "paraguay.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+    },
+    "24_12": {
+        "PAISingles": "Nicaragua",
+        "PAISportugues": "Nicarágua",
+        "Arquivo": "nicaragua.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+    },
+    "25_12": {
+        "PAISingles": "Christmas Island",
+        "PAISportugues": "Ilha do Natal",
+        "Arquivo": "christmas_island.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg"
+    },
+    "26_12": {
+        "PAISingles": "Pakistan",
+        "PAISportugues": "Paquistão",
+        "Arquivo": "pakistan.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    "27_12": {
+        "PAISingles": "Norway",
+        "PAISportugues": "Noruega",
+        "Arquivo": "norway.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    },
+    "28_12": {
+        "PAISingles": "Maldives",
+        "PAISportugues": "Maldivas",
+        "Arquivo": "maldives.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+    },
+    "29_12": {
+        "PAISingles": "Nepal",
+        "PAISportugues": "Nepal",
+        "Arquivo": "nepal.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    "30_12": {
+        "PAISingles": "Israel",
+        "PAISportugues": "Israel",
+        "Arquivo": "israel.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+    },
+    "31_12": {
+        "PAISingles": "Switzerland",
+        "PAISportugues": "Suíça",
+        "Arquivo": "switzerland.html",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
+    }
+}

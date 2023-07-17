@@ -3,6 +3,13 @@ var partes = url.split('/');
 var nomeArquivo = partes[partes.length - 1];
 var pais = "assets/paisesdados/" + nomeArquivo.split(".")[0] + ".json";
 
+//CASO NÃO TENHA COOKIE GERA COOKIE
+if (document.cookie.length == 0) {
+  document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
+}
+
+
+//MÉTODO QUE RETORNA O VALOR DO COOKIE
 function getCookie(name) {
   var cookieArr = document.cookie.split("; ");
   for (var i = 0; i < cookieArr.length; i++) {
@@ -14,13 +21,9 @@ function getCookie(name) {
   return null;
 }
 
-function cookieGerador() {
-  console.log(document.cookie)
-  if (document.cookie.length == 0) {
-    document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
-  }
-}
 
+
+//FUNÇÃO DO MENU BONITO
 function menulateral() {
   navegacao = document.getElementsByTagName("nav")[0];
   mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
@@ -34,9 +37,15 @@ function menulateral() {
     navegacao.style.height = "0px";
     navegacao.classList.add("aparecer");
     mainaltura = parseFloat(mainaltura);
-    footeraltura = parseFloat(footeraltura)
+    footeraltura = parseFloat(footeraltura);
+    navaltura = footeraltura + mainaltura + "px";
+    animacao = document.querySelectorAll('.aparecer');
+    animacao.forEach(elemento => {
+      elemento.style.setProperty('--joazin', navaltura);
+    });
+
     setTimeout(function () {
-      document.getElementsByTagName("nav")[0].style.height = footeraltura + mainaltura + "px";
+      document.getElementsByTagName("nav")[0].style.height = navaltura;
     }, 500);
   } else {
     navegacao.classList.remove("aparecer");
@@ -51,7 +60,6 @@ function menulateral() {
 }
 
 function traduzir() {
-  console.log(getCookie("idioma"))
   if (getCookie("idioma") == "portugues") {
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "ingles" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
@@ -62,7 +70,7 @@ function traduzir() {
   loadCountryData();
   traduzido();
 }
-
+console.log(getCookie("idioma"));
 function loadCountryData() {
   var ajaxRequest = new XMLHttpRequest();
   ajaxRequest.open('GET', pais, true);
@@ -102,7 +110,7 @@ function loadCountryData() {
 window.addEventListener('DOMContentLoaded', loadCountryData);
 
 
-function traduzido(){
+function traduzido() {
   if (getCookie("idioma") == "ingles") {
     document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
     document.getElementsByTagName("span")[3].innerText = "CONTINENTS";
@@ -118,6 +126,6 @@ function traduzido(){
   }
 }
 
-window.onload = function(){
+window.onload = function () {
   traduzido();
 }
