@@ -8,9 +8,10 @@
     "pib": "3.128.000.000.000",
     "moeda_pt": "Real Brasileiro",
     "moeda_en": "Brazilian Real",
-    "idioma_pt": "Português",
+    "idioma_pt": "PortuguÃÂÃÂªs",
     "idioma_en": "Portuguese",
-    "capital_pt": "Brasília",
-    "capital_en": "Brasília",
-    "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg"
+    "capital_pt": "BrasÃÂÃÂ­lia",
+    "capital_en": "BrasÃÂÃÂ­lia",
+    "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
 }

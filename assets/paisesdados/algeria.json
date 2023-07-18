@@ -8,10 +8,10 @@
     "pib": "3.128.000.000.000",
     "moeda_pt": "Real Brasileiro",
     "moeda_en": "Brazilian Real",
-    "idioma_pt": "Português",
+    "idioma_pt": "PortuguÃªs",
     "idioma_en": "Portuguese",
-    "capital_pt": "Brasília",
-    "capital_en": "Brasília",
+    "capital_pt": "BrasÃ­lia",
+    "capital_en": "BrasÃ­lia",
     "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
-    "bandeira" : "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
+    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
 }
