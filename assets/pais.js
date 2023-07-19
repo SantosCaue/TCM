@@ -22,7 +22,6 @@ function getCookie(name) {
 }
 
 
-
 //FUNÇÃO DO MENU BONITO
 function menulateral() {
   navegacao = document.getElementsByTagName("nav")[0];
@@ -107,7 +106,7 @@ function loadCountryData() {
   ajaxRequest.send();
 }
 
-window.addEventListener('DOMContentLoaded', loadCountryData);
+window.addEventListener('DOMContentLoaded', loadCountryData,);
 
 
 function traduzido() {

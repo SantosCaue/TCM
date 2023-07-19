@@ -1,6 +1,6 @@
 {
-    "nome_pt": "Brasil",
-    "nome_en": "Brazil",
+    "nome_pt": "Senegal",
+    "nome_en": "Senegal",
     "descricao_pt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, rerum sequi ut quibusdam neque assumenda, laborum autem deserunt nam perferendis quod reiciendis praesentium ipsam! Obcaecati dolore dolorum iure adipisci quasi.",
     "descricao_en": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, rerum sequi ut quibusdam neque assumenda, laborum autem deserunt nam perferendis quod reiciendis praesentium ipsam! Obcaecati dolore dolorum iure adipisci quasi.",
     "populacao": "218.689.757",
@@ -12,6 +12,6 @@
     "idioma_en": "Portuguese",
     "capital_pt": "Brasília",
     "capital_en": "Brasília",
-    "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
-    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Senegal_%28orthographic_projection%29.svg",
+    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
 }

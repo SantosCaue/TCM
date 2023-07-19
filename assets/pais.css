@@ -27,6 +27,12 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+#right div{
+    display: flex;
+    align-items: center;
+}
+
 #bandeira{
     width: 50%;
 }

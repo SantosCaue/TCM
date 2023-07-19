@@ -1,6 +1,6 @@
 {
-    "nome_pt": "Brasil",
-    "nome_en": "Brazil",
+    "nome_pt": "Costa do Marfim",
+    "nome_en": "Ivory Coast",
     "descricao_pt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, rerum sequi ut quibusdam neque assumenda, laborum autem deserunt nam perferendis quod reiciendis praesentium ipsam! Obcaecati dolore dolorum iure adipisci quasi.",
     "descricao_en": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, rerum sequi ut quibusdam neque assumenda, laborum autem deserunt nam perferendis quod reiciendis praesentium ipsam! Obcaecati dolore dolorum iure adipisci quasi.",
     "populacao": "218.689.757",
@@ -13,5 +13,5 @@
     "capital_pt": "Brasília",
     "capital_en": "Brasília",
     "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
-    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    "bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
 }
