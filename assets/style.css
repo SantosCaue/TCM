@@ -20,7 +20,12 @@ header {
     height: 17%;
     display: flex;
 }
-
+#titulo img{
+    height: 100%;
+    filter: invert(100%);
+    margin: 0;
+    cursor: pointer ;
+}
 #titulo {
     display: flex;
     flex: 87.5%;
@@ -41,7 +46,6 @@ h1 {
     flex-direction: column;
     flex: 8%;
     background-color: #146008;
-    border-radius: 11.11111%;
     justify-content: space-around;
     cursor: pointer;
 }
@@ -54,10 +58,10 @@ nav {
     flex-direction: column;
     text-align: left;
     background-color: #33422D;
-    width: 10%;
+    width: 10.25%;
     height: 100%;
     padding: 0;
-    margin-left: 90%;
+    margin-left: 89.75%;
     margin-right: 0;
     z-index: 10;
     position: absolute;
@@ -88,9 +92,10 @@ nav li {
 }
 
 nav a,
-span {
+nav span {
     text-align: left;
     margin: 0;
+    cursor: pointer;
 }
 
 main {

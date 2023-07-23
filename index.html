@@ -14,6 +14,7 @@
 <body>
     <header>
         <div id="titulo">
+            <img src="assets/logotipo.png" onclick="window.location.href = 'brazil.html'">
             <a href="index.html"><h1>WIKI DOS PAÍSES</h1></a>
         </div>
         <div id="menu" onclick="menulateral()">
@@ -45,7 +46,7 @@
                 </a>
             </li>
             <li class="item-menu">
-                <a href="#">
+                <a onclick="traduzir()">
                     <span class="icon"><i class="bi bi-translate"></i></span>
                     <span class="txt-link">MUDAR IDIOMA</span>
                 </a>
@@ -72,38 +73,30 @@
             </div>
             <div class="right">
                 <div class="topico">
-                    <div></div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat dolore consectetur facere.
-                        Veritatis delectus eaque impedit molestias, deleniti ipsum odit officia beatae ea quaerat,
-                        laudantium non? Qui repellat non dolores.</p>
+                    <div><i class="bi bi-flag-fill"></i></div>
+                    <p>BANDEIRAS DO MUNDO E SEUS SIGNIFICADOS</p>
                 </div>
                 <div class="topico">
-                    <div></div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat repudiandae quis totam beatae
-                        deserunt aliquam quos soluta, molestias ad aperiam aut ea, culpa consequatur modi impedit
-                        similique tenetur! Consectetur, sequi?</p>
+                    <div><i class="bi bi-airplane-fill"></i></div>
+                    <p>LISTA DOS MELHORES PAÍSES PARA VIAJAR</p>
                 </div>
                 <div class="topico">
-                    <div></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, reprehenderit ut et doloremque
-                        perferendis consequatur ipsam voluptate itaque autem aperiam architecto eligendi corporis,
-                        voluptatem accusamus voluptas tempore, adipisci delectus quae!</p>
+                    <div><i class="bi bi-graph-up"></i></div>
+                    <p>QUAIS SÃO OS PAÍSES COM O MAIOR IDH DO MUNDO??</p>
                 </div>
             </div>
         </div>
         <div id="bottom">
             <div class="left">
                 <p>País do dia</p>
-                <img src="assets/imagem.png">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                <img id="paisdodiabandeira">
+                <p id="textodown">O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA</p>
             </div>
             <div class="right">
                 <div id="imagem">
                     <img src="assets/comecom.png">
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut hic eos odio enim delectus ad ratione
-                    obcaecati tempore nisi nam est, natus perferendis aliquam ipsum aspernatur temporibus aliquid
-                    laudantium beatae?</p>
+                <p>CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.</p>
             </div>
         </div>
     </main>

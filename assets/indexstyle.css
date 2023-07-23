@@ -35,11 +35,25 @@ main{
 .topico{
     display: flex;
     flex: 1;
+    align-items: center;
+    margin-left: calc(70%*0.25);
 }
 .topico p{
     flex: 50%;
 }
-.right div div{
+
+.topico div{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.topico i{
+    font-size: 4vh;
+    margin: auto;
+}
+
+.topico div{
     border-radius: 16.6666%;
     height: 6vh;
     width: 6vh;
@@ -51,6 +65,8 @@ main{
 }
 #bottom .left{
     text-align: center;
+    cursor: pointer;
+
 }
 #bottom .left img{
     margin-bottom: 2vh;
@@ -59,6 +75,11 @@ main{
 #bottom .left p{
     width: 75%;
 }
+
+#textodown{
+    text-align: justify;
+}
+
 #bottom .right{
     align-items: center;
 }

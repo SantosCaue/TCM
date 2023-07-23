@@ -1,6 +1,3 @@
-window.onload = function (){
-    cookieGerador();
-}
 function getCookie(name) {
     var cookieArr = document.cookie.split("; ");
     for (var i = 0; i < cookieArr.length; i++) {
@@ -55,7 +52,7 @@ function menulateral() {
 }
 
 function traduzir(){
-    console.log(getCookie("idioma"))
+    console.log(getCookie("idioma"));
     if(getCookie("idioma") ==  "portugues"){
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "ingles" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
@@ -63,6 +60,7 @@ function traduzir(){
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
     }
+    traduzido();
 }
 function traduzido(){
     if (getCookie("idioma") == "ingles") {
@@ -79,7 +77,43 @@ function traduzido(){
       document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
     }
   }
+
+// Função para obter a data atual no formato "DD_MM"
+function getFormattedDate() {
+  const today = new Date();
+  const day = String(today.getDate()).padStart(2, '0');
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  return `${day}_${month}`;
+}
+
+
+// Função para buscar o elemento correspondente no JSON e atualizar o <h2>
+function updateH2WithPaisPortugues(jsonData) {
+  const formattedDate = getFormattedDate();
+  const elemento = jsonData[formattedDate];
+  if (elemento) {
+      document.getElementById('paisdodiabandeira').src = elemento.Bandeira;
+      document.getElementsByClassName("left")[1].onclick = function(){window.location.href = elemento.Arquivo;};
+      if(getCookie("idioma") ==  "portugues"){
+        document.getElementById("nomepais").innerHTML = elemento.PAISportugues.toUpperCase();
+      }else{
+        document.getElementById("nomepais").innerHTML = elemento.PAISingles.toUpperCase();
+      }
+  }
+}
+
+// Função para carregar o JSON externo e chamar a função de atualização do <h2>
+function loadJSONFileAndProcess() {
+  fetch('assets/paisesdados/paisdodia.json')
+      .then(response => response.json())
+      .then(jsonData => updateH2WithPaisPortugues(jsonData))
+      .catch(error => console.error('Erro ao carregar o arquivo JSON:', error));
+}
+
+
   
   window.onload = function(){
     traduzido();
-  }
+    cookieGerador();
+    loadJSONFileAndProcess();
+        };
