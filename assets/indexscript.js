@@ -107,7 +107,7 @@ function loadJSONFileAndProcess() {
   fetch('assets/paisesdados/paisdodia.json')
       .then(response => response.json())
       .then(jsonData => updateH2WithPaisPortugues(jsonData))
-      .catch(error => console.error('Erro ao carregar o arquivo JSON:', error));
+      .catch(error => console.error('Erro ao carregar o arquivo JSON:', error)); //chatgpt fez isso mas sei pq tem isso nn
 }
 
 
@@ -117,3 +117,4 @@ function loadJSONFileAndProcess() {
     cookieGerador();
     loadJSONFileAndProcess();
         };
+//parando pra pensar eu acho q deveria ter usado xml sobre json

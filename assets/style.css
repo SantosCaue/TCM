@@ -13,7 +13,7 @@ body {
 header,
 footer {
     width: 100%;
-    background-color: #4BAD3B;
+    background-color: #1F6E8C;
 }
 
 header {
@@ -45,7 +45,7 @@ h1 {
     display: flex;
     flex-direction: column;
     flex: 8%;
-    background-color: #146008;
+    background-color: #0E2954;
     justify-content: space-around;
     cursor: pointer;
 }
@@ -57,7 +57,7 @@ i {
 nav {
     flex-direction: column;
     text-align: left;
-    background-color: #33422D;
+    background-color: #0E2954;
     width: 10.25%;
     height: 100%;
     padding: 0;
@@ -99,7 +99,7 @@ nav span {
 }
 
 main {
-    background-color: #E0FFDB;
+    background-color: #cbeee8;
     position: relative;
     display: flex;
 }
