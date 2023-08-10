@@ -224,7 +224,7 @@
         if (getCookie("idioma") == "ingles") {
             for (let ni = 0; ni < document.getElementsByClassName("countriesL").length; ni++) {
                 document.getElementsByClassName("countriesL")[ni].innerHTML = paisesen[ni];
-                document.getElementsByClassName("countriesL")[ni].href = paisesen[ni] + ".html";
+                document.getElementsByClassName("countriesL")[ni].href = paisesen[ni].toLowerCase() + ".html";
                 document.getElementById("countrylist").getElementsByTagName("p")[0].innerHTML = "American countries list:"
                 document.getElementById("countrylist").getElementsByTagName("p")[1].innerHTML = "*The country has overseas territories on the Americas."
             }
