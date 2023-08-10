@@ -33,31 +33,31 @@
                     <span class="icon"><i class="bi bi-question-circle-fill"></i></span>
                     <span class="txt-link">QUIZ</span>
                 </a>
-            </li>
+            <a href="'"></a></li>
             <li class="item-menu">
                 <a href="#">
                     <span class="icon"><i class="bi bi-globe-europe-africa"></i></span>
                     <span class="txt-link">CONTINENTES</span>
                 </a>
-            </li>
+            <a href="'"></a></li>
             <li class="item-menu">
                 <a href="#">
                     <span class="icon"><i class="bi bi-flag"></i></i></span>
                     <span class="txt-link">PAÍSES</span>
                 </a>
-            </li>
+            <a href="'"></a></li>
             <li class="item-menu">
                 <a onclick="traduzir()">
                     <span class="icon"><i class="bi bi-translate"></i></span>
                     <span class="txt-link">MUDAR IDIOMA</span>
                 </a>
-            </li>
+            <a href="'"></a></li>
             <li class="item-menu">
                 <a href="#">
                     <span class="icon"><i class="bi bi-globe-central-south-asia"></i></span>
                     <span class="txt-link">TBD</span>
                 </a>
-            </li>
+            <a href="'"></a></li>
         </ul>
     </nav>
     <main>
@@ -161,51 +161,51 @@
                 <div id="countrylist">
                     <ul>
                         <p></p>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
                     </ul>
                         <ul>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
                         </ul>
                         <ul>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
                         </ul>
                         <ul>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
-                        <li class="countriesL"></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
+                        <li><a href="'" class="countriesL"></a></li>
                         </ul>
                         <p></p>
                         
@@ -224,6 +224,7 @@
         if (getCookie("idioma") == "ingles") {
             for (let ni = 0; ni < document.getElementsByClassName("countriesL").length; ni++) {
                 document.getElementsByClassName("countriesL")[ni].innerHTML = paisesen[ni];
+                document.getElementsByClassName("countriesL")[ni].href = paisesen[ni] + ".html";
                 document.getElementById("countrylist").getElementsByTagName("p")[0].innerHTML = "American countries list:"
                 document.getElementById("countrylist").getElementsByTagName("p")[1].innerHTML = "*The country has overseas territories on the Americas."
             }
@@ -234,6 +235,7 @@
                 document.getElementById("countrylist").getElementsByTagName("p")[1].innerHTML = "*O País tem territórios ultramarinos nas Américas.";
             }
         }
+        
     }</script>
 
 </html>
