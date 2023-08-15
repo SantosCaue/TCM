@@ -105,3 +105,21 @@ h2{
 footer p{
     color: white;
 }
+
+
+/*Mobile*/
+
+@media only screen and (max-width:600px){
+    #top{
+        flex-direction: column;
+    }
+    #bottom{
+        flex-direction: column-reverse;
+    }
+    ul, li{
+        margin: auto;
+    }
+    .left{
+    
+    }
+}
