@@ -78,6 +78,7 @@ function traduzido(){
       document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
     } else if (getCookie("idioma") == "portugues") {
       h1[0].innerText = "WIKI DOS PAÍSES";
+      h2[0].innerText = "CONTINENTES"
       span[3].innerText = "CONTINENTES";
       span[5].innerText = "PAÍSES";
       span[7].innerText = "MUDAR IDIOMA";
