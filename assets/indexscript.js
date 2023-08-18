@@ -1,3 +1,7 @@
+const h1 = document.getElementsByTagName("h1");
+const h2 = document.getElementsByTagName("h2")
+const span = document.getElementsByTagName("span");
+const footer = document.getElementsByTagName("footer");
 function getCookie(name) {
     var cookieArr = document.cookie.split("; ");
     for (var i = 0; i < cookieArr.length; i++) {
@@ -19,7 +23,7 @@ function cookieGerador(){
 function menulateral() {
   navegacao = document.getElementsByTagName("nav")[0];
   mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
-  footeraltura = window.getComputedStyle(document.getElementsByTagName("footer")[0]).height;
+  footeraltura = window.getComputedStyle(footer[0]).height;
   if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
     document.getElementsByTagName("ul")[0].style.display = "flex";
     navegacao.classList.remove("desaparecer");
@@ -62,19 +66,21 @@ function traduzir(){
     }
     traduzido();
 }
+
 function traduzido(){
     if (getCookie("idioma") == "ingles") {
-      document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
-      document.getElementsByTagName("span")[3].innerText = "CONTINENTS";
-      document.getElementsByTagName("span")[5].innerText = "COUNTRIES";
-      document.getElementsByTagName("span")[7].innerText = "CHANGE LANGUAGE";
-      document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+      h1[0].innerText = "COUNTRY WIKI";
+      h2[0].innerText = "CONTINENTS"
+      span[3].innerText = "CONTINENTS";
+      span[5].innerText = "COUNTRIES";
+      span[7].innerText = "CHANGE LANGUAGE";
+      footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
     } else if (getCookie("idioma") == "portugues") {
-      document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
-      document.getElementsByTagName("span")[3].innerText = "CONTINENTES";
-      document.getElementsByTagName("span")[5].innerText = "PAÍSES";
-      document.getElementsByTagName("span")[7].innerText = "MUDAR IDIOMA";
-      document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+      h1[0].innerText = "WIKI DOS PAÍSES";
+      span[3].innerText = "CONTINENTES";
+      span[5].innerText = "PAÍSES";
+      span[7].innerText = "MUDAR IDIOMA";
+      footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
     }
   }
 
@@ -97,7 +103,9 @@ function updateH2WithPaisPortugues(jsonData) {
       if(getCookie("idioma") ==  "portugues"){
         document.getElementById("nomepais").innerHTML = elemento.PAISportugues.toUpperCase();
       }else{
+        document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
         document.getElementById("nomepais").innerHTML = elemento.PAISingles.toUpperCase();
+
       }
   }
 }
