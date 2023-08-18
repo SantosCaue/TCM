@@ -74,13 +74,15 @@ function traduzido(){
       span[3].innerText = "CONTINENTS";
       span[5].innerText = "COUNTRIES";
       span[7].innerText = "CHANGE LANGUAGE";
-      footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+      footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
+      document.getElementById("textodown").innerHTML = 'O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA';
     } else if (getCookie("idioma") == "portugues") {
       h1[0].innerText = "WIKI DOS PAÍSES";
       span[3].innerText = "CONTINENTES";
       span[5].innerText = "PAÍSES";
       span[7].innerText = "MUDAR IDIOMA";
       footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+      document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
     }
   }
 
@@ -103,7 +105,6 @@ function updateH2WithPaisPortugues(jsonData) {
       if(getCookie("idioma") ==  "portugues"){
         document.getElementById("nomepais").innerHTML = elemento.PAISportugues.toUpperCase();
       }else{
-        document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
         document.getElementById("nomepais").innerHTML = elemento.PAISingles.toUpperCase();
 
       }
