@@ -105,6 +105,7 @@ function traduzido(){
       topicos[2].querySelector("p").innerText = "QUAIS SÃO OS PAÍSES COM O MAIOR IDH DO MUNDO?";
       bottomright.querySelector("p").innerText = "CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.";
     }
+    loadJSONFileAndProcess();
   }
 
 // Função para obter a data atual no formato "DD_MM"
@@ -145,6 +146,5 @@ function loadJSONFileAndProcess() {
   window.onload = function(){
     traduzido();
     cookieGerador();
-    loadJSONFileAndProcess();
         };
 //parando pra pensar eu acho q deveria ter usado xml sobre json
