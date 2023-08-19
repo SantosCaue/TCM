@@ -4,6 +4,7 @@ const span = document.getElementsByTagName("span");
 const footer = document.getElementsByTagName("footer");
 const topicos = document.getElementsByClassName("topico");
 const bottomright = document.getElementsByClassName("right")[1];
+const bottomleft = document.getElementsByClassName("left")[1];
 const topleft = document.getElementsByClassName("left")[0];
 function getCookie(name) {
     var cookieArr = document.cookie.split("; ");
@@ -81,6 +82,7 @@ function traduzido(){
       span[5].innerText = "COUNTRIES";
       span[7].innerText = "CHANGE LANGUAGE";
       footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
+      bottomleft.querySelectorAll("p")[0].innerHTML = "Country of the day"
       document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
       topicos[0].querySelector("p").innerText = "FLAGS OF THE WORLD AND THEIR MEANING";
       topicos[1].querySelector("p").innerText = "LIST OF THE BEST COUNTRIES TO TRAVEL";
@@ -96,6 +98,7 @@ function traduzido(){
       span[5].innerText = "PAÍSES";
       span[7].innerText = "MUDAR IDIOMA";
       footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+      bottomleft.querySelectorAll("p")[0].innerHTML = "País do dia"
       document.getElementById("textodown").innerHTML = 'O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA';
       topicos[0].querySelector("p").innerText = "BANDEIRAS DO MUNDO E SEUS SIGNIFICADOS";
       topicos[1].querySelector("p").innerText = "LISTA DOS MELHORES PAÍSES PARA VIAJAR";
