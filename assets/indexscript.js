@@ -2,6 +2,9 @@ const h1 = document.getElementsByTagName("h1");
 const h2 = document.getElementsByTagName("h2")
 const span = document.getElementsByTagName("span");
 const footer = document.getElementsByTagName("footer");
+const topicos = document.getElementsByClassName("topico");
+const bottomright = document.getElementsByClassName("right")[1];
+const topleft = document.getElementsByClassName("left")[0];
 function getCookie(name) {
     var cookieArr = document.cookie.split("; ");
     for (var i = 0; i < cookieArr.length; i++) {
@@ -70,20 +73,34 @@ function traduzir(){
 function traduzido(){
     if (getCookie("idioma") == "ingles") {
       h1[0].innerText = "COUNTRY WIKI";
-      h2[0].innerText = "CONTINENTS"
+      h2[0].innerText = "CONTINENTS";
+      topleft.querySelectorAll("a")[0].innerText = "AMERICA";
+      topleft.querySelectorAll("a")[1].innerText = "AFRICA";
+      topleft.querySelectorAll("a")[2].innerText = "ASIA";
       span[3].innerText = "CONTINENTS";
       span[5].innerText = "COUNTRIES";
       span[7].innerText = "CHANGE LANGUAGE";
       footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
       document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
+      topicos[0].querySelector("p").innerText = "FLAGS OF THE WORLD AND THEIR MEANING";
+      topicos[1].querySelector("p").innerText = "LIST OF THE BEST COUNTRIES TO TRAVEL";
+      topicos[2].querySelector("p").innerText = "WHICH COUNTRIES HAVE THE HIGHEST HDI OF ALL?";
+      bottomright.querySelector("p").innerText = "KNOW ALL ABOUT HISTORICAL FLAGS AND THEIR MEANINGS, REASONS AND STYLES.";
     } else if (getCookie("idioma") == "portugues") {
       h1[0].innerText = "WIKI DOS PAÍSES";
       h2[0].innerText = "CONTINENTES"
+      topleft.querySelectorAll("a")[0].innerText = "AMÉRICA";
+      topleft.querySelectorAll("a")[1].innerText = "ÁFRICA";
+      topleft.querySelectorAll("a")[2].innerText = "ÁSIA";
       span[3].innerText = "CONTINENTES";
       span[5].innerText = "PAÍSES";
       span[7].innerText = "MUDAR IDIOMA";
       footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
       document.getElementById("textodown").innerHTML = 'O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA';
+      topicos[0].querySelector("p").innerText = "BANDEIRAS DO MUNDO E SEUS SIGNIFICADOS";
+      topicos[1].querySelector("p").innerText = "LISTA DOS MELHORES PAÍSES PARA VIAJAR";
+      topicos[2].querySelector("p").innerText = "QUAIS SÃO OS PAÍSES COM O MAIOR IDH DO MUNDO?";
+      bottomright.querySelector("p").innerText = "CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.";
     }
   }
 
