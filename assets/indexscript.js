@@ -83,7 +83,7 @@ function traduzido(){
       span[7].innerText = "CHANGE LANGUAGE";
       footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
       bottomleft.querySelectorAll("p")[0].innerHTML = "Country of the day"
-      document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id= "nomepais"></span> KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
+      document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id="nomepais"></span>, KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
       topicos[0].querySelector("p").innerText = "FLAGS OF THE WORLD AND THEIR MEANING";
       topicos[1].querySelector("p").innerText = "LIST OF THE BEST COUNTRIES TO TRAVEL";
       topicos[2].querySelector("p").innerText = "WHICH COUNTRIES HAVE THE HIGHEST HDI OF ALL?";
