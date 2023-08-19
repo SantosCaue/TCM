@@ -109,6 +109,8 @@ function traduzido(){
     footeraltura = parseFloat(footer[0].style.height);
     mainaltura = parseFloat(document.getElementsByTagName("main")[0].style.height);
     navaltura = footeraltura + mainaltura + "px";
+    console.log(navaltura);
+    navegacao.style.height = navaltura;
   }
 
 // Função para obter a data atual no formato "DD_MM"
