@@ -38,7 +38,7 @@ function menulateral() {
     navegacao.classList.add("aparecer");
     mainaltura = parseFloat(mainaltura);
     footeraltura = parseFloat(footeraltura);
-    var navaltura = footeraltura + mainaltura + "px";
+    navaltura = footeraltura + mainaltura + "px";
     animacao = document.querySelectorAll('.aparecer');
     animacao.forEach(elemento => {
       elemento.style.setProperty('--joazin', navaltura);
@@ -109,7 +109,7 @@ function traduzido(){
     footeraltura = parseFloat(footer[0].style.height);
     mainaltura = parseFloat(document.getElementsByTagName("main")[0].style.height);
     navaltura = footeraltura + mainaltura + "px";
-    console.log(navaltura);
+    console.log(navaltura + "" + footeraltura + "" + mainaltura);
     navegacao.style.height = navaltura;
   }
 
