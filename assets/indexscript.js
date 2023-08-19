@@ -6,6 +6,7 @@ const topicos = document.getElementsByClassName("topico");
 const bottomright = document.getElementsByClassName("right")[1];
 const bottomleft = document.getElementsByClassName("left")[1];
 const topleft = document.getElementsByClassName("left")[0];
+const navegacao = document.getElementsByTagName("nav")[0];
 function getCookie(name) {
     var cookieArr = document.cookie.split("; ");
     for (var i = 0; i < cookieArr.length; i++) {
@@ -25,7 +26,6 @@ function cookieGerador(){
 }
 
 function menulateral() {
-  navegacao = document.getElementsByTagName("nav")[0];
   var mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
   var footeraltura = window.getComputedStyle(footer[0]).height;
   if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
