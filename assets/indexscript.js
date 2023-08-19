@@ -106,11 +106,6 @@ function traduzido(){
       bottomright.querySelector("p").innerText = "CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.";
     }
     loadJSONFileAndProcess();
-    footeraltura = parseFloat(footer[0].style.height);
-    mainaltura = parseFloat(document.getElementsByTagName("main")[0].style.height);
-    navaltura = footeraltura + mainaltura + "px";
-    console.log(navaltura + "" + footeraltura + "" + mainaltura);
-    navegacao.style.height = navaltura;
   }
 
 // Função para obter a data atual no formato "DD_MM"
