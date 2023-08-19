@@ -106,6 +106,8 @@ function traduzido(){
       bottomright.querySelector("p").innerText = "CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.";
     }
     loadJSONFileAndProcess();
+    footeraltura = parseFloat(footer[0].style.height);
+    mainaltura = parseFloat(document.getElementsByTagName("main")[0].style.height);
     navaltura = footeraltura + mainaltura + "px";
   }
 
