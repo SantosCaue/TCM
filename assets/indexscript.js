@@ -26,8 +26,8 @@ function cookieGerador(){
 
 function menulateral() {
   navegacao = document.getElementsByTagName("nav")[0];
-  mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
-  footeraltura = window.getComputedStyle(footer[0]).height;
+  var mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
+  var footeraltura = window.getComputedStyle(footer[0]).height;
   if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
     document.getElementsByTagName("ul")[0].style.display = "flex";
     navegacao.classList.remove("desaparecer");
@@ -38,7 +38,7 @@ function menulateral() {
     navegacao.classList.add("aparecer");
     mainaltura = parseFloat(mainaltura);
     footeraltura = parseFloat(footeraltura);
-    navaltura = footeraltura + mainaltura + "px";
+    var navaltura = footeraltura + mainaltura + "px";
     animacao = document.querySelectorAll('.aparecer');
     animacao.forEach(elemento => {
       elemento.style.setProperty('--joazin', navaltura);
