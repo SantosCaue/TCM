@@ -69,7 +69,8 @@ function traduzir() {
   loadCountryData();
   traduzido();
 }
-console.log(getCookie("idioma"));
+
+//Ajax Request para pegar as info dos países
 function loadCountryData() {
   var ajaxRequest = new XMLHttpRequest();
   ajaxRequest.open('GET', pais, true);
