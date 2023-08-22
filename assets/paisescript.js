@@ -62,25 +62,34 @@ let j = 1;
 fetch('assets/paisesdados/arquivo_compilado.json')
     .then(response => response.json()) // Converte a resposta para JSON
     .then(data => {
-
-        if(getCookie("idioma") == "ingles"){
-        data.sort((a,b) => a.nome_en.localeCompare(b.nome_en));
-        }else if(getCookie("idioma") == "portugues"){
-        data.sort((a,b) => a.nome_en.localeCompare(b.nome_pt));
-        }
-
+      
+      if(getCookie("idioma") == "ingles"){
+      data.sort((a, b) => a.nome_en.localeCompare(b.nome_en));
+      data.forEach(item => {
+        const nomePt = item.nome_pt;
+        const nomeEn = item.nome_en;
+        const bandeira = item.bandeira;
+        document.getElementsByTagName("img")[j].src = bandeira;
+        document.getElementsByClassName("nome")[n].innerHTML = nomeEn;
+        document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase()+".html";
+        n++
+        j++
+    });
+      }else if(getCookie("idioma") ==  "portugues"){
+      data.sort((a, b) => a.nome_en.localeCompare(b.nome_pt));
+      data.forEach(item => {
+        const nomePt = item.nome_pt;
+        const nomeEn = item.nome_en;
+        const bandeira = item.bandeira;
+        document.getElementsByTagName("img")[j].src = bandeira;
+        document.getElementsByClassName("nome")[n].innerHTML = nomePt;
+        document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase()+".html";
+        n++
+        j++
+    });
+      }
         // Agora você pode usar os dados no seu site
-        data.forEach(item => {
-            const nomePt = item.nome_pt;
-            const nomeEn = item.nome_en;
-            const bandeira = item.bandeira;
-            document.getElementsByTagName("img")[j].src = bandeira;
-            document.getElementsByClassName("nome")[n].innerHTML = nomeEn;
-            document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = (nomeEn.toLowerCase()+".html").normalize("NFD");
-            n++
-            j++
-            console.log((nomeEn.toLowerCase()+".html").normalize("NFD"));
-        });
+        
     })
     .catch(error => {
         console.error('Ocorreu um erro:', error);
