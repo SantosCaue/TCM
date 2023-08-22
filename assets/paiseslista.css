@@ -31,3 +31,16 @@ main a {
 p.nome{
    vertical-align: bottom;
 }
+
+@media only screen and (max-width:600px){
+    p.nome{
+        max-width: 100%;
+        font-size: 1.1em;
+    }
+
+    main a{
+        width: calc(25%);
+        margin: 1vw;
+    }
+
+}
