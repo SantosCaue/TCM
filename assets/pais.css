@@ -51,7 +51,9 @@ main {
 #meio p {
     text-align: justify;
 }
-
+#meio p, #dados p{
+    color: #fff;
+}
 #right div {
     margin-bottom: 5vh;
     flex: 1;
