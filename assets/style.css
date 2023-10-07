@@ -10,12 +10,6 @@ body {
     height: 100%;
 }
 
-body{
-    cursor: url(globe.cur) 25 25, default;
-}
-a{
-    cursor: url(globe_invertido.cur) 25 25, pointer;
-}
 header,
 footer {
     width: 100%;
@@ -30,7 +24,7 @@ header {
     height: 100%;
     filter: invert(100%);
     margin: 0;
-    cursor: url(globe_invertido.cur) 25 25, pointer;
+    cursor: pointer;
 }
 #titulo {
     display: flex;
@@ -53,7 +47,7 @@ h1 {
     flex: 8%;
     background-color: #0E2954;
     justify-content: space-around;
-    cursor: url(globe_invertido.cur) 25 25, pointer;
+    cursor: pointer;
 }
 
 i {
@@ -101,7 +95,7 @@ nav a,
 nav span {
     text-align: left;
     margin: 0;
-    cursor: url(globe_invertido.cur) 25 25, pointer;
+    cursor: pointer;
 }
 
 main {
