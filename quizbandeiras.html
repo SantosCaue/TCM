@@ -65,7 +65,7 @@
         <form name="flagsquiz" id="flagsquiz">
             <p id="enunciado">BANDEIRA N/N</p>
             <img src="" id="bandeira">
-            <input oninput="pontuar()" name="resposta" id="resposta" type="text">
+            <input oninput="pontuar()" onkeydown="if(event.keyCode == 13){event.preventDefault();}" name="resposta" id="resposta" type="text">
             <p id="temporizador">1:30</p>
         </form>
         <form action="post">

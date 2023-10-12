@@ -1,7 +1,7 @@
 var url = window.location.href;
 var partes = url.split('/');
 var nomeArquivo = partes[partes.length - 1];
-var pais = nomeArquivo.split(".")[0];
+var pais = nomeArquivo.split(".")[0].replaceAll("%20", " ");
 
 //CASO NÃO TENHA COOKIE GERA COOKIE
 if (document.cookie.length == 0) {
@@ -67,12 +67,11 @@ function traduzir() {
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
   }
-  pegarDados;
+  pegarDados();
   traduzido();
 }
 
 function pegarDados(){
-  console.log(pais)
   fetch('assets/json/arquivo_compilado.json')
     .then(response => response.json())
     .then(jsonData => {
@@ -110,13 +109,15 @@ function traduzido() {
     document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
     document.getElementsByTagName("span")[3].innerText = "CONTINENTS";
     document.getElementsByTagName("span")[5].innerText = "COUNTRIES";
-    document.getElementsByTagName("span")[7].innerText = "CHANGE LANGUAGE";
+    document.getElementsByTagName("span")[7].innerText = "RANDOM COUNTRY"
+    document.getElementsByTagName("span")[9].innerText = "CHANGE LANGUAGE";
     document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
   } else if (getCookie("idioma") == "portugues") {
     document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
     document.getElementsByTagName("span")[3].innerText = "CONTINENTES";
     document.getElementsByTagName("span")[5].innerText = "PAÍSES";
-    document.getElementsByTagName("span")[7].innerText = "MUDAR IDIOMA";
+    document.getElementsByTagName("span")[7].innerText = "PAÍS ALEATÓRIO"
+    document.getElementsByTagName("span")[9].innerText = "MUDAR IDIOMA";
     document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
   }
 }
