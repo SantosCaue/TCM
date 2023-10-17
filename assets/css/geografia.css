@@ -1,0 +1,90 @@
+body{
+    min-height: 100%;
+}
+main{
+    height: 68%;
+}
+form{
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+}
+
+section#dificuldade{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div#caixaopcoes{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+}
+
+div#alternativas{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+div#ladodireito, div#ladoesquerdo{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    justify-content: space-evenly;
+}
+
+div#ladodireito{
+    margin-left: 0;
+    margin-right: auto;
+}
+div#ladoesquerdo{
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.escolha{
+    background-color: #84A7A1;
+    border: solid black 1px;
+    width: 7em;
+    height: 2em;
+    border-radius: 1em;
+    cursor: pointer;
+}
+
+p.resposta{
+    background-color: #84A7A1;
+    border: solid black 1px;
+    width: 15vw;
+    height: 2em;
+    border-radius: 1em;
+    display: flex;
+    margin-top: 4.125%;
+    margin-bottom: 4.125%;
+    display: none;
+}
+
+.resposta label{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.resposta input[type = radio]{
+    display: none;
+}
+
+input[type=text]{
+    border-radius: 15px;
+}
+main img{
+    width: 20%;
+}
