@@ -68,9 +68,13 @@
             <input oninput="pontuar()" onkeydown="if(event.keyCode == 13){event.preventDefault();}" name="resposta" id="resposta" type="text">
             <p id="temporizador">1:30</p>
         </form>
-        <form action="post">
+        <form action="https://api.sheetmonkey.io/form/aH476sQEqiTZ6maa4kqw4k" method="post" >
             <p id="resultado"></p>
             <label for="Nome"><p>Digite seu nome de usuário</p></label><input name="Nome" type="text">
+            <input type="hidden" name="Pontos" id="pontuacao">
+            <input type="hidden" name="Tempo" id="tempo">
+            <input type="hidden" name="Tipo" value="Bandeiras">
+            <input type="hidden" name="Dificuldade" id="level">
             <p></p>
         </form>
         <section id="dificuldade">

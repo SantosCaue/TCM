@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>COUNTRY WIKI</title>
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/geografia.css">
+    <link rel="stylesheet" href="assets/css/lugares.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link rel="icon" href="assets/imgs/globe2.svg">
 </head>
@@ -63,25 +63,22 @@
     </nav>
     <main>
         <form name="flagsquiz" id="flagsquiz">
-            <p id="enunciado">PERGUNTA N</p>
-            <div id="alternativas">
-                <div id="ladoesquerdo">
-                </div>
-                <div id="ladodireito">
-                </div>
-            </div>
-            </form>
-            <form action="https://api.sheetmonkey.io/form/aH476sQEqiTZ6maa4kqw4k" method="post" >
-                <p id="resultado"></p>
-                <label for="Nome"><p>Digite seu nome de usuário</p></label><input name="Nome" type="text">
-                <input type="hidden" name="Pontos" id="pontuacao">
-                <input type="hidden" name="Tempo" id="tempo">
-                <input type="hidden" name="Tipo" value="Quiz Geográfico">
-                <input type="hidden" name="Dificuldade" id="level">
-                <p></p>
-            </form>
+            <p id="enunciado">BANDEIRA N/N</p>
+            <img src="" id="imagem">
+            <input oninput="pontuar()" onkeydown="if(event.keyCode == 13){event.preventDefault();}" name="resposta" id="resposta" type="text">
+            <p id="temporizador">1:30</p>
+        </form>
+        <form action="https://api.sheetmonkey.io/form/aH476sQEqiTZ6maa4kqw4k" method="post" >
+            <p id="resultado"></p>
+            <label for="Nome"><p>Digite seu nome de usuário</p></label><input name="Nome" type="text">
+            <input type="hidden" name="Pontos" id="pontuacao">
+            <input type="hidden" name="Tempo" id="tempo">
+            <input type="hidden" name="Tipo" value="Lugares">
+            <input type="hidden" name="Dificuldade" id="level">
+            <p></p>
+        </form>
         <section id="dificuldade">
-            <h2 id="choice">Escolha a Dificuldade</h1>
+            <h2>Escolha a Dificuldade</h1>
                 <div id="caixaopcoes">
                     <button class="escolha" onclick="ChamarQuiz(1)">Fácil</button>
                     <button class="escolha" onclick="ChamarQuiz(2)">Médio</button>
@@ -93,6 +90,6 @@
         <p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>
     </footer>
 </body>
-<script src="assets/js/geografia.js"></script>
+<script src="assets/js/lugares.js"></script>
 
 </html>

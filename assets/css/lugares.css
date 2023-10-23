@@ -25,7 +25,7 @@ div#caixaopcoes{
     justify-content: space-around;
 }
 
-.escolha, input[type=submit]{
+.escolha{
     background-color: #84A7A1;
     border: solid black 1px;
     width: 7em;
@@ -40,5 +40,13 @@ input[type=text]{
 }
 
 main img{
-    width: 20%;
+    width: 25vw;
+    height: 14.0625vw;
+}
+
+@media only screen and (max-width:600px){
+    main img{
+        width: 50vw;
+        height: 28.125vw;
+    }
 }
