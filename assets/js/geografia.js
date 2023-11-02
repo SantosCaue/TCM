@@ -1,3 +1,4 @@
+var visivel = false;
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
 }
@@ -29,37 +30,20 @@ function embaralhaVetor(array) {
 }
 
 function menulateral() {
-  navegacao = document.getElementsByTagName("nav")[0];
-  mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
-  footeraltura = window.getComputedStyle(document.getElementsByTagName("footer")[0]).height;
-  if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
-    document.getElementsByTagName("ul")[0].style.display = "flex";
-    navegacao.classList.remove("desaparecer");
-    document.getElementsByTagName("svg")[0].classList.remove("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.add("gira_barras");
-    navegacao.style.display = "flex";
-    navegacao.style.height = "0px";
-    navegacao.classList.add("aparecer");
-    mainaltura = parseFloat(mainaltura);
-    footeraltura = parseFloat(footeraltura);
-    navaltura = footeraltura + mainaltura + "px";
-    animacao = document.querySelectorAll('.aparecer');
-    animacao.forEach(elemento => {
-      elemento.style.setProperty('--joazin', navaltura);
-    });
-
-    setTimeout(function () {
-      document.getElementsByTagName("nav")[0].style.height = navaltura;
-    }, 500);
+  if (!visivel) {
+      document.querySelector("#menu").querySelector("svg").style.rotate = '90deg';
+      navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';      ;
+      navegacao.style.padding = '1.5vh'
+      setTimeout(function () {
+      navegacao.querySelector('ul').style.display = 'flex';
+      }, 300)
+      visivel = true;
   } else {
-    navegacao.classList.remove("aparecer");
-    document.getElementsByTagName("svg")[0].classList.add("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.remove("gira_barras");
-    navegacao.classList.add("desaparecer");
-    document.getElementsByTagName("ul")[0].style.display = "none";
-    setTimeout(function () {
-      navegacao.style.display = "none";
-    }, 950);
+    document.querySelector("#menu").querySelector("svg").style.rotate = '0deg';
+    navegacao.style.height = '0%';
+    navegacao.style.padding = '0px';
+    navegacao.querySelector('ul').style.display = 'none';
+    visivel = false;
   }
 }
 /**

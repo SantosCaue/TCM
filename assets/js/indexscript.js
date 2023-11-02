@@ -7,6 +7,7 @@ const bottomright = document.getElementsByClassName("right")[1];
 const bottomleft = document.getElementsByClassName("left")[1];
 const topleft = document.getElementsByClassName("left")[0];
 const navegacao = document.getElementsByTagName("nav")[0];
+var visivel = false;
 
 function getCookie(name) {
   var cookieArr = document.cookie.split("; ");
@@ -25,36 +26,20 @@ if (document.cookie.length == 0) {
 
 
 function menulateral() {
-  var mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
-  var footeraltura = window.getComputedStyle(footer[0]).height;
-  if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
-    document.getElementsByTagName("ul")[0].style.display = "flex";
-    navegacao.classList.remove("desaparecer");
-    document.getElementsByTagName("svg")[0].classList.remove("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.add("gira_barras");
-    navegacao.style.display = "flex";
-    navegacao.style.height = "0px";
-    navegacao.classList.add("aparecer");
-    mainaltura = parseFloat(mainaltura);
-    footeraltura = parseFloat(footeraltura);
-    navaltura = footeraltura + mainaltura + "px";
-    animacao = document.querySelectorAll('.aparecer');
-    animacao.forEach(elemento => {
-      elemento.style.setProperty('--joazin', navaltura);
-    });
-
-    setTimeout(function () {
-      document.getElementsByTagName("nav")[0].style.height = navaltura;
-    }, 500);
+  if (!visivel) {
+      document.querySelector("#menu").querySelector("svg").style.rotate = '90deg';
+      navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';      ;
+      navegacao.style.padding = '1.5vh'
+      setTimeout(function () {
+      navegacao.querySelector('ul').style.display = 'flex';
+      }, 300)
+      visivel = true;
   } else {
-    navegacao.classList.remove("aparecer");
-    document.getElementsByTagName("svg")[0].classList.add("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.remove("gira_barras");
-    navegacao.classList.add("desaparecer");
-    document.getElementsByTagName("ul")[0].style.display = "none";
-    setTimeout(function () {
-      navegacao.style.display = "none";
-    }, 950);
+    document.querySelector("#menu").querySelector("svg").style.rotate = '0deg';
+    navegacao.style.height = '0%';
+    navegacao.style.padding = '0px';
+    navegacao.querySelector('ul').style.display = 'none';
+    visivel = false;
   }
 }
 
@@ -82,7 +67,6 @@ function traduzido() {
     span[7].innerText = "RANDOM COUNTRY";
     span[9].innerText = "CHANGE LANGUAGE";
     footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
-    bottomleft.querySelectorAll("p")[0].innerHTML = "Country of the day"
     document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id="nomepais"></span>, KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
     topicos[0].querySelector("p").innerText = "FLAGS OF THE WORLD AND THEIR MEANING";
     topicos[1].querySelector("p").innerText = "LIST OF THE BEST COUNTRIES TO TRAVEL";
@@ -100,7 +84,6 @@ function traduzido() {
     span[7].innerText = "PAÍS ALEATÓRIO";
     span[9].innerText = "MUDAR IDIOMA";
     footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
-    bottomleft.querySelectorAll("p")[0].innerHTML = "País do dia"
     document.getElementById("textodown").innerHTML = 'O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA';
     topicos[0].querySelector("p").innerText = "BANDEIRAS DO MUNDO E SEUS SIGNIFICADOS";
     topicos[1].querySelector("p").innerText = "LISTA DOS MELHORES PAÍSES PARA VIAJAR";
@@ -126,7 +109,7 @@ function carregarPaisDoDia() {
       const formattedDate = getFormattedDate();
       const elemento = jsonData[formattedDate];
       document.getElementById('paisdodiabandeira').src = elemento.Bandeira;
-      document.getElementsByClassName("left")[1].onclick = function () { window.location.href = elemento.Arquivo; };
+      document.getElementsByClassName("left")[1].onclick = function () { window.location.href = (elemento.Arquivo).replace(" ", "_"); };
       if (getCookie("idioma") == "portugues") {
         document.getElementById("nomepais").innerHTML = elemento.PAISportugues.toUpperCase();
       } else {

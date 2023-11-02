@@ -1,10 +1,11 @@
+var visivel = false
 const footer = document.getElementsByTagName("footer");
 const navegacao = document.getElementsByTagName("nav")[0];
 
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
 }
-ListaDePaises();
+traduzido();
 
 function getCookie(name) {
   var cookieArr = document.cookie.split("; ");
@@ -18,35 +19,20 @@ function getCookie(name) {
 }
 
 function menulateral() {
-  var mainaltura = window.getComputedStyle(document.getElementsByTagName("main")[0]).height;
-  var footeraltura = window.getComputedStyle(footer[0]).height;
-  if (navegacao.style.display == "none" || window.getComputedStyle(navegacao).display == "none") {
-    document.getElementsByTagName("ul")[0].style.display = "flex";
-    navegacao.classList.remove("desaparecer");
-    document.getElementsByTagName("svg")[0].classList.remove("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.add("gira_barras");
-    navegacao.style.display = "flex";
-    navegacao.style.height = "0px";
-    navegacao.classList.add("aparecer");
-    mainaltura = parseFloat(mainaltura);
-    footeraltura = parseFloat(footeraltura);
-    navaltura = footeraltura + mainaltura + "px";
-    animacao = document.querySelectorAll('.aparecer');
-    animacao.forEach(elemento => {
-      elemento.style.setProperty('--joazin', navaltura);
-    });
-    setTimeout(function () {
-      document.getElementsByTagName("nav")[0].style.height = navaltura;
-    }, 500);
+  if (!visivel) {
+      document.querySelector("#menu").querySelector("svg").style.rotate = '90deg';
+      navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';      ;
+      navegacao.style.padding = '1.5vh'
+      setTimeout(function () {
+      navegacao.querySelector('ul').style.display = 'flex';
+      }, 300)
+      visivel = true;
   } else {
-    navegacao.classList.remove("aparecer");
-    document.getElementsByTagName("svg")[0].classList.add("contragira_barras");
-    document.getElementsByTagName("svg")[0].classList.remove("gira_barras");
-    navegacao.classList.add("desaparecer");
-    document.getElementsByTagName("ul")[0].style.display = "none";
-    setTimeout(function () {
-      navegacao.style.display = "none";
-    }, 950);
+    document.querySelector("#menu").querySelector("svg").style.rotate = '0deg';
+    navegacao.style.height = '0%';
+    navegacao.style.padding = '0px';
+    navegacao.querySelector('ul').style.display = 'none';
+    visivel = false;
   }
 }
 
@@ -66,6 +52,7 @@ function traduzido() {
   const h1 = document.getElementsByTagName("h1");
   const span = document.getElementsByTagName("span");
   if (getCookie("idioma") == "ingles") {
+    document.querySelector("title").innerHTML = "COUNTRIES";
     h1[0].innerText = "COUNTRY WIKI";
     span[3].innerText = "CONTINENTS";
     span[5].innerText = "COUNTRIES";
@@ -73,6 +60,7 @@ function traduzido() {
     footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
     document.getElementsByTagName("html")[0].lang = "en";
   } else if (getCookie("idioma") == "portugues") {
+    document.querySelector("title").innerHTML = "PAÍSES";
     h1[0].innerText = "WIKI DOS PAÍSES";
     span[3].innerText = "CONTINENTES";
     span[5].innerText = "PAÍSES";
@@ -80,29 +68,27 @@ function traduzido() {
     footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
     document.getElementsByTagName("html")[0].lang = "pt-br";
   }
-  ListaDePaises();
+  ListaDePaises()
 }
 
 
 // Faz a requisição para o arquivo JSON externo
 function ListaDePaises() {
   let n = 0;
-  let j = 1;
   fetch('assets/json/lista_paises.json')
     .then(response => response.json()) // Converte a resposta para JSON
     .then(data => {
-
       if (getCookie("idioma") == "ingles") {
         data.sort((a, b) => a.nome_en.localeCompare(b.nome_en));
         data.forEach(item => {
           const nomePt = item.nome_pt;
           const nomeEn = item.nome_en;
           const bandeira = item.bandeira;
-          document.getElementsByTagName("img")[j].src = bandeira;
+          document.querySelectorAll(".bandeira")[n].querySelector("img").src = bandeira;
+          document.querySelectorAll(".bandeira")[n].querySelector("img").alt = nomeEn + " flag";
           document.getElementsByClassName("nome")[n].innerHTML = nomeEn;
-          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase() + ".html";
+          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replace(" ", "_") + ".html";
           n++
-          j++
         });
       } else if (getCookie("idioma") == "portugues") {
         data.sort((a, b) => a.nome_pt.localeCompare(b.nome_pt));
@@ -110,14 +96,13 @@ function ListaDePaises() {
           const nomePt = item.nome_pt;
           const nomeEn = item.nome_en;
           const bandeira = item.bandeira;
-          document.getElementsByTagName("img")[j].src = bandeira;
+          document.querySelectorAll(".bandeira")[n].querySelector("img").src = bandeira;
+          document.querySelectorAll(".bandeira")[n].querySelector("img").alt = "bandeira de" + nomePt;
           document.getElementsByClassName("nome")[n].innerHTML = nomePt;
-          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase() + ".html";
+          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replace(" ", "_") + ".html";
           n++
-          j++
         });
       }
-      // Agora você pode usar os dados no seu site
 
     })
 
