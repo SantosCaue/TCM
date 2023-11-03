@@ -1,6 +1,10 @@
+body{
+    min-height: 100vh;
+}
+
 main {
     flex-direction: row;
-    min-height: 83%;
+    min-height: 68vh;
 }
 
 #left {

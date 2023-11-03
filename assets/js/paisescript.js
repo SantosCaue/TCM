@@ -1,6 +1,6 @@
-var visivel = false
+var visivel = false;
 const footer = document.getElementsByTagName("footer");
-const navegacao = document.getElementsByTagName("nav")[0];
+const navegacao = document.querySelector("nav");
 
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";

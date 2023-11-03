@@ -6,7 +6,7 @@ const topicos = document.getElementsByClassName("topico");
 const bottomright = document.getElementsByClassName("right")[1];
 const bottomleft = document.getElementsByClassName("left")[1];
 const topleft = document.getElementsByClassName("left")[0];
-const navegacao = document.getElementsByTagName("nav")[0];
+const navegacao = document.querySelector("nav");
 var visivel = false;
 
 function getCookie(name) {

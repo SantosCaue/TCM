@@ -1,12 +1,12 @@
-main{
-    height: 68%;
+main {
+    height: 68vh;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
 }
 
-a.quizes{
+a.quizes {
     height: 50%;
     width: 15%;
     display: flex;
@@ -15,23 +15,47 @@ a.quizes{
     transition: height 1s ease, width 1s ease;
 }
 
-a.quizes:hover{
+a.quizes:hover {
     height: 70%;
     width: 20%;
 }
 
-a.quizes img{
+a.quizes img {
     align-self: flex-start;
     width: 100%;
 }
 
-img.icone{
+img.icone {
     border-radius: 2.5vw;
 }
 
-img#svg{
+img#svg {
     height: 70%;
 }
-p.subtitulo{
+
+p.subtitulo {
     text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    main {
+        height: 73vh;
+        flex-direction: column;
+    }
+
+    a.quizes {
+        width: 33%;
+        height: 50%;
+        justify-content: space-evenly;
+    }
+
+    a.quizes img {
+        width: 90%;
+
+    }
+
+    a.quizes:hover {
+        height: 70%;
+        width: 40%;
+    }
 }

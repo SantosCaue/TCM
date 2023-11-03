@@ -1,9 +1,10 @@
 body{
-    min-height: 100%;
+    min-height: 100vh;
 }
 main{
-    height: 68%;
+    height: 73vh;
 }
+
 form{
     display: none;
     flex-direction: column;

@@ -10,6 +10,7 @@ main{
 }
 #bottom{
     display: flex;
+    flex: 40%;
     padding-top: 2%;
     box-sizing: border-box;
 }
@@ -42,12 +43,6 @@ main{
     flex: 50%;
 }
 
-.topico div{
-    display: flex;
-    justify-content: center;
-    padding: 0;
-}
-
 .topico i{
     font-size: 4vh;
     margin: auto;
@@ -59,6 +54,9 @@ main{
     width: 6vh;
     margin-right: 5%;
     background-color: #2E8A99;
+    display: flex;
+    justify-content: center;
+    padding: 0;
 }
 .left li, ul{
     margin: 0;
@@ -80,7 +78,7 @@ main{
 
 #bottom .right{
     align-items: center;
-}
+}   
 
 #bottom .right img{
     width: 100%;
@@ -108,13 +106,38 @@ footer p{
 /*Mobile*/
 
 @media only screen and (max-width:600px){
+    main{
+        flex-direction: column-reverse;
+    }
     #top{
         flex-direction: column;
     }
     #bottom{
         flex-direction: column-reverse;
     }
+    div.left, div.right{
+    flex: auto;
+    }
     ul, li{
         margin: auto;
+    }
+    div#bottom div.right{
+        margin-bottom: 5vh;
+    }
+
+    div#bottom div.right p{
+        width: 80%;
+        text-align: center;
+    }
+
+    div.topico{
+        margin-left: auto;
+    }
+    #top .left{
+        display: none;
+    }
+    div#top div.right{
+        justify-content: space-around;
+        height: 35vh;
     }
 }

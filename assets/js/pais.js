@@ -1,5 +1,5 @@
 var visivel = false;
-
+const navegacao = document.querySelector("nav");
 var url = window.location.href;
 var partes = url.split('/');
 var nomeArquivo = partes[partes.length - 1];

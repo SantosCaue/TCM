@@ -1,4 +1,5 @@
 var visivel = false;
+const navegacao = document.querySelector("nav");
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
 }

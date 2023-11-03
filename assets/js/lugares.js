@@ -1,4 +1,5 @@
 var visivel = false;
+const navegacao = document.querySelector("nav");
 const Hard = [{"PaisEn": "", "PaisPT": "", "link": "" },];
 const Medio = [{"PaisEn": "", "PaisPT": "", "link": "" },];
 const Facil = [{"PaisEn": "Brazil", "PaisPT": "Brasil", "link": "assets/imgs/redentor.jpg" },];
