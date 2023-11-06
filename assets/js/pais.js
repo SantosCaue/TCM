@@ -67,7 +67,7 @@ function pegarDados(){
         document.getElementById("populacao").innerText = "POPULAÇÃO: " + elemento.populacao + " habitantes";
         document.getElementById("pib").innerText = "PIB: US" + elemento.pib;
         document.getElementById("area").innerText = "ÁREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "IDH: " + elemento.moeda_pt;
+        document.getElementById("idh").innerText = "IDH: " + elemento.idh;
         document.getElementById("idioma").innerText = "IDIOMA: " + elemento.idioma_pt;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_pt;
         document.getElementById("bibliografia").innerText = "FONTE: CIA WORLD FACTBOOK";
@@ -77,7 +77,7 @@ function pegarDados(){
         document.getElementById("populacao").innerText = "POPULATION: " + elemento.populacao + " habitantes";
         document.getElementById("pib").innerText = "GDP: US" + elemento.pib;
         document.getElementById("area").innerText = "AREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "HDI: " + elemento.moeda_en;
+        document.getElementById("hdi").innerText = "HDI: " + elemento.idh;
         document.getElementById("idioma").innerText = "LANGUAGE: " + elemento.idioma_en;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_en;
         document.getElementById("bibliografia").innerText = "SOURCE: CIA WORLD FACTBOOK";
