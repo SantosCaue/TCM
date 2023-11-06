@@ -3,7 +3,7 @@ const navegacao = document.querySelector("nav");
 var url = window.location.href;
 var partes = url.split('/');
 var nomeArquivo = partes[partes.length - 1];
-var pais = nomeArquivo.split(".")[0].replace("_", " ");
+var pais = nomeArquivo.split(".")[0].replaceAll("_", " ");
 
 //CASO NÃO TENHA COOKIE GERA COOKIE
 if (document.cookie.length == 0) {
