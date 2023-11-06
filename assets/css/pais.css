@@ -4,7 +4,7 @@ body{
 
 main {
     flex-direction: row;
-    min-height: 68vh;
+    min-height: 78vh;
 }
 
 #left {
@@ -72,6 +72,7 @@ main {
 @media only screen and (max-width:600px){
     main{
         flex-direction: column-reverse;
+        min-height: 83vh    ;
     }
 
     #right, #left{

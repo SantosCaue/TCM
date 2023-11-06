@@ -65,11 +65,6 @@ function traduzido() {
     span[7].innerText = "RANDOM COUNTRY";
     span[9].innerText = "CHANGE LANGUAGE";
     footer[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
-    document.getElementById("textodown").innerHTML = 'THE COUNTRY OF THE DAY IS <span id="nomepais"></span>, KNOW MORE ABOUT THIS COUNTRY AND ITS GEOGRAPHY';
-    topicos[0].querySelector("p").innerText = "FLAGS OF THE WORLD AND THEIR MEANING";
-    topicos[1].querySelector("p").innerText = "LIST OF THE BEST COUNTRIES TO TRAVEL";
-    topicos[2].querySelector("p").innerText = "WHICH COUNTRIES HAVE THE HIGHEST HDI OF ALL?";
-    bottomright.querySelector("p").innerText = "KNOW ALL ABOUT HISTORICAL FLAGS AND THEIR MEANINGS, REASONS AND STYLES.";
   } else if (getCookie("idioma") == "portugues") {
     document.getElementsByTagName("html")[0].lang = "pt-br";
     h1[0].innerText = "WIKI DOS PAÍSES";
@@ -82,43 +77,8 @@ function traduzido() {
     span[7].innerText = "PAÍS ALEATÓRIO";
     span[9].innerText = "MUDAR IDIOMA";
     footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
-    document.getElementById("textodown").innerHTML = 'O PAÍS DO DIA É <span id="nomepais"></span>, CONHEÇA MAIS SOBRE ESSE PAÍS E SUA GEOGRAFIA';
-    topicos[0].querySelector("p").innerText = "BANDEIRAS DO MUNDO E SEUS SIGNIFICADOS";
-    topicos[1].querySelector("p").innerText = "LISTA DOS MELHORES PAÍSES PARA VIAJAR";
-    topicos[2].querySelector("p").innerText = "QUAIS SÃO OS PAÍSES COM O MAIOR IDH DO MUNDO?";
-    bottomright.querySelector("p").innerText = "CONHEÇA SOBRE BANDEIRAS HISTÓRICAS E SEUS SIGNIFICADOS, RAZÕES, E ESTILOS.";
   }
-  carregarPaisDoDia();
 }
-
-// Função para obter a data atual no formato "DD_MM"
-function getFormattedDate() {
-  const today = new Date();
-  const day = String(today.getDate()).padStart(2, '0');
-  const month = String(today.getMonth() + 1).padStart(2, '0');
-  return `${day}_${month}`;
-}
-
-// Função para carregar o JSON externo e chamar a função de atualização do <h2>
-function carregarPaisDoDia() {
-  fetch('assets/json/paisdodia.json')
-    .then(response => response.json())
-    .then(jsonData => {
-      const formattedDate = getFormattedDate();
-      const elemento = jsonData[formattedDate];
-      document.getElementById('paisdodiabandeira').src = elemento.Bandeira;
-      document.getElementsByClassName("left")[1].onclick = function () { window.location.href = (elemento.Arquivo).replace(" ", "_"); };
-      if (getCookie("idioma") == "portugues") {
-        document.getElementById("nomepais").innerHTML = elemento.PAISportugues.toUpperCase();
-      } else {
-        document.getElementById("nomepais").innerHTML = elemento.PAISingles.toUpperCase();
-      }
-    }
-    )
-    .catch(error => console.error('Erro ao carregar o arquivo JSON:', error));
-}
-
-
 
 window.onload = function () {
   traduzido();

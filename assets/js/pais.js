@@ -31,9 +31,7 @@ function menulateral() {
       document.querySelector("#menu").querySelector("svg").style.rotate = '90deg';
       navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';      ;
       navegacao.style.padding = '1.5vh'
-      setTimeout(function () {
       navegacao.querySelector('ul').style.display = 'flex';
-      }, 300)
       visivel = true;
   } else {
     document.querySelector("#menu").querySelector("svg").style.rotate = '0deg';
@@ -67,9 +65,9 @@ function pegarDados(){
         document.getElementById("country").innerHTML = elemento.nome_pt;
         document.getElementById("descricao").innerText = elemento.descricao_pt;
         document.getElementById("populacao").innerText = "POPULAÇÃO: " + elemento.populacao + " habitantes";
-        document.getElementById("pib").innerText = "PIB: US$" + elemento.pib;
+        document.getElementById("pib").innerText = "PIB: US" + elemento.pib;
         document.getElementById("area").innerText = "ÁREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "MOEDA: " + elemento.moeda_pt;
+        document.getElementById("moeda").innerText = "IDH: " + elemento.moeda_pt;
         document.getElementById("idioma").innerText = "IDIOMA: " + elemento.idioma_pt;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_pt;
         document.getElementById("bibliografia").innerText = "FONTE: CIA WORLD FACTBOOK";
@@ -77,9 +75,9 @@ function pegarDados(){
         document.getElementById("country").innerHTML = elemento.nome_en;
         document.getElementById("descricao").innerText = elemento.descricao_en;
         document.getElementById("populacao").innerText = "POPULATION: " + elemento.populacao + " habitantes";
-        document.getElementById("pib").innerText = "GDP: US$" + elemento.pib;
+        document.getElementById("pib").innerText = "GDP: US" + elemento.pib;
         document.getElementById("area").innerText = "AREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "CURRENCY: " + elemento.moeda_en;
+        document.getElementById("moeda").innerText = "HDI: " + elemento.moeda_en;
         document.getElementById("idioma").innerText = "LANGUAGE: " + elemento.idioma_en;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_en;
         document.getElementById("bibliografia").innerText = "SOURCE: CIA WORLD FACTBOOK";

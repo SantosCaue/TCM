@@ -23,9 +23,7 @@ function menulateral() {
       document.querySelector("#menu").querySelector("svg").style.rotate = '90deg';
       navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';      ;
       navegacao.style.padding = '1.5vh'
-      setTimeout(function () {
       navegacao.querySelector('ul').style.display = 'flex';
-      }, 300)
       visivel = true;
   } else {
     document.querySelector("#menu").querySelector("svg").style.rotate = '0deg';

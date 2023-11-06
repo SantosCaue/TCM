@@ -1,0 +1,47 @@
+main{
+    min-height: 78vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+section#texto{
+    margin-top: 3vh;
+    width: 66.66%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3vh;
+}
+
+section h2{
+    border-width: 0px 0 3px 0;
+    border-style: solid;
+}
+
+section div div{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 3vh;
+}
+
+section img{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    width: 40%;
+}
+
+section div p{
+    margin: 0;
+}
+
+
+
+@media only screen and (max-width:600px) {
+
+    main{
+        min-height: 83vh;
+    }
+
+}
