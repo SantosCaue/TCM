@@ -11,7 +11,7 @@
         "idioma_en": "Dari and Pashto",
         "idioma_pt": "Dari e Pastó",
         "capital_en": "Kabul",
-        "capital_pt": "Brasília",
+        "capital_pt": "Cabul",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/19/Afghanistan_%28orthographic_projection%29.svg",
         "idh": 0.478
     },
@@ -27,7 +27,7 @@
         "idioma_en": "Albanian",
         "idioma_pt": "Albanês",
         "capital_en": "Tirana (Tirane)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Tirana",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Albania_%28orthographic_projection%29.svg",
         "idh": 0.796
     },
@@ -43,7 +43,7 @@
         "idioma_en": "Arabic, French and Berber;",
         "idioma_pt": "Arábe, Francês e Berbere;",
         "capital_en": "Algiers",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Argel",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/25/Algeria_%28orthographic_projection%29.svg",
         "idh": 0.745
     },
@@ -59,7 +59,7 @@
         "idioma_en": "Catalan",
         "idioma_pt": "Catalão",
         "capital_en": "Andorra la Vella",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Andorra-a-Velha",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/255px-Location_Andorra_Europe.png",
         "idh": 0.858
     },
@@ -75,7 +75,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Luanda",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Luanda",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/89/Angola_%28orthographic_projection%29.svg",
         "idh": 0.586
     },
@@ -91,7 +91,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Saint John's",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "São João",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/255px-ATG_orthographic.svg.png",
         "idh": 0.788
     },
@@ -107,7 +107,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Buenos Aires",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Buenos Aires",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Argentina_orthographic.svg",
         "idh": 0.842
     },
@@ -123,7 +123,7 @@
         "idioma_en": "Armenian",
         "idioma_pt": "Armênio",
         "capital_en": "Yerevan",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Erevã",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/96/Armenia_%28orthographic_projection%29.svg",
         "idh": 0.759
     },
@@ -139,7 +139,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Canberra",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Camberra",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Australia_%28orthographic_projection%29.svg",
         "idh": 0.951
     },
@@ -155,7 +155,7 @@
         "idioma_en": "German",
         "idioma_pt": "Alemão",
         "capital_en": "Vienna",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Viena",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/38/EU-Austria_%28orthographic_projection%29.svg",
         "idh": 0.916
     },
@@ -171,7 +171,7 @@
         "idioma_en": "Azeri",
         "idioma_pt": "Azeri",
         "capital_en": "Baku (Baki, Baky)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bacu",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/01/Azerbaijan_%28orthographic_projection%29.svg",
         "idh": 0.745
     },
@@ -187,7 +187,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Nassau",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nassau",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Bahamas_on_the_globe_%28Americas_centered%29.svg",
         "idh": 0.812
     },
@@ -203,7 +203,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Manama",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Manama",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/83/Map_of_Bahrain.svg",
         "idh": 0.875
     },
@@ -219,7 +219,7 @@
         "idioma_en": "Bangla",
         "idioma_pt": "Bengali",
         "capital_en": "Dhaka",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Daca",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bangladesh_%28orthographic_projection%29.svg",
         "idh": 0.661
     },
@@ -235,12 +235,12 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Bridgetown",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bridgetown",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BRB_orthographic.svg",
         "idh": 0.79
     },
     "belarus": {
-        "nome_pt": "Bielorrússia",
+        "nome_pt": "Belarus",
         "nome_en": "Belarus",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
         "descricao_pt": "Belarus, oficialmente a República de Belarus, é uma nação localizada na Europa Oriental. Sua história é profundamente influenciada pela União Soviética, da qual fez parte. Atualmente, o país é conhecido por sua economia planificada, liderada pelo governo, e por seu presidente de longa data, Alexander Lukashenko. Belarus tem uma herança cultural rica, com influências russas, polonesas e lituanas. O país é conhecido por sua produção de tratores e maquinaria pesada.",
@@ -249,9 +249,9 @@
         "area": " 207.600",
         "pib": "$63.168.000.000 (2019 est.)",
         "idioma_en": "Russian and Belarusian",
-        "idioma_pt": "Russo e Belarusian",
+        "idioma_pt": "Russo e Bielorrusso",
         "capital_en": "Minsk",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Minsque",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Belarus_%28orthographic_projection%29.svg",
         "idh": 0.808
     },
@@ -267,7 +267,7 @@
         "idioma_en": "Dutch, French and German",
         "idioma_pt": "Neerlandês, Francês e Alemão",
         "capital_en": "Brussels",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bruxelas",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/79/Belgium_%28orthographic_projection%29.svg",
         "idh": 0.937
     },
@@ -283,7 +283,7 @@
         "idioma_en": "English,",
         "idioma_pt": "Inglês,",
         "capital_en": "Belmopan",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Belmopã",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/43/BLZ_orthographic.svg",
         "idh": 0.683
     },
@@ -299,7 +299,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Porto-Novo (de jure), Cotonou (de facto)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto Novo (de jure), Cotonu (de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benin_%28orthographic_projection_with_inset%29.svg",
         "idh": 0.525
     },
@@ -315,7 +315,7 @@
         "idioma_en": "Dzongkha",
         "idioma_pt": "Dzonga",
         "capital_en": "Thimphu",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Timbu",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bhutan_%28orthographic_projection%29.svg",
         "idh": 0.666
     },
@@ -331,7 +331,7 @@
         "idioma_en": "Spanish, Quechua, Aymara, Guarani and other indigineous languages",
         "idioma_pt": "Espanhol, Quéchua, Aimará, Guarani e other indigineous languages",
         "capital_en": "La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Sucre",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bolivia_%28orthographic_projection%29.svg",
         "idh": 0.692
     },
@@ -347,7 +347,7 @@
         "idioma_en": "Bosnian, Serbian and Croatian",
         "idioma_pt": "Bósnio, Sérvio e Croata",
         "capital_en": "Sarajevo",
-        "capital_pt": "Brasília",
+        "capital_pt": "Saraievo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bosnia_and_Herzegovina_%28orthographic_projection%29.svg",
         "idh": 0.78
     },
@@ -363,7 +363,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Gaborone",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Gaborone",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BWA_orthographic.svg",
         "idh": 0.693
     },
@@ -379,7 +379,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Brasília",
-        "capital_pt": "Brasí­lia",
+        "capital_pt": "Brasília",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.754
     },
@@ -395,7 +395,7 @@
         "idioma_en": "Malay",
         "idioma_pt": "Malaio",
         "capital_en": "Bandar Seri Begawan",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bandar Seri Begauã",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brunei_in_its_region_%28special_marker%29.svg",
         "idh": 0.829
     },
@@ -407,11 +407,11 @@
         "descricao_en": "Bulgaria, in southeastern Europe, has a rich historical heritage dating back to the Thracians and the Roman Empire. After Ottoman rule, the country gained independence in the 19th century. Today, it is a member of the European Union and NATO. Bulgaria faces economic challenges, but its cultural heritage and natural beauty attract visitors from around the world.",
         "populacao": "6.827.736 (2023 est.)",
         "area": " 110.879",
-        "pib": "$68.489.999.999..99.999 (2019 est.)",
+        "pib": "$68.490.000.000 (2019 est.)",
         "idioma_en": "Bulgarian",
         "idioma_pt": "Búlgaro",
         "capital_en": "Sofia",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Sofia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bulgaria_%28orthographic_projection%29.svg",
         "idh": 0.795
     },
@@ -427,7 +427,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Ouagadougou",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Uagadugu",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/86/Burkina_Faso_%28orthographic_projection%29.svg",
         "idh": 0.449
     },
@@ -443,7 +443,7 @@
         "idioma_en": "Kirundi, French and English",
         "idioma_pt": "Kirundi, Francês e Inglês",
         "capital_en": "Gitega",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Guitega",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/27/Burundi_%28orthographic_projection%29.svg",
         "idh": 0.426
     },
@@ -459,7 +459,7 @@
         "idioma_en": "Khmer",
         "idioma_pt": "Khmer",
         "capital_en": "Phnom Penh",
-        "capital_pt": "Brasília",
+        "capital_pt": "Pnom Pene",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.593
     },
@@ -475,7 +475,7 @@
         "idioma_en": "English and French",
         "idioma_pt": "Inglês e Francês",
         "capital_en": "Yaounde",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Iaundé",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cameroon_%28orthographic_projection%29.svg",
         "idh": 0.576
     },
@@ -491,7 +491,7 @@
         "idioma_en": "English and French",
         "idioma_pt": "Inglês e Francês",
         "capital_en": "Ottawa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Ottawa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Canada_%28orthographic_projection%29.svg",
         "idh": 0.936
     },
@@ -507,7 +507,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Praia",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Praia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cape_Verde_%28orthographic_projection%29.svg",
         "idh": 0.662
     },
@@ -523,7 +523,7 @@
         "idioma_en": "French and Sangho",
         "idioma_pt": "Francês e Sango",
         "capital_en": "Bangui",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bangui",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Central_African_Republic_%28orthographic_projection%29.svg",
         "idh": 0.404
     },
@@ -539,7 +539,7 @@
         "idioma_en": "French and Arabic",
         "idioma_pt": "Francês e Arábe",
         "capital_en": "N'Djamena",
-        "capital_pt": "Brasília",
+        "capital_pt": "Jamena",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chad_%28orthographic_projection%29.svg",
         "idh": 0.394
     },
@@ -555,7 +555,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Santiago",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Santiago",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chile_%28orthographic_projection%29.svg",
         "idh": 0.855
     },
@@ -571,7 +571,7 @@
         "idioma_en": "Mandarin, Zhuang, Yue, Mongolian, Uygur, Kyrgyz and Tibetan",
         "idioma_pt": "Mandarim, Xuém, Cantonês, Mongól, Uigur, Quirguiz e Tibetano",
         "capital_en": "Beijing",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Pequim",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/78/People%27s_Republic_of_China_%28orthographic_projection%29.svg",
         "idh": 0.768
     },
@@ -587,7 +587,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Bogota",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bogotá",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6f/COL_orthographic.svg",
         "idh": 0.752
     },
@@ -603,7 +603,7 @@
         "idioma_en": "Arabic, French and Shikomoro",
         "idioma_pt": "Arábe, Francês e Shikomoro",
         "capital_en": "Moroni",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Moroni",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Comoros_%28orthographic_projection%29.svg",
         "idh": 0.558
     },
@@ -619,7 +619,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Kinshasa",
-        "capital_pt": "Brasília",
+        "capital_pt": "Quinxassa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.479
     },
@@ -635,7 +635,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Brazzaville",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Brazavile",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg",
         "idh": 0.571
     },
@@ -651,7 +651,7 @@
         "idioma_en": "Spanish and English",
         "idioma_pt": "Espanhol e Inglês",
         "capital_en": "San Jose",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "São José",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Costa_Rica_%28orthographic_projection%29.svg",
         "idh": 0.809
     },
@@ -667,7 +667,7 @@
         "idioma_en": "Croatian",
         "idioma_pt": "Croata",
         "capital_en": "Zagreb",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Zagrebe",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/92/Europe-Croatia.svg",
         "idh": 0.858
     },
@@ -683,7 +683,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Havana",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Havana",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cuba_%28orthographic_projection%29.svg",
         "idh": 0.764
     },
@@ -699,7 +699,7 @@
         "idioma_en": "Greek and Turkish",
         "idioma_pt": "Grego e Turco",
         "capital_en": "Nicosia",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nicósia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6e/EU-Cyprus_highlighted.svg",
         "idh": 0.896
     },
@@ -715,7 +715,7 @@
         "idioma_en": "Czech",
         "idioma_pt": "Tcheco",
         "capital_en": "Prague",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Praga",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/31/EU-Czech_Republic.svg",
         "idh": 0.889
     },
@@ -731,7 +731,7 @@
         "idioma_en": "Danish",
         "idioma_pt": "Dinamarquês",
         "capital_en": "Copenhagen",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Copenhaga",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denmark_%28orthographic_projection%29.svg",
         "idh": 0.948
     },
@@ -747,7 +747,7 @@
         "idioma_en": "French and Arabic",
         "idioma_pt": "Francês e Arábe",
         "capital_en": "Djibouti",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Djibouti",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Djibouti_%28orthographic_projection%29.svg",
         "idh": 0.509
     },
@@ -763,7 +763,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Roseau",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Roseau",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dominica_on_the_globe_%28Americas_centered%29.svg",
         "idh": 0.72
     },
@@ -779,7 +779,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Santo Domingo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "São Domingos",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dominican_Republic_%28orthographic_projection%29.svg",
         "idh": 0.767
     },
@@ -795,7 +795,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Quito",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Quito",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ecuador_%28orthographic_projection%29.svg",
         "idh": 0.74
     },
@@ -811,7 +811,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Cairo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Cairo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Egypt_%28orthographic_projection%29.svg",
         "idh": 0.731
     },
@@ -827,7 +827,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "San Salvador",
-        "capital_pt": "Braslia",
+        "capital_pt": "São Salvador",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/e3/El_Salvador_%28orthographic_projection%29.svg",
         "idh": 0.675
     },
@@ -843,7 +843,7 @@
         "idioma_en": "Spanish, Portuguese and French",
         "idioma_pt": "Espanhol, Português e Francês",
         "capital_en": "Malabo",
-        "capital_pt": "Braslia",
+        "capital_pt": "Malabo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/b9/GNQ_orthographic.svg",
         "idh": 0.596
     },
@@ -859,7 +859,7 @@
         "idioma_en": "Tigrinya, Arabic and English",
         "idioma_pt": "Tigrínia, Arábe e Inglês",
         "capital_en": "Asmara",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Asmara",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/43/Eritrea_%28Africa_orthographic_projection%29.svg",
         "idh": 0.492
     },
@@ -875,12 +875,12 @@
         "idioma_en": "Estonian",
         "idioma_pt": "Estoniano",
         "capital_en": "Tallinn",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Talim",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a2/EU-Estonia.svg",
         "idh": 0.89
     },
     "eswatini": {
-        "nome_pt": "Eswatini",
+        "nome_pt": "Essuatíni",
         "nome_en": "Eswatini",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Eswatini.svg",
         "descricao_pt": "Essuatíni, anteriormente conhecido como Suazilândia, é um pequeno país no sul da África, cercado pela África do Sul e Moçambique. Sua história inclui tradições culturais ricas e a liderança de uma monarquia tradicional. Atualmente, o Essuatíni é conhecido por sua beleza natural, com paisagens deslumbrantes e vida selvagem diversificada. O país é famoso por suas danças tradicionais e festivais culturais.",
@@ -891,7 +891,7 @@
         "idioma_en": "English and siSwati",
         "idioma_pt": "Inglês e suázi",
         "capital_en": "Mbabane",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lobamba",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/63/LocationEswatini.svg",
         "idh": 0.597
     },
@@ -907,7 +907,7 @@
         "idioma_en": "Oromo, Amharic, Somali, Tigrigna and Afar",
         "idioma_pt": "Oromo, Amárico, Somali, Tigrínia e Afar",
         "capital_en": "Addis Ababa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Adis Abeba",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg",
         "idh": 0.498
     },
@@ -923,7 +923,7 @@
         "idioma_en": "English, iTaukei and Fiji Hindi",
         "idioma_pt": "Inglês, iTaukei e Híndi fijiano",
         "capital_en": "Suva (on Viti Levu)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Suva",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Fiji_%28orthographic_projection%29.svg",
         "idh": 0.73
     },
@@ -939,7 +939,7 @@
         "idioma_en": "Finnish and Swedish",
         "idioma_pt": "Finlandês e Sueco",
         "capital_en": "Helsinki",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Helsínquia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Finland_%28orthographic_projection%29.svg",
         "idh": 0.94
     },
@@ -955,7 +955,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Paris",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Paris",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/e1/France_%28orthographic_projection%29.svg",
         "idh": 0.903
     },
@@ -971,7 +971,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Libreville",
-        "capital_pt": "Brasília",
+        "capital_pt": "Librevile",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gabon_%28orthographic_projection%29.svg",
         "idh": 0.706
     },
@@ -987,7 +987,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Banjul",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Banjul",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gambia_%28orthographic_projection_with_inset%29.svg",
         "idh": 0.5
     },
@@ -1003,7 +1003,7 @@
         "idioma_en": "Georgian and Abkhaz",
         "idioma_pt": "Georgiano e Abcázio",
         "capital_en": "Tbilisi",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Tiblíssi",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Georgia_%28orthographic_projection%29.svg",
         "idh": 0.802
     },
@@ -1019,7 +1019,7 @@
         "idioma_en": "German",
         "idioma_pt": "Alemão",
         "capital_en": "Berlin",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Berlim",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/95/Germany_%28orthographic_projection%29.svg",
         "idh": 0.942
     },
@@ -1035,7 +1035,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Accra",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Acra",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ghana_%28orthographic_projection%29.svg",
         "idh": 0.632
     },
@@ -1051,7 +1051,7 @@
         "idioma_en": "Greek",
         "idioma_pt": "Grego",
         "capital_en": "Athens",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Atenas",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f7/EU-Greece_%28orthographic_projection%29.svg",
         "idh": 0.887
     },
@@ -1067,7 +1067,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Saint George's",
-        "capital_pt": "Brasília",
+        "capital_pt": "São Jorge",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.795
     },
@@ -1083,7 +1083,7 @@
         "idioma_en": "Spanish and 21 Maya languages",
         "idioma_pt": "Espanhol e 21 línguas maias",
         "capital_en": "Guatemala City",
-        "capital_pt": "Brasília",
+        "capital_pt": "Cidade da Guatemala",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg",
         "idh": 0.627
     },
@@ -1099,7 +1099,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Bissau",
-        "capital_pt": "Brasília",
+        "capital_pt": "Bissau",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.483
     },
@@ -1115,7 +1115,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Conakry",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Conacri",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Guinea_%28orthographic_projection%29.svg",
         "idh": 0.465
     },
@@ -1131,7 +1131,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Georgetown",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Georgetown",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/20/Guyana_%28orthographic_projection%29.svg",
         "idh": 0.714
     },
@@ -1147,7 +1147,7 @@
         "idioma_en": "French and Creole",
         "idioma_pt": "Francês e Crioulo",
         "capital_en": "Port-au-Prince",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto Príncipe",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Haiti_%28orthographic_projection%29.svg",
         "idh": 0.535
     },
@@ -1163,7 +1163,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Tegucigalpa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Tegucigalpa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Honduras_%28orthographic_projection%29.svg",
         "idh": 0.621
     },
@@ -1179,7 +1179,7 @@
         "idioma_en": "Hungarian",
         "idioma_pt": "Hungáro",
         "capital_en": "Budapest",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Budapeste",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/60/EU-Hungary.svg",
         "idh": 0.846
     },
@@ -1195,7 +1195,7 @@
         "idioma_en": "Icelandic",
         "idioma_pt": "Islandês",
         "capital_en": "Reykjavik",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Reiquiavique",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceland_%28orthographic_projection%29.svg",
         "idh": 0.959
     },
@@ -1211,7 +1211,7 @@
         "idioma_en": "English, Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Urdu, Kannada, Odia, Malayalam, Punjabi, Assamese, Maithili and others official languages",
         "idioma_pt": "Inglês, Híndi, Bengali, Marata, Telugo, Tâmil, Guzerate, Urdu, Canarim, Oriá, Malaioalam, Panjabi, Assamês, Maithili e outras línguas oficias",
         "capital_en": "New Delhi",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nova Déli",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bb/India_%28orthographic_projection%29.svg",
         "idh": 0.633
     },
@@ -1227,7 +1227,7 @@
         "idioma_en": "Bahasa Indonesia",
         "idioma_pt": "Indonésio",
         "capital_en": "Jakarta",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Jacarta",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/05/Indonesia_%28orthographic_projection%29.svg",
         "idh": 0.705
     },
@@ -1243,7 +1243,7 @@
         "idioma_en": "Persian Farsi",
         "idioma_pt": "Pérsio",
         "capital_en": "Tehran",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Teerão",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Iran_%28orthographic_projection%29.svg",
         "idh": 0.774
     },
@@ -1259,7 +1259,7 @@
         "idioma_en": "Arabic, Kurdish, Turkmen and Syriac",
         "idioma_pt": "Arábe, Curdo, Turcomeno e Siríaco",
         "capital_en": "Baghdad",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bagdade",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/59/Iraq_%28orthographic_projection%29.svg",
         "idh": 0.686
     },
@@ -1275,7 +1275,7 @@
         "idioma_en": "English and Irish",
         "idioma_pt": "Inglês e Irlandês",
         "capital_en": "Dublin",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Dublim",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/38/EU-Ireland_%28orthographic_projection%29.svg",
         "idh": 0.945
     },
@@ -1291,7 +1291,7 @@
         "idioma_en": "Italian",
         "idioma_pt": "Italiano",
         "capital_en": "Rome",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Roma",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Italy_%28orthographic_projection%29.svg",
         "idh": 0.895
     },
@@ -1307,7 +1307,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Yamoussoukro (de jure), Abidjan (de facto)",
-        "capital_pt": "Brasília",
+        "capital_pt": "Iamussucro  (de jure), Abidjã(de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.55
     },
@@ -1323,7 +1323,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Kingston",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Kingston",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jamaica_%28orthographic_projection%29.svg",
         "idh": 0.709
     },
@@ -1339,7 +1339,7 @@
         "idioma_en": "Japanese",
         "idioma_pt": "Japonês",
         "capital_en": "Tokyo",
-        "capital_pt": "Brasília",
+        "capital_pt": "Tóquio",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/62/Japan_%28orthographic_projection%29.svg",
         "idh": 0.925
     },
@@ -1355,7 +1355,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Amman",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Amã",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Jordan_%28orthographic_projection%29.svg",
         "idh": 0.72
     },
@@ -1371,7 +1371,7 @@
         "idioma_en": "Kazakh and Russian",
         "idioma_pt": "Cazaque e Russo",
         "capital_en": "Astana",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Astana",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kazakhstan_%28orthographic_projection%29.svg",
         "idh": 0.811
     },
@@ -1387,7 +1387,7 @@
         "idioma_en": "English and Kiswahili",
         "idioma_pt": "Inglês e Suaíli",
         "capital_en": "Nairobi",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nairóbi",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kenya_%28orthographic_projection%29.svg",
         "idh": 0.575
     },
@@ -1403,7 +1403,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Tarawa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Taraua do Sul",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg",
         "idh": 0.624
     },
@@ -1419,7 +1419,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Kuwait City",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Cidade do Kuwait",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/41/KWT_orthographic.svg",
         "idh": 0.831
     },
@@ -1435,7 +1435,7 @@
         "idioma_en": "Kyrgyz and Russian",
         "idioma_pt": "Quirguiz e Russo",
         "capital_en": "Bishkek",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bisqueque",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kyrgyzstan_%28orthographic_projection%29.svg",
         "idh": 0.692
     },
@@ -1447,11 +1447,11 @@
         "descricao_en": "Laos, officially the Lao People's Democratic Republic, is a country in Southeast Asia. Throughout its history, it was influenced by the Khmer Empire, the Kingdom of Lan Xang, and French colonial rule. Today, Laos is known for its natural beauty, including the Plain of Jars and the mountains of Luang Prabang.",
         "populacao": "7.852.377 (2023 est.)",
         "area": " 236.800",
-        "pib": "$169.699.999.99..999.998 (2017 est.)",
+        "pib": "$16.970.000.000 (2017 est.)",
         "idioma_en": "Lao",
         "idioma_pt": "Laonio",
         "capital_en": "Vientiane",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Vienciana",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Laos_%28orthographic_projection%29.svg",
         "idh": 0.607
     },
@@ -1463,11 +1463,11 @@
         "descricao_en": "Latvia is a Baltic country located in Northern Europe. Its history includes periods of domination by empires such as the Swedish and the Russian. Today, Latvia is an independent state with a growing economy and a diverse cultural environment.",
         "populacao": "1.821.750 (2023 est.)",
         "area": " 64.589",
-        "pib": "$340.840.000.00..000.004 (2019 est.)",
+        "pib": "$34.084.000.000 (2019 est.)",
         "idioma_en": "Latvian",
         "idioma_pt": "Letão",
         "capital_en": "Riga",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Riga",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/32/EU-Latvia.svg",
         "idh": 0.863
     },
@@ -1483,7 +1483,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Beirut",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Beirute",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lebanon_%28orthographic_projection%29.svg",
         "idh": 0.706
     },
@@ -1499,7 +1499,7 @@
         "idioma_en": "Sesotho and English",
         "idioma_pt": "Sesoto e Inglês",
         "capital_en": "Maseru",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Maseru",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lesotho_%28orthographic_projection%29.svg",
         "idh": 0.514
     },
@@ -1515,7 +1515,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Monrovia",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Monróvia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/91/Liberia_%28orthographic_projection%29.svg",
         "idh": 0.481
     },
@@ -1531,7 +1531,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Tripoli",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Trípoli",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Libya_%28Libya_centered%3B_orthographic_projection%29.svg",
         "idh": 0.718
     },
@@ -1547,7 +1547,7 @@
         "idioma_en": "German",
         "idioma_pt": "Alemão",
         "capital_en": "Vaduz",
-        "capital_pt": "Brasília",
+        "capital_pt": "Vaduz",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.935
     },
@@ -1563,7 +1563,7 @@
         "idioma_en": "Lithuanian",
         "idioma_pt": "Lituano",
         "capital_en": "Vilnius",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Vílnius",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ec/EU-Lithuania.svg",
         "idh": 0.875
     },
@@ -1579,7 +1579,7 @@
         "idioma_en": "Luxembourgish, French and German",
         "idioma_pt": "Luxemburguês, Francês e Alemão",
         "capital_en": "Luxembourg",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Luxemburgo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c3/EU-Luxembourg.svg",
         "idh": 0.93
     },
@@ -1595,7 +1595,7 @@
         "idioma_en": "Malagasy and French",
         "idioma_pt": "Malgaxe e Francês",
         "capital_en": "Antananarivo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Antananarivo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/99/Madagascar_%28orthographic_projection%29.svg",
         "idh": 0.501
     },
@@ -1611,7 +1611,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Lilongwe",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lilongué",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Malawi_%28orthographic_projection%29.svg",
         "idh": 0.512
     },
@@ -1627,7 +1627,7 @@
         "idioma_en": "Bahasa Malaysia",
         "idioma_pt": "Bahasa Malaiosia",
         "capital_en": "Kuala Lumpur",
-        "capital_pt": "Brasília",
+        "capital_pt": "Cuala Lumpur",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/23/Malaysia_%28orthographic_projection%29.svg",
         "idh": 0.803
     },
@@ -1643,7 +1643,7 @@
         "idioma_en": "Dhivehi",
         "idioma_pt": "diveí",
         "capital_en": "Male",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Malé",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maldives_%28orthographic_projection%29.svg",
         "idh": 0.747
     },
@@ -1659,7 +1659,7 @@
         "idioma_en": "Bambara",
         "idioma_pt": "Bambara",
         "capital_en": "Bamako",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bamaco",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mali_%28orthographic_projection%29.svg",
         "idh": 0.428
     },
@@ -1675,7 +1675,7 @@
         "idioma_en": "Maltese and English",
         "idioma_pt": "Maltês e Inglês",
         "capital_en": "Valletta",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Valeta",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg",
         "idh": 0.918
     },
@@ -1691,7 +1691,7 @@
         "idioma_en": "Marshallese",
         "idioma_pt": "Marshallesa",
         "capital_en": "Majuro",
-        "capital_pt": "Brasília",
+        "capital_pt": "Majuro",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.639
     },
@@ -1707,7 +1707,7 @@
         "idioma_en": "Arabic (Hassaniya), Pular, Soninke and Wolof",
         "idioma_pt": "Arábe (Hassaniya), Fula, Soninquês e Uolofe",
         "capital_en": "Nouakchott",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nuaquexote",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mauritania_%28orthographic_projection%29.svg",
         "idh": 0.556
     },
@@ -1723,7 +1723,7 @@
         "idioma_en": "Creole and English",
         "idioma_pt": "Crioulo e Inglês",
         "capital_en": "Port Louis",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto Luís",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mauritius_%28orthographic_projection%29.svg",
         "idh": 0.802
     },
@@ -1739,7 +1739,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Mexico City",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Cidade do México",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mexico_%28orthographic_projection%29.svg",
         "idh": 0.758
     },
@@ -1755,7 +1755,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Palikir",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Paliquir",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Micronesia_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg",
         "idh": 0.628
     },
@@ -1771,7 +1771,7 @@
         "idioma_en": "Romanian and Russian",
         "idioma_pt": "Romeno e Russo",
         "capital_en": "Chisinau",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Quixinau",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Moldova_Europe.png",
         "idh": 0.767
     },
@@ -1787,7 +1787,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Monaco",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Mónaco",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Location_Monaco_Europe.png",
         "idh": null
     },
@@ -1803,7 +1803,7 @@
         "idioma_en": "Mongolian",
         "idioma_pt": "Mongól",
         "capital_en": "Ulaanbaatar",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Ulã Bator",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
         "idh": 0.739
     },
@@ -1819,7 +1819,7 @@
         "idioma_en": "Montenegrin",
         "idioma_pt": "Montenegrino",
         "capital_en": "Podgorica",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Podgoritza",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/38/Montenegro_%28orthographic_projection%29.svg",
         "idh": 0.832
     },
@@ -1835,7 +1835,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Rabat",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Rebate",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg",
         "idh": 0.683
     },
@@ -1851,7 +1851,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Maputo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Maputo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mozambique_%28orthographic_projection%29.svg",
         "idh": 0.446
     },
@@ -1867,7 +1867,7 @@
         "idioma_en": "Burmese",
         "idioma_pt": "Burmês",
         "capital_en": "Nay Pyi Taw",
-        "capital_pt": "Brasília",
+        "capital_pt": "Nepiedó",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.585
     },
@@ -1883,7 +1883,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Windhoek",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Vinduque",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Namibia_%28orthographic_projection%29.svg",
         "idh": 0.615
     },
@@ -1899,7 +1899,7 @@
         "idioma_en": "Nauruan and English",
         "idioma_pt": "nauruana e Inglês",
         "capital_en": "Yaren District (de facto)",
-        "capital_pt": "Brasília",
+        "capital_pt": "Distrito de Iarém (de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": null
     },
@@ -1915,7 +1915,7 @@
         "idioma_en": "Nepali",
         "idioma_pt": "Nepalês",
         "capital_en": "Kathmandu",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Catmandu",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nepal_%28orthographic_projection%29.svg",
         "idh": 0.602
     },
@@ -1931,7 +1931,7 @@
         "idioma_en": "Dutch",
         "idioma_pt": "Neerlandês",
         "capital_en": "Amsterdam (de jure), Hague (de facto)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Amesterdã (de jure), Haia (de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/52/Netherlands_%28orthographic_projection%29.svg",
         "idh": 0.941
     },
@@ -1947,7 +1947,7 @@
         "idioma_en": "English and Maori",
         "idioma_pt": "Inglês e Maori",
         "capital_en": "Wellington",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Wellington",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d8/New_Zealand_%28orthographic_projection%29.svg",
         "idh": 0.937
     },
@@ -1963,7 +1963,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Managua",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Manágua",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nicaragua_%28orthographic_projection%29.svg",
         "idh": 0.667
     },
@@ -1979,7 +1979,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Niamey",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Niamei",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/88/Niger_%28orthographic_projection%29.svg",
         "idh": 0.4
     },
@@ -1995,7 +1995,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Abuja",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Abuja",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nigeria_%28orthographic_projection%29.svg",
         "idh": 0.535
     },
@@ -2011,7 +2011,7 @@
         "idioma_en": "Korean",
         "idioma_pt": "Coreano",
         "capital_en": "Pyongyang",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Pionguiangue",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7b/North_Korea_%28orthographic_projection%29.svg",
         "idh": null
     },
@@ -2027,7 +2027,7 @@
         "idioma_en": "Macedonian and Albanian",
         "idioma_pt": "Macedônio e Albanês",
         "capital_en": "Skopje",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Escópia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/0a/North_Macedonia_%28orthographic_projection%29.svg",
         "idh": 0.77
     },
@@ -2043,7 +2043,7 @@
         "idioma_en": "Norwegian",
         "idioma_pt": "Norueguês",
         "capital_en": "Oslo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Oslo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/28/Norway_%28orthographic_projection%29.svg",
         "idh": 0.961
     },
@@ -2059,7 +2059,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Muscat",
-        "capital_pt": "Brasília",
+        "capital_pt": "Mascate",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.816
     },
@@ -2075,7 +2075,7 @@
         "idioma_en": "Punjabi, Pashto, Sindhi, Saraiki, Urdu, Balochi, Hindko, Brahui",
         "idioma_pt": "Panjabi, Pastó, Sindis, Seraiki, Urdu, Balúchi, Hindko, Brahui",
         "capital_en": "Islamabad",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Islamabade",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ea/PAK_orthographic.svg",
         "idh": 0.544
     },
@@ -2091,7 +2091,7 @@
         "idioma_en": "Palauan and English",
         "idioma_pt": "Palauense e Inglês",
         "capital_en": "Ngerulmud",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Ngerulmud",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/57/Palau_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg",
         "idh": 0.767
     },
@@ -2107,7 +2107,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Brasília",
-        "capital_pt": "Brasília",
+        "capital_pt": "Jerusalém Oriental",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/ad/State_of_Palestine_%28orthographic_projection%29.svg",
         "idh": 0.715
     },
@@ -2123,7 +2123,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Panama City",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Cidade do Panamá",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg",
         "idh": 0.805
     },
@@ -2139,7 +2139,7 @@
         "idioma_en": "Tok Pisin, English and Hiri Motu",
         "idioma_pt": "Tok Pisin, Inglês e Hiri Motu",
         "capital_en": "Port Moresby",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto Moresby",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg",
         "idh": 0.558
     },
@@ -2155,7 +2155,7 @@
         "idioma_en": "Spanish and Guarani",
         "idioma_pt": "Espanhol e Guarani",
         "capital_en": "Asuncion",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Assunção",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paraguay_%28orthographic_projection%29.svg",
         "idh": 0.717
     },
@@ -2171,7 +2171,7 @@
         "idioma_en": "Spanish, Quechua and Aymara",
         "idioma_pt": "Espanhol, Quéchua e Aimará",
         "capital_en": "Lima",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lima",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peru_%28orthographic_projection%29.svg",
         "idh": 0.762
     },
@@ -2187,7 +2187,7 @@
         "idioma_en": "Tagalog and English",
         "idioma_pt": "Tagalo e Inglês",
         "capital_en": "Manila",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Manila",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/50/Philippines_%28orthographic_projection%29.svg",
         "idh": 0.699
     },
@@ -2203,7 +2203,7 @@
         "idioma_en": "Polish",
         "idioma_pt": "Polonês",
         "capital_en": "Warsaw",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Varsóvia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Poland_%28orthographic_projection%29.svg",
         "idh": 0.876
     },
@@ -2219,7 +2219,7 @@
         "idioma_en": "Portuguese and Mirandese",
         "idioma_pt": "Português e Mirandês",
         "capital_en": "Lisbon",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lisboa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Portugal_%28orthographic_projection%29.svg",
         "idh": 0.866
     },
@@ -2235,7 +2235,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Doha",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Doa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d4/QAT_orthographic.svg",
         "idh": 0.855
     },
@@ -2251,7 +2251,7 @@
         "idioma_en": "Romanian",
         "idioma_pt": "Romeno",
         "capital_en": "Bucharest",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bucareste",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/87/Romania_%28orthographic_projection%29.svg",
         "idh": 0.821
     },
@@ -2267,7 +2267,7 @@
         "idioma_en": "Russian",
         "idioma_pt": "Russo",
         "capital_en": "Moscow",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Moscou",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Russian_Federation_%28orthographic_projection%29_-_Crimea_disputed.svg",
         "idh": 0.829
     },
@@ -2283,15 +2283,15 @@
         "idioma_en": "Kinyarwanda, French, English and Swahili",
         "idioma_pt": "Quiniaruanda, Francês, Inglês e Suaíli",
         "capital_en": "Kigali",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Quigali",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/60/Location_Rwanda_AU_Africa.svg",
         "idh": 0.534
     },
     "saint kitts and nevis": {
-        "nome_pt": "São Cristóvão e Nevis",
+        "nome_pt": "São Cristóvão e Neves",
         "nome_en": "Saint Kitts and Nevis",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-        "descricao_pt": "São Cristóvão e Nevis é um pequeno país insular no Caribe, localizado no arquipélago das Pequenas Antilhas. Sua história remonta à colonização europeia, com diferentes potências coloniais governando as ilhas ao longo dos séculos. Atualmente, o país é conhecido por suas praias deslumbrantes e a indústria do turismo desempenha um papel importante em sua economia.",
+        "descricao_pt": "São Cristóvão e Neves é um pequeno país insular no Caribe, localizado no arquipélago das Pequenas Antilhas. Sua história remonta à colonização europeia, com diferentes potências coloniais governando as ilhas ao longo dos séculos. Atualmente, o país é conhecido por suas praias deslumbrantes e a indústria do turismo desempenha um papel importante em sua economia.",
         "descricao_en": "Saint Kitts and Nevis is a small island nation in the Caribbean, situated in the Lesser Antilles archipelago. Its history dates back to European colonization, with different colonial powers ruling the islands over the centuries. Today, the country is known for its stunning beaches, and the tourism industry plays a significant role in its economy.",
         "populacao": "54.817 (2023 est.)",
         "area": " 261 (Saint Kitts 168; Nevis 93)",
@@ -2299,7 +2299,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Basseterre",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Basseterre",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/5d/KNA_orthographic.svg",
         "idh": 0.777
     },
@@ -2315,7 +2315,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Castries",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Castries",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Lucia_on_the_globe_%28Americas_centered%29.svg",
         "idh": 0.715
     },
@@ -2331,7 +2331,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Kingstown",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Kingstown",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/70/VCT_orthographic.svg",
         "idh": 0.751
     },
@@ -2347,7 +2347,7 @@
         "idioma_en": "Samoan and English",
         "idioma_pt": "Samoano e Inglês",
         "capital_en": "Apia",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Apia",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/74/Samoa_on_the_globe_%28Polynesia_centered%29.svg",
         "idh": 0.707
     },
@@ -2363,7 +2363,7 @@
         "idioma_en": "Italian",
         "idioma_pt": "Italiano",
         "capital_en": "San Marino (city)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "São Marinho",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/79/Location_San_Marino_Europe.png",
         "idh": 0.853
     },
@@ -2379,7 +2379,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Sao Tome",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "São Tomé",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sao_Tome_and_Principe_in_its_region.svg",
         "idh": 0.618
     },
@@ -2395,7 +2395,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Riyadh",
-        "capital_pt": "Brasília",
+        "capital_pt": "Riade",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/47/Saudi_Arabia_%28orthographic_projection%29.svg",
         "idh": 0.875
     },
@@ -2411,7 +2411,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Dakar",
-        "capital_pt": "Brasília",
+        "capital_pt": "Dacar",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Senegal_%28orthographic_projection%29.svg",
         "idh": 0.511
     },
@@ -2427,7 +2427,7 @@
         "idioma_en": "Serbian",
         "idioma_pt": "Sérvio",
         "capital_en": "Belgrade",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Belgrado",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Serbia_%28orthographic_projection%29.svg",
         "idh": 0.802
     },
@@ -2443,7 +2443,7 @@
         "idioma_en": "Seychellois Creole, English and French",
         "idioma_pt": "Seychellois Crioulo, Inglês e Francês",
         "capital_en": "Victoria",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Vitória",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Location_Seychelles_AU_Africa.svg",
         "idh": 0.785
     },
@@ -2459,7 +2459,7 @@
         "idioma_en": "English, Mende, Temne and Krio",
         "idioma_pt": "Inglês, Mende, Timenés e Krio",
         "capital_en": "Freetown",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Freetown",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sierra_Leone_%28orthographic_projection%29.svg",
         "idh": 0.477
     },
@@ -2475,7 +2475,7 @@
         "idioma_en": "English and Mandarin",
         "idioma_pt": "Inglês e Mandarim",
         "capital_en": "Singapore",
-        "capital_pt": "Brasília",
+        "capital_pt": "Singapura",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.939
     },
@@ -2491,7 +2491,7 @@
         "idioma_en": "Slovak",
         "idioma_pt": "Eslovaco",
         "capital_en": "Bratislava",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Bratislava",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/1d/EU-Slovakia.svg",
         "idh": 0.848
     },
@@ -2507,7 +2507,7 @@
         "idioma_en": "Slovene",
         "idioma_pt": "Eslovênio",
         "capital_en": "Ljubljana",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Liubliana",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/84/EU-Slovenia.svg",
         "idh": 0.918
     },
@@ -2523,7 +2523,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Honiara",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Honiara",
         "mapa": "https://en.wikipedia.org/wiki/File:Flag_of_the_Solomon_Islands.svg",
         "idh": 0.564
     },
@@ -2539,7 +2539,7 @@
         "idioma_en": "Somali and Arabic",
         "idioma_pt": "Somali e Arábe",
         "capital_en": "Mogadishu",
-        "capital_pt": "Brasília",
+        "capital_pt": "Mogadíscio",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Somalia_%28orthographic_projection%29.svg",
         "idh": null
     },
@@ -2555,7 +2555,7 @@
         "idioma_en": "isiZulu, isiXhosa, Afrikaans, Sepedi, Setswana, English, Sesotho, Xitsonga, Tshivenda and isiNdebele",
         "idioma_pt": "Zulu, Xhosa, Africâner, Sepedi, Tswana, Inglês, Sesoto, Tsonga, Venda e Ndebele do norte",
         "capital_en": "Pretoria, Cape Town, Bloemfontein",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Pretória, Cidade do Cabo, Blumefontaina",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6e/South_Africa_%28orthographic_projection%29.svg",
         "idh": 0.713
     },
@@ -2571,7 +2571,7 @@
         "idioma_en": "Korean",
         "idioma_pt": "Coreano",
         "capital_en": "Seoul",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Seul",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Korea_%28orthographic_projection%29.svg",
         "idh": 0.925
     },
@@ -2587,7 +2587,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Juba",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Juba",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/65/South_Sudan_%28orthographic_projection%29.svg",
         "idh": 0.385
     },
@@ -2603,7 +2603,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Madrid",
-        "capital_pt": "Brasília",
+        "capital_pt": "Madrid",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/81/Spain_%28orthographic_projection%29.svg",
         "idh": 0.905
     },
@@ -2619,7 +2619,7 @@
         "idioma_en": "Sinhala and Tamil",
         "idioma_pt": "Cingalês e Tâmil",
         "capital_en": "Sri Jayewardenepura Kotte",
-        "capital_pt": "Brasília",
+        "capital_pt": "Seri Jaiavardenapura-Cota",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Lanka_%28orthographic_projection%29.svg",
         "idh": 0.782
     },
@@ -2635,7 +2635,7 @@
         "idioma_en": "Arabic and English",
         "idioma_pt": "Arábe e Inglês",
         "capital_en": "Khartoum",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Cartum",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sudan_%28orthographic_projection%29.svg",
         "idh": 0.508
     },
@@ -2651,7 +2651,7 @@
         "idioma_en": "Dutch",
         "idioma_pt": "Neerlandês",
         "capital_en": "Paramaribo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Paramaribo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/87/Suriname_%28orthographic_projection%29.svg",
         "idh": 0.73
     },
@@ -2667,7 +2667,7 @@
         "idioma_en": "Swedish",
         "idioma_pt": "Sueco",
         "capital_en": "Stockholm",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Estocolmo",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sweden_%28orthographic_projection%29.svg",
         "idh": 0.947
     },
@@ -2683,7 +2683,7 @@
         "idioma_en": "German, French, Italian and Romansh",
         "idioma_pt": "Alemão, Francês, Italiano e Romanche",
         "capital_en": "Bern (de facto)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Berna (de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/63/Switzerland_%28orthographic_projection%29.svg",
         "idh": 0.962
     },
@@ -2699,7 +2699,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Damascus",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Damasco",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/11/Syria_%28orthographic_projection%29.svg",
         "idh": 0.577
     },
@@ -2715,7 +2715,7 @@
         "idioma_en": "Tajik",
         "idioma_pt": "Tajique",
         "capital_en": "Dushanbe",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Duxambé",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tajikistan_%28orthographic_projection%29.svg",
         "idh": 0.685
     },
@@ -2731,7 +2731,7 @@
         "idioma_en": "Swahili and English",
         "idioma_pt": "Suaíli e Inglês",
         "capital_en": "Dodoma",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Dodoma",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tanzania_%28orthographic_projection%29.svg",
         "idh": 0.549
     },
@@ -2747,7 +2747,7 @@
         "idioma_en": "Thai",
         "idioma_pt": "Tailandês",
         "capital_en": "Bangkok",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Banguecoque",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Thailand_%28orthographic_projection%29.svg",
         "idh": 0.8
     },
@@ -2763,7 +2763,7 @@
         "idioma_en": "Portuguese",
         "idioma_pt": "Português",
         "capital_en": "Dili",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Díli",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Timor_Leste_%28orthographic_projection%29.svg",
         "idh": 0.607
     },
@@ -2779,7 +2779,7 @@
         "idioma_en": "French",
         "idioma_pt": "Francês",
         "capital_en": "Lome",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lomé",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Location_Togo_AU_Africa.svg",
         "idh": 0.539
     },
@@ -2795,12 +2795,12 @@
         "idioma_en": "Tongan",
         "idioma_pt": "Tonganês",
         "capital_en": "Nuku'alofa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Nucualofa",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tonga_on_the_globe_%28Polynesia_centered%29.svg",
         "idh": 0.745
     },
     "trinidad and tobago": {
-        "nome_pt": "Trinidad e Tobago",
+        "nome_pt": "Trindade e Tobago",
         "nome_en": "Trinidad and Tobago",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
         "descricao_pt": "Trinidad e Tobago é uma nação insular no Mar do Caribe, conhecida por sua diversidade étnica e cultural. Sua história inclui colonização espanhola, britânica e francesa. O país é formado pelas ilhas de Trinidad e Tobago, localizadas ao largo da costa da Venezuela. Atualmente, é uma república independente e tem uma economia diversificada com uma indústria de energia significativa.",
@@ -2811,7 +2811,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Port of Spain",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto de Espanha",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg",
         "idh": 0.81
     },
@@ -2827,7 +2827,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Tunis",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Tunes",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tunisia_%28orthographic_projection%29.svg",
         "idh": 0.731
     },
@@ -2843,7 +2843,7 @@
         "idioma_en": "Turkish",
         "idioma_pt": "Turco",
         "capital_en": "Ankara",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Ancara",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Turkey_%28orthographic_projection%29.svg",
         "idh": 0.838
     },
@@ -2859,7 +2859,7 @@
         "idioma_en": "Turkmen",
         "idioma_pt": "Turcomeno",
         "capital_en": "Ashgabat",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Asgabade",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg",
         "idh": 0.745
     },
@@ -2875,7 +2875,7 @@
         "idioma_en": "Tuvaluan and English",
         "idioma_pt": "Tuvaluano e Inglês",
         "capital_en": "Funafuti",
-        "capital_pt": "Brasília",
+        "capital_pt": "Funafuti",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
         "idh": 0.641
     },
@@ -2891,7 +2891,7 @@
         "idioma_en": "English and Swahili",
         "idioma_pt": "Inglês e Suaíli",
         "capital_en": "Kampala",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Campala",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Uganda_%28orthographic_projection%29.svg",
         "idh": 0.525
     },
@@ -2907,7 +2907,7 @@
         "idioma_en": "Ukrainian",
         "idioma_pt": "Ucrâniano",
         "capital_en": "Kyiv",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Kiev",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ukraine_-_disputed_%28orthographic_projection%29.svg",
         "idh": 0.773
     },
@@ -2923,7 +2923,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Abu Dhabi",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Abu Dabi",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg",
         "idh": 0.911
     },
@@ -2939,7 +2939,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "London",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Londres",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/0/07/United_Kingdom_%28orthographic_projection%29.svg",
         "idh": 0.929
     },
@@ -2955,7 +2955,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Washington, DC",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Washington, D.C.",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/70/United_States_%28orthographic_projection%29.svg",
         "idh": 0.921
     },
@@ -2971,7 +2971,7 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Montevideo",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Montevideu",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Uruguay_%28orthographic_projection%29.svg",
         "idh": 0.809
     },
@@ -2987,7 +2987,7 @@
         "idioma_en": "Uzbek",
         "idioma_pt": "Uzbeque",
         "capital_en": "Tashkent (Toshkent)",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Tasquente",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%D0%B5.svg",
         "idh": 0.727
     },
@@ -3003,7 +3003,7 @@
         "idioma_en": "Bislama, English and French",
         "idioma_pt": "Bislamá, Inglês e Francês",
         "capital_en": "Port-Vila",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Porto Vila",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Vanuatu_on_the_globe_%28Polynesia_centered%29.svg",
         "idh": 0.607
     },
@@ -3019,12 +3019,12 @@
         "idioma_en": "Spanish",
         "idioma_pt": "Espanhol",
         "capital_en": "Caracas",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Caracas",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VEN_orthographic.svg",
         "idh": 0.691
     },
     "vietnam": {
-        "nome_pt": "Vietn",
+        "nome_pt": "Vietnã",
         "nome_en": "Vietnam",
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
         "descricao_pt": "O Vietnã, oficialmente a República Socialista do Vietnã, é um país no sudeste asiático. Sua história é marcada por conflitos, incluindo a Guerra do Vietnã. Atualmente, o Vietnã é uma república socialista em rápido crescimento e é conhecido por sua culinária única, belas paisagens, como a Baía de Halong, e sua história cultural rica.",
@@ -3035,7 +3035,7 @@
         "idioma_en": "Vietnamese",
         "idioma_pt": "Vietnamita",
         "capital_en": "Hanoi",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Hanói",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_%28orthographic_projection%29.svg",
         "idh": 0.703
     },
@@ -3051,7 +3051,7 @@
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
         "capital_en": "Sanaa",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Saná",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yemen_on_the_globe_%28Yemen_centered%29.svg",
         "idh": 0.455
     },
@@ -3067,7 +3067,7 @@
         "idioma_en": "English",
         "idioma_pt": "Inglês",
         "capital_en": "Lusaka",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Lusaca",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/26/Zambia_%28orthographic_projection%29.svg",
         "idh": 0.565
     },
@@ -3083,7 +3083,7 @@
         "idioma_en": "Shona, Ndebele and English",
         "idioma_pt": "Xona, Ndebele e Inglês",
         "capital_en": "Harare",
-        "capital_pt": "Bras­lia",
+        "capital_pt": "Harare",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/5/50/Zimbabwe_%28orthographic_projection%29.svg",
         "idh": 0.593
     }

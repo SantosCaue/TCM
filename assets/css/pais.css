@@ -16,6 +16,10 @@ main {
     justify-content: space-around;
 }
 
+#nome, #meio{
+    margin-bottom: 2vh;
+}
+
 #nome {
     border-width: 0px 0 3px 0;
     border-style: solid;

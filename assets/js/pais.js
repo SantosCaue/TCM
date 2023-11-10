@@ -82,6 +82,17 @@ function pegarDados(){
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_en;
         document.getElementById("bibliografia").innerText = "SOURCE: CIA WORLD FACTBOOK";
       }
+      if(elemento.idh < 0.55){
+        document.querySelector("#moeda").style.color = 'red';
+      }else if(elemento.idh > 0.55 && elemento.idh < 0.7){
+        document.querySelector("#moeda").style.color = 'orange';
+      }else if(elemento.idh > 0.7 && elemento.idh < 0.8){
+        document.querySelector("#moeda").style.color = 'greenyellow';
+      }else{
+        document.querySelector("#moeda").style.color = 'green';
+      }
+
+
     })
     .catch(error => console.error('Erro ao carregar o arquivo JSON:', error));
 

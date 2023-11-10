@@ -63,7 +63,8 @@
     <main>
         <form name="flagsquiz" id="flagsquiz">
             <p id="enunciado">BANDEIRA N/N</p>
-            <img src="assets/imgs/Empty.png" alt="Ponto turístico" id="imagem">
+            <img src="assets/imgs/Empty.png" alt="bandeira" id="imagem">
+            <p id="nomePais">NOME PAIS</p>
             <input oninput="pontuar()" onkeydown="if(event.keyCode == 13){event.preventDefault();}" name="resposta" id="resposta" type="text">
             <p id="temporizador">1:30</p>
         </form>
@@ -72,7 +73,7 @@
             <p>Digite seu nome de usuário<label for="Nome"></label></p><input id="Nome" name="Nome" type="text">
             <input type="hidden" name="Pontos" id="pontuacao">
             <input type="hidden" name="Tempo" id="tempo">
-            <input type="hidden" name="Tipo" value="Bandeiras">
+            <input type="hidden" name="Tipo" value="capitais">
             <input type="hidden" name="Dificuldade" id="level">
             <p></p>
         </form>
