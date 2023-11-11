@@ -2,7 +2,7 @@
     "afghanistan": {
         "nome_pt": "Afeganistão",
         "nome_en": "Afghanistan",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg",
         "descricao_pt": "O Afeganistão, oficialmente conhecido como República Islâmica do Afeganistão, é um país localizado no Sul da Ásia. Sua rica história é marcada por diversos impérios, como o Persa, Grego e Islâmico. Geograficamente, o Afeganistão é uma nação sem litoral, cercada pelo Paquistão, Irã, Turcomenistão, Uzbequistão, Tajiquistão e China. Nos tempos recentes, o Afeganistão enfrentou instabilidade política e conflitos, mas continua a trabalhar em direção à estabilidade e paz.",
         "descricao_en": "Afghanistan, officially known as the Islamic Republic of Afghanistan, is a country located in South Asia. It has a rich history characterized by various empires, such as the Persian, Greek, and Islamic empires. Geographically, Afghanistan is a landlocked nation, bordered by Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, and China. In recent times, Afghanistan has faced political instability and conflict, but it continues to work towards stability and peace.",
         "populacao": "39.232.003 (2023 est.)",
@@ -882,7 +882,7 @@
     "eswatini": {
         "nome_pt": "Essuatíni",
         "nome_en": "Eswatini",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Eswatini.svg",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
         "descricao_pt": "Essuatíni, anteriormente conhecido como Suazilândia, é um pequeno país no sul da África, cercado pela África do Sul e Moçambique. Sua história inclui tradições culturais ricas e a liderança de uma monarquia tradicional. Atualmente, o Essuatíni é conhecido por sua beleza natural, com paisagens deslumbrantes e vida selvagem diversificada. O país é famoso por suas danças tradicionais e festivais culturais.",
         "descricao_en": "Eswatini, formerly known as Swaziland, is a small country in southern Africa, surrounded by South Africa and Mozambique. Its history includes rich cultural traditions and the leadership of a traditional monarchy. Today, Eswatini is known for its natural beauty, with stunning landscapes and diverse wildlife. The country is famous for its traditional dances and cultural festivals.",
         "populacao": "1.130.043 (2023 est.)",
@@ -2018,7 +2018,7 @@
     "north macedonia": {
         "nome_pt": "Macedônia do Norte",
         "nome_en": "North Macedonia",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_North_Macedonia.svg",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
         "descricao_pt": "Macedônia do Norte, oficialmente a República da Macedônia do Norte, é um país nos Bálcãs com uma história complexa, incluindo a herança da antiga Macedônia. Atualmente, a Macedônia do Norte é uma república independente, com uma economia em crescimento e um compromisso com a reconciliação étnica e a estabilidade na região.",
         "descricao_en": "North Macedonia, officially the Republic of North Macedonia, is a country in the Balkans with a complex history, including the legacy of ancient Macedonia. Today, North Macedonia is an independent republic with a growing economy and a commitment to ethnic reconciliation and stability in the region.",
         "populacao": "2.133.410 (2023 est.)",
@@ -2367,10 +2367,10 @@
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/79/Location_San_Marino_Europe.png",
         "idh": 0.853
     },
-    "são tomé and príncipe": {
+    "sao tome and principe": {
         "nome_pt": "São Tomé e Príncipe",
         "nome_en": "São Tomé and Príncipe",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
         "descricao_pt": "São Tomé e Príncipe é um país insular no Golfo da Guiné, na costa oeste da África Central. Sua história inclui o período colonial português, e a nação ganhou independência em 1975. Atualmente, o país é conhecido por suas paisagens tropicais, plantações de cacau e produção de café.",
         "descricao_en": "São Tomé and Príncipe is an island nation in the Gulf of Guinea, off the west coast of Central Africa. Its history includes the Portuguese colonial period, and the nation gained independence in 1975. Today, the country is known for its tropical landscapes, cocoa plantations, and coffee production.",
         "populacao": "220.372 (2023 est.)",
@@ -2930,7 +2930,7 @@
     "united kingdom": {
         "nome_pt": "Reino Unido",
         "nome_en": "United Kingdom",
-        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_Kingdom.svg",
+        "bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg",
         "descricao_pt": "O Reino Unido, oficialmente conhecido como Reino Unido da Grã-Bretanha e Irlanda do Norte, é uma nação insular localizada na Europa Ocidental. Sua história é marcada por um passado de império colonial, que abrangeu uma parte significativa do mundo. Hoje, o Reino Unido é uma monarquia constitucional composta por quatro nações constituintes: Inglaterra, Escócia, País de Gales e Irlanda do Norte. É conhecido por sua rica herança cultural, incluindo literatura, música e tradições históricas.",
         "descricao_en": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is an island nation located in Western Europe. Its history is marked by a colonial empire that spanned a significant portion of the world. Today, the UK is a constitutional monarchy comprising four constituent nations: England, Scotland, Wales, and Northern Ireland. It is known for its rich cultural heritage, including literature, music, and historical traditions.",
         "populacao": "68.138.484 (2023 est.)",

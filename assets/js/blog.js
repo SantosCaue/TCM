@@ -50,13 +50,15 @@ function traduzir() {
     document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
   }
   traduzido();
+  setTimeout(function(){
+    navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';
+    }, 100);
 }
 
 function traduzido() {
   if (getCookie("idioma") == "ingles") {
     document.getElementsByTagName("html")[0].lang = "en";
     h1[0].innerText = "COUNTRY WIKI";
-    h2[0].innerText = "CONTINENTS";
     topleft.querySelectorAll("a")[0].innerText = "AMERICA";
     topleft.querySelectorAll("a")[1].innerText = "AFRICA";
     topleft.querySelectorAll("a")[2].innerText = "ASIA";

@@ -1,0 +1,829 @@
+{
+    "americas": {
+        "nome_pt": "Américas",
+        "nome_en": "Americas",
+        "populacao": "1.002.000.000 (2016 est.)",
+        "pib": "26.786.440.000.000",
+        "area": "42.189.120",
+        "descricao_pt": "O continente americano é uma vasta massa de terra que compreende a América do Norte, América Central, América do Sul e as ilhas associadas. Caracteriza-se por uma geografia diversificada, culturas variadas e ecossistemas únicos. A América do Norte é conhecida por suas imponentes cadeias de montanhas, vastas planícies e pontos turísticos icônicos como o Grand Canyon e o Parque Nacional de Yellowstone. A América Central é um estreito istmo que conecta a América do Norte à América do Sul, apresentando florestas tropicais, paisagens vulcânicas e um rico patrimônio cultural. A América do Sul, com sua Floresta Amazônica, Cordilheira dos Andes e ecossistemas diversos, abriga uma variedade de espécies únicas e culturas vibrantes. O continente desempenhou um papel crucial na história mundial, desde as civilizações indígenas das Américas até a exploração e colonização europeias que moldaram sua identidade moderna.",
+        "descricao_en": "The American continent is a vast landmass comprising North America, Central America, South America, and the associated islands. It is characterized by diverse geography, cultures, and ecosystems. North America is known for its towering mountain ranges, vast plains, and iconic landmarks such as the Grand Canyon and Yellowstone National Park. Central America is a narrow isthmus connecting North and South America, featuring tropical rainforests, volcanic landscapes, and a rich cultural heritage. South America, with its Amazon rainforest, Andes mountains, and diverse ecosystems, is home to a variety of unique species and vibrant cultures. The continent has played a crucial role in world history, from the indigenous civilizations of the Americas to the European exploration and colonization that shaped its modern identity.",
+        "paises": [
+            {
+                "nome_en": "Antigua and Barbuda",
+                "nome_pt": "Antígua e Barbuda"
+            },
+            {
+                "nome_en": "Argentina",
+                "nome_pt": "Argentina"
+            },
+            {
+                "nome_en": "Bahamas",
+                "nome_pt": "Bahamas"
+            },
+            {
+                "nome_en": "Barbados",
+                "nome_pt": "Barbados"
+            },
+            {
+                "nome_en": "Belize",
+                "nome_pt": "Belize"
+            },
+            {
+                "nome_en": "Bolivia",
+                "nome_pt": "Bolívia"
+            },
+            {
+                "nome_en": "Brazil",
+                "nome_pt": "Brasil"
+            },
+            {
+                "nome_en": "Canada",
+                "nome_pt": "Canadá"
+            },
+            {
+                "nome_en": "Chile",
+                "nome_pt": "Chile"
+            },
+            {
+                "nome_en": "Colombia",
+                "nome_pt": "Colômbia"
+            },
+            {
+                "nome_en": "Costa Rica",
+                "nome_pt": "Costa Rica"
+            },
+            {
+                "nome_en": "Cuba",
+                "nome_pt": "Cuba"
+            },
+            {
+                "nome_en": "Dominica",
+                "nome_pt": "Dominica"
+            },
+            {
+                "nome_en": "Ecuador",
+                "nome_pt": "Equador"
+            },
+            {
+                "nome_en": "United States",
+                "nome_pt": "Estados Unidos"
+            },
+            {
+                "nome_en": "Grenada",
+                "nome_pt": "Granada"
+            },
+            {
+                "nome_en": "Guatemala",
+                "nome_pt": "Guatemala"
+            },
+            {
+                "nome_en": "Guyana",
+                "nome_pt": "Guiana"
+            },
+            {
+                "nome_en": "Haiti",
+                "nome_pt": "Haiti"
+            },
+            {
+                "nome_en": "Honduras",
+                "nome_pt": "Honduras"
+            },
+            {
+                "nome_en": "Jamaica",
+                "nome_pt": "Jamaica"
+            },
+            {
+                "nome_en": "Mexico",
+                "nome_pt": "México"
+            },
+            {
+                "nome_en": "Nicaragua",
+                "nome_pt": "Nicarágua"
+            },
+            {
+                "nome_en": "Panama",
+                "nome_pt": "Panamá"
+            },
+            {
+                "nome_en": "Paraguay",
+                "nome_pt": "Paraguai"
+            },
+            {
+                "nome_en": "Peru",
+                "nome_pt": "Peru"
+            },
+            {
+                "nome_en": "Dominican Republic",
+                "nome_pt": "República Dominicana"
+            },
+            {
+                "nome_en": "Saint Lucia",
+                "nome_pt": "Santa Lúcia"
+            },
+            {
+                "nome_en": "Saint Kitts and Nevis",
+                "nome_pt": "São Cristóvão e Neves"
+            },
+            {
+                "nome_en": "Saint Vincent and the Grenadines",
+                "nome_pt": "São Vicente e Granadinas"
+            },
+            {
+                "nome_en": "Suriname",
+                "nome_pt": "Suriname"
+            },
+            {
+                "nome_en": "Trinidad and Tobago",
+                "nome_pt": "Trindade e Tobago"
+            },
+            {
+                "nome_en": "Uruguay",
+                "nome_pt": "Uruguai"
+            },
+            {
+                "nome_en": "Venezuela",
+                "nome_pt": "Venezuela"
+            }
+        ]
+    },
+    "europe": {
+        "nome_en": "Europe",
+        "nome_pt": "Europa",
+        "populacao": "746.400.000 (2018 est.)",
+        "pib": "24.020.000.000.000",
+        "area": "10.180.000",
+        "descricao_en": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is known for its rich history, diverse cultures, and significant contributions to art, science, and philosophy. The continent is characterized by a varied landscape, including the rugged mountains of the Alps, the scenic fjords of Scandinavia, and the fertile plains of Eastern Europe. Europe has been a center of global influence, witnessing the rise and fall of powerful empires, such as the Roman and Ottoman Empires. Today, it is home to modern and developed nations with bustling cities, historic landmarks like the Eiffel Tower and the Colosseum, and a strong emphasis on cultural heritage.",
+        "descricao_pt": "A Europa é um continente situado inteiramente no Hemisfério Norte e principalmente no Hemisfério Oriental. É conhecida por sua rica história, culturas diversas e contribuições significativas para a arte, ciência e filosofia. O continente é caracterizado por uma paisagem variada, incluindo as montanhas íngremes dos Alpes, os fiordes pitorescos da Escandinávia e as planícies férteis do Leste Europeu. A Europa foi um centro de influência global, testemunhando o surgimento e queda de impérios poderosos, como os Impérios Romano e Otomano. Hoje, é lar de nações modernas e desenvolvidas, com cidades movimentadas, marcos históricos como a Torre Eiffel e o Coliseu, e uma forte ênfase no patrimônio cultural.",
+        "paises": [
+            {
+                "nome_en": "Albania",
+                "nome_pt": "Albânia"
+            },
+            {
+                "nome_en": "Germany",
+                "nome_pt": "Alemanha"
+            },
+            {
+                "nome_en": "Andorra",
+                "nome_pt": "Andorra"
+            },
+            {
+                "nome_en": "Austria",
+                "nome_pt": "Áustria"
+            },
+            {
+                "nome_en": "Belgium",
+                "nome_pt": "Bélgica"
+            },
+            {
+                "nome_en": "Bosnia and Herzegovina",
+                "nome_pt": "Bósnia e Herzegovina"
+            },
+            {
+                "nome_en": "Bulgaria",
+                "nome_pt": "Bulgária"
+            },
+            {
+                "nome_en": "Kazakhstan",
+                "nome_pt": "Cazaquistão"
+            },
+            {
+                "nome_en": "Cyprus",
+                "nome_pt": "Chipre"
+            },
+            {
+                "nome_en": "Croatia",
+                "nome_pt": "Croácia"
+            },
+            {
+                "nome_en": "Denmark",
+                "nome_pt": "Dinamarca"
+            },
+            {
+                "nome_en": "Slovakia",
+                "nome_pt": "Eslováquia"
+            },
+            {
+                "nome_en": "Slovenia",
+                "nome_pt": "Eslovênia"
+            },
+            {
+                "nome_en": "Spain",
+                "nome_pt": "Espanha"
+            },
+            {
+                "nome_en": "Estonia",
+                "nome_pt": "Estônia"
+            },
+            {
+                "nome_en": "Finland",
+                "nome_pt": "Finlândia"
+            },
+            {
+                "nome_en": "France",
+                "nome_pt": "França"
+            },
+            {
+                "nome_en": "Greece",
+                "nome_pt": "Grécia"
+            },
+            {
+                "nome_en": "Hungary",
+                "nome_pt": "Hungria"
+            },
+            {
+                "nome_en": "Ireland",
+                "nome_pt": "Irlanda"
+            },
+            {
+                "nome_en": "Iceland",
+                "nome_pt": "Islândia"
+            },
+            {
+                "nome_en": "Italy",
+                "nome_pt": "Itália"
+            },
+            {
+                "nome_en": "Latvia",
+                "nome_pt": "Letônia"
+            },
+            {
+                "nome_en": "Liechtenstein",
+                "nome_pt": "Liechtenstein"
+            },
+            {
+                "nome_en": "Lithuania",
+                "nome_pt": "Lituânia"
+            },
+            {
+                "nome_en": "Luxembourg",
+                "nome_pt": "Luxemburgo"
+            },
+            {
+                "nome_en": "Malta",
+                "nome_pt": "Malta"
+            },
+            {
+                "nome_en": "Moldova",
+                "nome_pt": "Moldávia"
+            },
+            {
+                "nome_en": "Monaco",
+                "nome_pt": "Mônaco"
+            },
+            {
+                "nome_en": "Montenegro",
+                "nome_pt": "Montenegro"
+            },
+            {
+                "nome_en": "Norway",
+                "nome_pt": "Noruega"
+            },
+            {
+                "nome_en": "Netherlands",
+                "nome_pt": "Países Baixos"
+            },
+            {
+                "nome_en": "Poland",
+                "nome_pt": "Polônia"
+            },
+            {
+                "nome_en": "Portugal",
+                "nome_pt": "Portugal"
+            },
+            {
+                "nome_en": "Czechia",
+                "nome_pt": "Tchéquia"
+            },
+            {
+                "nome_en": "North Macedonia",
+                "nome_pt": "Macedônia do Norte"
+            },
+            {
+                "nome_en": "United Kingdom",
+                "nome_pt": "Reino Unido"
+            },
+            {
+                "nome_en": "Romania",
+                "nome_pt": "Romênia"
+            },
+            {
+                "nome_en": "Russia",
+                "nome_pt": "Rússia"
+            },
+            {
+                "nome_en": "San Marino",
+                "nome_pt": "San Marino"
+            },
+            {
+                "nome_en": "Serbia",
+                "nome_pt": "Sérvia"
+            },
+            {
+                "nome_en": "Sweden",
+                "nome_pt": "Suécia"
+            },
+            {
+                "nome_en": "Switzerland",
+                "nome_pt": "Suíça"
+            },
+            {
+                "nome_en": "Turkey",
+                "nome_pt": "Turquia"
+            },
+            {
+                "nome_en": "Ukraine",
+                "nome_pt": "Ucrânia"
+            }
+        ]
+    },
+    "asia": {
+        "nome_en": "Asia",
+        "nome_pt": "Ásia",
+        "descricao_en": "Asia is the largest and most populous continent, spanning a vast and diverse range of cultures, landscapes, and histories. It is located in the Eastern and Northern Hemispheres and is known for its impressive geographical features, including the Himalayan mountain range, the Gobi Desert, and the fertile plains of the Yangtze and Ganges rivers. Asia has been the cradle of ancient civilizations, with significant contributions to philosophy, science, and the arts. The Great Wall of China, the temples of Angkor Wat, and the bustling cities like Tokyo and Mumbai are just a few examples of the continent's rich cultural and historical heritage. Asia continues to play a pivotal role in the global economy and is a dynamic blend of tradition and modernity.",
+        "descricao_pt": "A Ásia é o maior e mais populoso continente, abrangendo uma gama vasta e diversificada de culturas, paisagens e histórias. Localizado nos Hemisférios Oriental e Setentrional, é conhecido por suas impressionantes características geográficas, incluindo a cordilheira do Himalaia, o deserto de Gobi e as planícies férteis dos rios Yangtzé e Ganges. A Ásia foi o berço de civilizações antigas, com contribuições significativas para a filosofia, ciência e artes. A Grande Muralha da China, os templos de Angkor Wat e as cidades movimentadas como Tóquio e Mumbai são apenas alguns exemplos do rico patrimônio cultural e histórico do continente. A Ásia continua a desempenhar um papel crucial na economia global e é uma mistura dinâmica de tradição e modernidade.",
+        "populacao": "4.561.000.000",
+        "pib": "41.360.000.000.000 (2023 est.)",
+        "area": "44.579.000",
+        "paises": [
+            {
+                "nome_en": "Brunei",
+                "nome_pt": "Brunei"
+            },
+            {
+                "nome_en": "Cambodia",
+                "nome_pt": "Camboja"
+            },
+            {
+                "nome_en": "Philippines",
+                "nome_pt": "Filipinas"
+            },
+            {
+                "nome_en": "Indonesia",
+                "nome_pt": "Indonésia"
+            },
+            {
+                "nome_en": "Laos",
+                "nome_pt": "Laos"
+            },
+            {
+                "nome_en": "Malaysia",
+                "nome_pt": "Malásia"
+            },
+            {
+                "nome_en": "Myanmar",
+                "nome_pt": "Myanmar"
+            },
+            {
+                "nome_en": "Singapore",
+                "nome_pt": "Singapura"
+            },
+            {
+                "nome_en": "Thailand",
+                "nome_pt": "Tailândia"
+            },
+            {
+                "nome_en": "Timor-Leste",
+                "nome_pt": "Timor-Leste"
+            },
+            {
+                "nome_en": "Vietnam",
+                "nome_pt": "Vietnã"
+            },
+            {
+                "nome_en": "Kazakhstan",
+                "nome_pt": "Cazaquistão"
+            },
+            {
+                "nome_en": "Kyrgyzstan",
+                "nome_pt": "Quirguistão"
+            },
+            {
+                "nome_en": "Tajikistan",
+                "nome_pt": "Tajiquistão"
+            },
+            {
+                "nome_en": "Turkmenistan",
+                "nome_pt": "Turcomenistão"
+            },
+            {
+                "nome_en": "Uzbekistan",
+                "nome_pt": "Uzbequistão"
+            },
+            {
+                "nome_en": "Bangladesh",
+                "nome_pt": "Bangladesh"
+            },
+            {
+                "nome_en": "Bhutan",
+                "nome_pt": "Butão"
+            },
+            {
+                "nome_en": "India",
+                "nome_pt": "Índia"
+            },
+            {
+                "nome_en": "Maldives",
+                "nome_pt": "Maldivas"
+            },
+            {
+                "nome_en": "Nepal",
+                "nome_pt": "Nepal"
+            },
+            {
+                "nome_en": "Pakistan",
+                "nome_pt": "Paquistão"
+            },
+            {
+                "nome_en": "Sri Lanka",
+                "nome_pt": "Sri Lanka"
+            },
+            {
+                "nome_en": "China",
+                "nome_pt": "China"
+            },
+            {
+                "nome_en": "Japan",
+                "nome_pt": "Japão"
+            },
+            {
+                "nome_en": "South Korea",
+                "nome_pt": "Coreia do Sul"
+            },
+            {
+                "nome_en": "North Korea",
+                "nome_pt": "Coreia do Norte"
+            },
+            {
+                "nome_en": "Mongolia",
+                "nome_pt": "Mongólia"
+            },
+            {
+                "nome_en": "Afghanistan",
+                "nome_pt": "Afeganistão"
+            },
+            {
+                "nome_en": "Saudi Arabia",
+                "nome_pt": "Arábia Saudita"
+            },
+            {
+                "nome_en": "Armenia",
+                "nome_pt": "Armênia"
+            },
+            {
+                "nome_en": "Azerbaijan",
+                "nome_pt": "Azerbaijão"
+            },
+            {
+                "nome_en": "Bahrain",
+                "nome_pt": "Bahrein"
+            },
+            {
+                "nome_en": "Cyprus",
+                "nome_pt": "Chipre"
+            },
+            {
+                "nome_en": "United Arab Emirates",
+                "nome_pt": "Emirados Árabes Unidos"
+            },
+            {
+                "nome_en": "Georgia",
+                "nome_pt": "Geórgia"
+            },
+            {
+                "nome_en": "Yemen",
+                "nome_pt": "Iêmen"
+            },
+            {
+                "nome_en": "Iraq",
+                "nome_pt": "Iraque"
+            },
+            {
+                "nome_en": "Iran",
+                "nome_pt": "Irã"
+            },
+            {
+                "nome_en": "Jordan",
+                "nome_pt": "Jordânia"
+            },
+            {
+                "nome_en": "Kuwait",
+                "nome_pt": "Kuwait"
+            },
+            {
+                "nome_en": "Lebanon",
+                "nome_pt": "Líbano"
+            },
+            {
+                "nome_en": "Oman",
+                "nome_pt": "Omã"
+            },
+            {
+                "nome_en": "Qatar",
+                "nome_pt": "Catar"
+            },
+            {
+                "nome_en": "Syria",
+                "nome_pt": "Síria"
+            },
+            {
+                "nome_en": "Turkey",
+                "nome_pt": "Turquia"
+            }
+        ]
+    },
+    "africa": {
+        "nome_en": "Africa",
+        "nome_pt": "África",
+        "populacao": "1.393.676.444 (2021 est.)",
+        "area": "30.221.532",
+        "descricao_en": "Africa is a vast and diverse continent situated primarily in the Eastern Hemisphere. Known for its rich cultural tapestry, stunning landscapes, and diverse wildlife, Africa is home to a wide array of nations, languages, and ethnic groups. The continent boasts iconic features such as the Sahara Desert, the Nile River, and the expansive savannas teeming with wildlife. Africa has a complex history marked by ancient civilizations, including the Egyptian and Carthaginian civilizations, as well as the impact of European colonization. Today, Africa is undergoing rapid development and is a continent of contrasts, with bustling modern cities coexisting with rural areas where traditional ways of life persist.",
+        "descricao_pt": "A África é um continente vasto e diversificado situado principalmente no Hemisfério Oriental. Conhecida por sua rica tapeçaria cultural, paisagens deslumbrantes e vida selvagem diversificada, a África é lar de uma ampla variedade de nações, idiomas e grupos étnicos. O continente possui características icônicas como o Deserto do Saara, o Rio Nilo e as extensas savanas repletas de vida selvagem. A África tem uma história complexa marcada por civilizações antigas, incluindo as civilizações egípcia e cartaginesa, assim como o impacto da colonização europeia. Hoje, a África passa por um rápido desenvolvimento e é um continente de contrastes, com cidades modernas movimentadas coexistindo com áreas rurais onde as formas de vida tradicionais persistem.",
+        "pib": "2.960.000.000.000",
+        "paises": [
+            {
+                "nome_en": "Nigeria",
+                "nome_pt": "Nigéria"
+            },
+            {
+                "nome_en": "Ethiopia",
+                "nome_pt": "Etiópia"
+            },
+            {
+                "nome_en": "Egypt",
+                "nome_pt": "Egito"
+            },
+            {
+                "nome_en": "Democratic Republic of Congo",
+                "nome_pt": "República Democrática do Congo"
+            },
+            {
+                "nome_en": "Tanzania",
+                "nome_pt": "Tanzânia"
+            },
+            {
+                "nome_en": "South Africa",
+                "nome_pt": "África do Sul"
+            },
+            {
+                "nome_en": "Kenya",
+                "nome_pt": "Quênia"
+            },
+            {
+                "nome_en": "Uganda",
+                "nome_pt": "Uganda"
+            },
+            {
+                "nome_en": "Sudan",
+                "nome_pt": "Sudão"
+            },
+            {
+                "nome_en": "Algeria",
+                "nome_pt": "Argélia"
+            },
+            {
+                "nome_en": "Morocco",
+                "nome_pt": "Marrocos"
+            },
+            {
+                "nome_en": "Angola",
+                "nome_pt": "Angola"
+            },
+            {
+                "nome_en": "Ghana",
+                "nome_pt": "Gana"
+            },
+            {
+                "nome_en": "Mozambique",
+                "nome_pt": "Moçambique"
+            },
+            {
+                "nome_en": "Madagascar",
+                "nome_pt": "Madagascar"
+            },
+            {
+                "nome_en": "Ivory Coast",
+                "nome_pt": "Costa do Marfim"
+            },
+            {
+                "nome_en": "Cameroon",
+                "nome_pt": "Camarões"
+            },
+            {
+                "nome_en": "Niger",
+                "nome_pt": "Níger"
+            },
+            {
+                "nome_en": "Mali",
+                "nome_pt": "Mali"
+            },
+            {
+                "nome_en": "Burkina Faso",
+                "nome_pt": "Burquina Faso"
+            },
+            {
+                "nome_en": "Malawi",
+                "nome_pt": "Malawi"
+            },
+            {
+                "nome_en": "Zambia",
+                "nome_pt": "Zâmbia"
+            },
+            {
+                "nome_en": "Chad",
+                "nome_pt": "Chade"
+            },
+            {
+                "nome_en": "Somalia",
+                "nome_pt": "Somália"
+            },
+            {
+                "nome_en": "Senegal",
+                "nome_pt": "Senegal"
+            },
+            {
+                "nome_en": "Zimbabwe",
+                "nome_pt": "Zimbábue"
+            },
+            {
+                "nome_en": "Guinea",
+                "nome_pt": "Guiné"
+            },
+            {
+                "nome_en": "Rwanda",
+                "nome_pt": "Ruanda"
+            },
+            {
+                "nome_en": "Benin",
+                "nome_pt": "Benin"
+            },
+            {
+                "nome_en": "Burundi",
+                "nome_pt": "Burundi"
+            },
+            {
+                "nome_en": "Tunisia",
+                "nome_pt": "Tunísia"
+            },
+            {
+                "nome_en": "South Sudan",
+                "nome_pt": "Sudão do Sul"
+            },
+            {
+                "nome_en": "Togo",
+                "nome_pt": "Togo"
+            },
+            {
+                "nome_en": "Sierra Leone",
+                "nome_pt": "Serra Leoa"
+            },
+            {
+                "nome_en": "Libya",
+                "nome_pt": "Líbia"
+            },
+            {
+                "nome_en": "Congo",
+                "nome_pt": "Congo"
+            },
+            {
+                "nome_en": "Central African Republic",
+                "nome_pt": "República Centro-Africana"
+            },
+            {
+                "nome_en": "Liberia",
+                "nome_pt": "Libéria"
+            },
+            {
+                "nome_en": "Mauritania",
+                "nome_pt": "Mauritânia"
+            },
+            {
+                "nome_en": "Eritrea",
+                "nome_pt": "Eritreia"
+            },
+            {
+                "nome_en": "Gambia",
+                "nome_pt": "Gâmbia"
+            },
+            {
+                "nome_en": "Botswana",
+                "nome_pt": "Botsuana"
+            },
+            {
+                "nome_en": "Namibia",
+                "nome_pt": "Namíbia"
+            },
+            {
+                "nome_en": "Gabon",
+                "nome_pt": "Gabão"
+            },
+            {
+                "nome_en": "Lesotho",
+                "nome_pt": "Lesoto"
+            },
+            {
+                "nome_en": "Guinea-Bissau",
+                "nome_pt": "Guiné-Bissau"
+            },
+            {
+                "nome_en": "Equatorial Guinea",
+                "nome_pt": "Guiné Equatorial"
+            },
+            {
+                "nome_en": "Mauritius",
+                "nome_pt": "Maurício"
+            },
+            {
+                "nome_en": "Eswatini",
+                "nome_pt": "Essuatíni"
+            },
+            {
+                "nome_en": "Djibouti",
+                "nome_pt": "Djibouti"
+            },
+            {
+                "nome_en": "Comoros",
+                "nome_pt": "Comores"
+            },
+            {
+                "nome_en": "Cape Verde",
+                "nome_pt": "Cabo Verde"
+            },
+            {
+                "nome_en": "São Tomé and Príncipe",
+                "nome_pt": "São Tomé e Príncipe"
+            },
+            {
+                "nome_en": "Seychelles",
+                "nome_pt": "Seicheles"
+            }
+        ]
+    },
+    "oceania": {
+        "nome_en": "Oceania",
+        "nome_pt": "Oceania",
+        "descricao_en": "Oceania is a vast and diverse region that encompasses Australasia, Melanesia, Micronesia, and Polynesia. Comprising 14 countries and numerous islands scattered across the Pacific Ocean, Oceania is known for its stunning landscapes, rich cultural diversity, and unique ecosystems. Australia, the largest country in Oceania, is renowned for its iconic landmarks such as the Sydney Opera House and the Great Barrier Reef. New Zealand, another prominent nation, boasts breathtaking fjords, mountains, and a vibrant Maori culture. The Pacific Islands, including Fiji, Samoa, and Tonga, showcase tropical paradises with pristine beaches and vibrant coral reefs. Oceania is a tapestry of traditions, languages, and histories, making it a fascinating region to explore.",
+        "descricao_pt": "A Oceania é uma região vasta e diversificada que engloba Australásia, Melanésia, Micronésia e Polinésia. Composta por 14 países e inúmeras ilhas espalhadas pelo Oceano Pacífico, a Oceania é conhecida por suas paisagens deslumbrantes, rica diversidade cultural e ecossistemas únicos. A Austrália, o maior país da Oceania, é famosa por seus marcos icônicos, como a Ópera de Sydney e a Grande Barreira de Coral. A Nova Zelândia, outra nação proeminente, possui fiordes impressionantes, montanhas e uma vibrante cultura Maori. As Ilhas do Pacífico, incluindo Fiji, Samoa e Tonga, exibem paraísos tropicais com praias intocadas e recifes de coral vibrantes. A Oceania é um mosaico de tradições, idiomas e histórias, tornando-a uma região fascinante para explorar.",
+        "populacao": "44.491.724 (2021 est.)",
+        "pib": "1.630.000.000.000",
+        "area": "9.000.000",
+        "paises": [
+            {
+                "nome_en": "Australia",
+                "nome_pt": "Austrália"
+            },
+            {
+                "nome_en": "Micronesia",
+                "nome_pt": "Micronésia"
+            },
+            {
+                "nome_en": "Fiji",
+                "nome_pt": "Fiji"
+            },
+            {
+                "nome_en": "Marshall Islands",
+                "nome_pt": "Ilhas Marshall"
+            },
+            {
+                "nome_en": "Solomon Islands",
+                "nome_pt": "Ilhas salomão"
+            },
+            {
+                "nome_en": "Kiribati",
+                "nome_pt": "Kiribati"
+            },
+            {
+                "nome_en": "Nauru",
+                "nome_pt": "Nauru"
+            },
+            {
+                "nome_en": "New Zealand",
+                "nome_pt": "Nova Zelândia"
+            },
+            {
+                "nome_en": "Palau",
+                "nome_pt": "Palau"
+            },
+            {
+                "nome_en": "Papua New Guinea",
+                "nome_pt": "Papua-Nova Guiné"
+            },
+            {
+                "nome_en": "Samoa",
+                "nome_pt": "Samoa"
+            },
+            {
+                "nome_en": "Tonga",
+                "nome_pt": "Tonga"
+            },
+            {
+                "nome_en": "Tuvalu",
+                "nome_pt": "Tuvalu"
+            },
+            {
+                "nome_en": "Vanuatu",
+                "nome_pt": "Vanuatu"
+            }
+        ]
+    }
+}

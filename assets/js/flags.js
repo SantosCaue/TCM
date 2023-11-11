@@ -149,8 +149,12 @@ function traduzir() {
     document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
   }
   traduzido();
+  setTimeout(function(){
+    navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';
+    }, 100)
 }
-
+var fimT;
+var fimW;
 function traduzido() {
   if (getCookie("idioma") == "ingles") {
     document.getElementsByTagName("h1")[0].innerText = "COUNTRY WIKI";
@@ -158,13 +162,27 @@ function traduzido() {
     document.getElementsByTagName("span")[5].innerText = "COUNTRIES";
     document.getElementsByTagName("span")[7].innerText = "RANDOM COUNTRY"
     document.getElementsByTagName("span")[9].innerText = "CHANGE LANGUAGE";
+    document.getElementById("choice").innerText = "Choose The Difficulty"
+    document.getElementsByClassName("escolha")[0].innerText = "EASY";
+    document.getElementsByClassName("escolha")[1].innerText = "MEDIUM";
+    document.getElementsByClassName("escolha")[2].innerText = "HARD";
     document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+    fimT = `Seu tempo acabou. Você conseguiu acertar ${rodada} capitais`
+    fimW = `Parabéns você conseguiu acertar todas bandeiras`
+    document.getElementById("username").innerText = "Enter your username";
   } else if (getCookie("idioma") == "portugues") {
     document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
     document.getElementsByTagName("span")[3].innerText = "CONTINENTES";
     document.getElementsByTagName("span")[5].innerText = "PAÍSES";
-    document.getElementsByTagName("span")[7].innerText = "PAÍS ALEATÓRIO"
+    document.getElementsByTagName("span")[7].innerText = "PAÍS ALEATÓRIO";
+    document.getElementById("choice").innerText = "Escolha a Dificuldade"
+    document.getElementsByClassName("escolha")[0].innerText = "FÁCIL";
+    document.getElementsByClassName("escolha")[1].innerText = "MÉDIO";
+    document.getElementsByClassName("escolha")[2].innerText = "DÍFICIL";
     document.getElementsByTagName("span")[9].innerText = "MUDAR IDIOMA";
     document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
+    fimT = `Your time has ended. You got right ${rodada} capitals`;
+    fimW = `Congratulations you got all answers right`;
+    document.getElementById("username").innerText = "Digite o seu nome de usuário";
   }
 }

@@ -3,7 +3,7 @@ const navegacao = document.querySelector("nav");
 var url = window.location.href;
 var partes = url.split('/');
 var nomeArquivo = partes[partes.length - 1];
-var pais = nomeArquivo.split(".")[0].replaceAll("_", " ");
+const pais = nomeArquivo.split(".")[0].replaceAll("_", " ");
 
 //CASO NÃO TENHA COOKIE GERA COOKIE
 if (document.cookie.length == 0) {
@@ -52,6 +52,9 @@ function traduzir() {
   }
   pegarDados();
   traduzido();
+  setTimeout(function(){
+    navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';
+    }, 100)
 }
 
 function pegarDados(){
@@ -67,7 +70,7 @@ function pegarDados(){
         document.getElementById("populacao").innerText = "POPULAÇÃO: " + elemento.populacao + " habitantes";
         document.getElementById("pib").innerText = "PIB: US" + elemento.pib;
         document.getElementById("area").innerText = "ÁREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "IDH: " + elemento.idh;
+        document.getElementById("idhL").innerHTML = 'IDH: <span id="idhN"></span>';
         document.getElementById("idioma").innerText = "IDIOMA: " + elemento.idioma_pt;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_pt;
         document.getElementById("bibliografia").innerText = "FONTE: CIA WORLD FACTBOOK";
@@ -77,21 +80,22 @@ function pegarDados(){
         document.getElementById("populacao").innerText = "POPULATION: " + elemento.populacao + " habitantes";
         document.getElementById("pib").innerText = "GDP: US" + elemento.pib;
         document.getElementById("area").innerText = "AREA: " + elemento.area + "km²";
-        document.getElementById("moeda").innerText = "HDI: " + elemento.idh;
+        document.getElementById("idhL").innerHTML = 'HDI: <span id="idhN"></span>';
         document.getElementById("idioma").innerText = "LANGUAGE: " + elemento.idioma_en;
         document.getElementById("capital").innerText = "CAPITAL: " + elemento.capital_en;
         document.getElementById("bibliografia").innerText = "SOURCE: CIA WORLD FACTBOOK";
       }
+      document.querySelector("#idhN").innerHTML = elemento.idh;
       if(elemento.idh < 0.55){
-        document.querySelector("#moeda").style.color = 'red';
+        document.querySelector("#idhN").style.color = 'red';
       }else if(elemento.idh > 0.55 && elemento.idh < 0.7){
-        document.querySelector("#moeda").style.color = 'orange';
+        document.querySelector("#idhN").style.color = 'orange';
       }else if(elemento.idh > 0.7 && elemento.idh < 0.8){
-        document.querySelector("#moeda").style.color = 'greenyellow';
+        document.querySelector("#idhN").style.color = 'greenyellow';
       }else{
-        document.querySelector("#moeda").style.color = 'green';
+        document.querySelector("#idhN").style.color = 'green';
       }
-
+      
 
     })
     .catch(error => console.error('Erro ao carregar o arquivo JSON:', error));

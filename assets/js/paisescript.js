@@ -44,6 +44,9 @@ function traduzir() {
     
   }
   traduzido();
+  setTimeout(function(){
+    navegacao.style.height = parseFloat(window.getComputedStyle(document.querySelector("main")).height) + parseFloat(window.getComputedStyle(document.querySelector("footer")).height) + 'px';
+    }, 100)
 }
 
 function traduzido() {
@@ -85,7 +88,7 @@ function ListaDePaises() {
           document.querySelectorAll(".bandeira")[n].querySelector("img").src = bandeira;
           document.querySelectorAll(".bandeira")[n].querySelector("img").alt = nomeEn + " flag";
           document.getElementsByClassName("nome")[n].innerHTML = nomeEn;
-          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replace(" ", "_") + ".html";
+          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replaceAll(" ", "_").replaceAll("ã", "a").replaceAll("á", "a").replaceAll("í", "i").replaceAll("ê", "e").replaceAll("é", "e") + ".html";
           n++
         });
       } else if (getCookie("idioma") == "portugues") {
@@ -97,7 +100,7 @@ function ListaDePaises() {
           document.querySelectorAll(".bandeira")[n].querySelector("img").src = bandeira;
           document.querySelectorAll(".bandeira")[n].querySelector("img").alt = "bandeira de" + nomePt;
           document.getElementsByClassName("nome")[n].innerHTML = nomePt;
-          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replace(" ", "_") + ".html";
+          document.getElementsByTagName("main")[0].querySelectorAll("a")[n].href = nomeEn.toLowerCase().replaceAll(" ", "_").replaceAll("ã", "a").replaceAll("á", "a").replaceAll("í", "i").replaceAll("ê", "e").replaceAll("é", "e") + ".html";
           n++
         });
       }

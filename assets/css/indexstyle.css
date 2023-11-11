@@ -58,8 +58,17 @@ main{
     justify-content: center;
     padding: 0;
 }
-.left li, ul{
-    margin: 0;
+
+.left ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0;
+}
+.left li{
+    list-style: none;
+    margin: 0 auto;
 }
 #bottom .left{
     text-align: center;

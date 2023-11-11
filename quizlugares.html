@@ -62,7 +62,7 @@
     </nav>
     <main>
         <form name="flagsquiz" id="flagsquiz">
-            <p id="enunciado">BANDEIRA N/N</p>
+            <p id="enunciado">CAPITAL N/N</p>
             <img src="assets/imgs/Empty.png" alt="bandeira" id="imagem">
             <p id="nomePais">NOME PAIS</p>
             <input oninput="pontuar()" onkeydown="if(event.keyCode == 13){event.preventDefault();}" name="resposta" id="resposta" type="text">
@@ -70,7 +70,7 @@
         </form>
         <form action="https://api.sheetmonkey.io/form/aH476sQEqiTZ6maa4kqw4k" method="post" >
             <p id="resultado"></p>
-            <p>Digite seu nome de usuário<label for="Nome"></label></p><input id="Nome" name="Nome" type="text">
+            <p id="username">Digite seu nome de usuário<label for="Nome"></label></p><input id="Nome" name="Nome" type="text">
             <input type="hidden" name="Pontos" id="pontuacao">
             <input type="hidden" name="Tempo" id="tempo">
             <input type="hidden" name="Tipo" value="capitais">
@@ -78,7 +78,7 @@
             <p></p>
         </form>
         <section id="dificuldade">
-            <h2>Escolha a Dificuldade</h2>
+            <h2 id="choice">Escolha a Dificuldade</h2>
                 <div id="caixaopcoes">
                     <button class="escolha" onclick="ChamarQuiz(1)">Fácil</button>
                     <button class="escolha" onclick="ChamarQuiz(2)">Médio</button>

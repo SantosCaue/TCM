@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav&display=swap');
 * {
     margin: 0 auto;
 }
@@ -31,7 +30,7 @@ header {
 h1 {
     color: white;
     font-size: 4em;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Urbanist', sans-serif;
     margin: 10px;
     font-weight: 300;
 }
@@ -64,7 +63,7 @@ nav {
     z-index: 10;
     position: absolute;
     box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Urbanist', sans-serif;
     font-weight: 400;
     display: flex;
     transition: height 1s ease-in-out;
@@ -118,18 +117,18 @@ main div {
 h2 {
     color: black;
     font-size: 2em;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Urbanist', sans-serif;;
 
 }
 
 p {
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
     font-size: 1.25em;
     color: black;
 }
 
 li {
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
     font-size: 1.25em;
     color: black;
 }
@@ -141,7 +140,7 @@ a {
 }   
 
 a:hover {
-    color: cyan;
+    color: #1F6E8C;
 }
 
 footer p{

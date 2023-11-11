@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title>COUNTRY WIKI</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link rel="icon" href="assets/imgs/globe2.svg">
@@ -15,7 +14,7 @@
 <body>
     <header>
         <div id="titulo">
-            <img src="assets/imgs/logotipo.png" onclick="window.location.href = 'index.html'">
+            <img src="assets/imgs/logotipo.png" alt="logo" onclick="window.location.href = 'index.html'">
             <a href="index.html">
                 <h1>WIKI DOS PAÍSES</h1>
             </a>
@@ -44,7 +43,7 @@
             </li>
             <li class="item-menu">
                 <a href="paises.html">
-                    <span class="icon"><i class="bi bi-flag"></i></i></span>
+                    <span class="icon"><i class="bi bi-flag"></i></span>
                     <span class="txt-link">PAÍSES</span>
                 </a>
             </li>
@@ -74,22 +73,21 @@
                 <p id="populacao"></p>
                 <p id="pib"></p>
                 <p id="area"></p>
-                <p id="moeda"></p>
+                <p id="idhL"><span id="idhN"></span></p>
                 <p id="idioma"></p>
                 <p id="capital"></p>
                 <p id="bibliografia"></p>
             </div>
         </div>
         <div id="right">
-            <div><img id="bandeira"></div>
+            <div><img id="bandeira" src="assets/imgs/Empty.png" alt="bandeira"></div>
 
-            <img id="mapa">
+            <img id="mapa" src="assets/imgs/Empty.png" alt="mapa">
         </div>
     </main>
     <footer>
         <p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>
     </footer>
+    <script src="assets/js/pais.js"></script>
 </body>
-<script src="assets/js/pais.js"></script>
-
 </html>
