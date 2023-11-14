@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COUNTRY WIKI</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/blog.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="icon" href="assets/imgs/globe2.svg">
+</head>
+<body>
+    <header>
+        <div id="titulo">
+            <img src="assets/imgs/logotipo.png" onclick="window.location.href = 'index.html'" alt="Logo">
+            <a href="index.html">
+                <h1>WIKI DOS PAÍSES</h1>
+            </a>
+        </div>
+        <div id="menu" onclick="menulateral()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="white" class="bi bi-list"
+                viewBox="0 0 16 16">
+                <path fill-rule="evenodd"
+                    d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+            </svg>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li class="item-menu">
+                <a href="quiz.html">
+                    <span class="icon"><i class="bi bi-question-circle-fill"></i></span>
+                    <span class="txt-link">QUIZ</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="continentes.html">
+                    <span class="icon"><i class="bi bi-globe-europe-africa"></i></span>
+                    <span class="txt-link">CONTINENTES</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="paises.html">
+                    <span class="icon"><i class="bi bi-flag"></i></span>
+                    <span class="txt-link">PAÍSES</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="paisaleatorio.html">
+                    <span class="icon"><i class="bi bi-globe-central-south-asia"></i></span>
+                    <span class="txt-link">PAÍS ALEATÓRIO</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a onclick="traduzir()">
+                    <span class="icon"><i class="bi bi-translate"></i></span>
+                    <span class="txt-link">MUDAR IDIOMA</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+    <section id="texto">
+        <div>
+            <h2 id="title">
+                A Fascinante Mundo da Vexilologia: Desvendando os Significados por Trás das Bandeiras
+            </h2>
+            <div>
+                <p id="name">Cauê Santos</p>
+                <p id="date">24 de Julho de 2023</p>
+            </div>
+        </div>
+        <p>
+            <br>A vexilologia é a ciência que estuda as bandeiras, um campo que vai além da mera observação estética e busca compreender os significados culturais, históricos e políticos por trás desses símbolos. As bandeiras desempenham um papel crucial na identidade de uma nação, representando não apenas sua soberania, mas também seus valores e história.
+        </p>
+        <h3>
+            <br>Elementos de uma Bandeira
+        </h3>
+        <p>
+            <br>Uma bandeira típica consiste em cores, padrões e símbolos específicos. Cada elemento é escolhido deliberadamente para transmitir uma mensagem. Por exemplo, as cores podem representar características geográficas, como o verde simbolizando terras férteis, enquanto os símbolos muitas vezes contam histórias sobre a origem do país.
+        </p>
+        <h3><br>Significados</h3>
+        <p>
+            <br>As bandeiras são veículos importantes para a expressão da identidade cultural de uma nação. Elementos como cores e símbolos muitas vezes têm significados profundos enraizados na história, mitologia e tradições do país. <br>
+            Além de representar a cultura, as bandeiras também carregam significados políticos. Mudanças nas bandeiras ao longo do tempo frequentemente refletem transformações políticas, como independência, mudança de governo ou fusão de nações. <br> <br>
+            A vexilologia é uma janela para a compreensão da diversidade e complexidade das sociedades humanas. As bandeiras, mais do que simples pedaços de tecido colorido, são expressões visuais das narrativas que moldam nações. Estudar vexilologia é mergulhar nas ricas histórias que cada bandeira conta, revelando a incrível diversidade e unicidade do nosso mundo.
+
+
+
+        </p>
+    </section>
+    </main>
+    <footer>
+        <p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>
+    </footer>
+    <script src="assets/js/blog.js"></script>
+    <script>
+        const data = document.querySelector("#date");
+        const texto = document.querySelector("#texto");
+        const p = texto.querySelectorAll("p");
+        const h3 = texto.querySelectorAll("h3");
+        function traduzirConteudo(){
+            if(getCookie("idioma") == "portugues"){
+                date.innerHTML = '13 de Novembro de 2023'; 
+                texto.querySelector("#title").innerHTML = "A Fascinante Mundo da Vexilologia: Desvendando os Significados por Trás das Bandeiras";
+                p[2].innerHTML = `<br>A vexilologia é a ciência que estuda as bandeiras, um campo que vai além da mera observação estética e busca compreender os significados culturais, históricos e políticos por trás desses símbolos. As bandeiras desempenham um papel crucial na identidade de uma nação, representando não apenas sua soberania, mas também seus valores e história.`;
+                p[3].innerHTML =`<br>Uma bandeira típica consiste em cores, padrões e símbolos específicos. Cada elemento é escolhido deliberadamente para transmitir uma mensagem. Por exemplo, as cores podem representar características geográficas, como o verde simbolizando terras férteis, enquanto os símbolos muitas vezes contam histórias sobre a origem do país.`
+                p[4].innerHTML = `<br>As bandeiras são veículos importantes para a expressão da identidade cultural de uma nação. Elementos como cores e símbolos muitas vezes têm significados profundos enraizados na história, mitologia e tradições do país. <br>
+                Além de representar a cultura, as bandeiras também carregam significados políticos. Mudanças nas bandeiras ao longo do tempo frequentemente refletem transformações políticas, como independência, mudança de governo ou fusão de nações. <br> <br>
+                A vexilologia é uma janela para a compreensão da diversidade e complexidade das sociedades humanas. As bandeiras, mais do que simples pedaços de tecido colorido, são expressões visuais das narrativas que moldam nações. Estudar vexilologia é mergulhar nas ricas histórias que cada bandeira conta, revelando a incrível diversidade e unicidade do nosso mundo.`
+                h3[0].innerHTML = "<br>Elementos de uma Bandeira"
+                h3[1].innerHTML = "<br>Significados"
+
+            }else{
+                date.innerHTML = 'November 13th of 2023'; 
+                texto.querySelector("#title").innerHTML = "The Fascinating World of Vexillology: Unraveling the Meanings Behind Flags";
+                p[2].innerHTML = `<br>Vexillology is the scientific study of flags, a field that goes beyond mere aesthetic observation and seeks to understand the cultural, historical, and political meanings behind these symbols. Flags play a crucial role in a nation's identity, representing not only its sovereignty but also its values and history.`
+                p[3].innerHTML = `<br>A typical flag consists of specific colors, patterns, and symbols. Each element is deliberately chosen to convey a message. For example, colors may represent geographical features, such as green symbolizing fertile lands, while symbols often tell stories about the country's origin`
+                p[4].innerHTML = `<br>Flags are important vehicles for expressing a nation's cultural identity. Elements like colors and symbols often have deep meanings rooted in the country's history, mythology, and traditions.<br>In addition to representing culture, flags also carry political significance. Changes in flags over time often reflect political transformations, such as independence, changes in government, or the merging of nations.<br><br>Vexillology is a window into understanding the diversity and complexity of human societies. Flags, more than simple pieces of colored fabric, are visual expressions of the narratives that shape nations. Studying vexillology is delving into the rich stories each flag tells, revealing the incredible diversity and uniqueness of our world.`
+                h3[0].innerHTML = "<br>Elements of a Flag";
+                h3[1].innerHTML = "<br>Significances";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1789,7 +1789,7 @@
         "capital_en": "Monaco",
         "capital_pt": "Mónaco",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Location_Monaco_Europe.png",
-        "idh": null
+        "idh": 0.960
     },
     "mongolia": {
         "nome_pt": "Mongólia",
@@ -1901,7 +1901,7 @@
         "capital_en": "Yaren District (de facto)",
         "capital_pt": "Distrito de Iarém (de facto)",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
-        "idh": null
+        "idh": 0.652
     },
     "nepal": {
         "nome_pt": "Nepal",
@@ -2013,7 +2013,7 @@
         "capital_en": "Pyongyang",
         "capital_pt": "Pionguiangue",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/7/7b/North_Korea_%28orthographic_projection%29.svg",
-        "idh": null
+        "idh": 0.766
     },
     "north macedonia": {
         "nome_pt": "Macedônia do Norte",
@@ -2101,12 +2101,12 @@
         "bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
         "descricao_pt": "A Palestina, uma terra historicamente disputada no Oriente Médio, tem uma história marcada por conflitos e lutas políticas. É um lugar de importância religiosa para o judaísmo, o cristianismo e o islamismo. Na atualidade, a questão palestina continua a ser um tema complexo e de destaque na política global, com esforços em busca de paz e soluções duradouras.",
         "descricao_en": "Palestine, a historically disputed land in the Middle East, has a history marked by conflicts and political struggles. It holds religious significance for Judaism, Christianity, and Islam. Today, the Palestinian issue remains a complex and prominent topic in global politics, with efforts towards peace and lasting solutions.",
-        "populacao": "218.689.757",
-        "area": "8.515.770",
-        "pib": "3.128.000.000.000 undefined undefined",
+        "populacao": "5.154.173",
+        "area": "6.020",
+        "pib": "18.040.000.000",
         "idioma_en": "Arabic",
         "idioma_pt": "Arábe",
-        "capital_en": "Brasília",
+        "capital_en": "Oriental Jerusalem",
         "capital_pt": "Jerusalém Oriental",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/a/ad/State_of_Palestine_%28orthographic_projection%29.svg",
         "idh": 0.715
@@ -2541,7 +2541,7 @@
         "capital_en": "Mogadishu",
         "capital_pt": "Mogadíscio",
         "mapa": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Somalia_%28orthographic_projection%29.svg",
-        "idh": null
+        "idh": 0.364
     },
     "south africa": {
         "nome_pt": "África do Sul",

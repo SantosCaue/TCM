@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COUNTRY WIKI</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/blog.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="icon" href="assets/imgs/globe2.svg">
+</head>
+<body>
+    <header>
+        <div id="titulo">
+            <img src="assets/imgs/logotipo.png" onclick="window.location.href = 'index.html'" alt="Logo">
+            <a href="index.html">
+                <h1>WIKI DOS PAÍSES</h1>
+            </a>
+        </div>
+        <div id="menu" onclick="menulateral()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="white" class="bi bi-list"
+                viewBox="0 0 16 16">
+                <path fill-rule="evenodd"
+                    d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+            </svg>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li class="item-menu">
+                <a href="quiz.html">
+                    <span class="icon"><i class="bi bi-question-circle-fill"></i></span>
+                    <span class="txt-link">QUIZ</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="continentes.html">
+                    <span class="icon"><i class="bi bi-globe-europe-africa"></i></span>
+                    <span class="txt-link">CONTINENTES</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="paises.html">
+                    <span class="icon"><i class="bi bi-flag"></i></span>
+                    <span class="txt-link">PAÍSES</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a href="paisaleatorio.html">
+                    <span class="icon"><i class="bi bi-globe-central-south-asia"></i></span>
+                    <span class="txt-link">PAÍS ALEATÓRIO</span>
+                </a>
+            </li>
+            <li class="item-menu">
+                <a onclick="traduzir()">
+                    <span class="icon"><i class="bi bi-translate"></i></span>
+                    <span class="txt-link">MUDAR IDIOMA</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+    <section id="texto">
+        <div>
+            <h2 id="title">
+                Os Melhores Países Para Viajar: Uma Exploração de Destinos Incríveis
+            </h2>
+            <div>
+                <p id="name">Cauê Santos</p>
+                <p id="date">12 de Novembro de 2023</p>
+            </div>
+        </div>
+        <p>
+        </p>
+        <h3></h3>
+        <p></p>
+        <h3></h3>
+        <p></p>
+        <h3></h3>
+        <p></p>
+        <h3></h3>
+        <p></p>
+        <h3></h3>
+        <p></p>
+    </section>
+    </main>
+    <footer>
+        <p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>
+    </footer>
+    <script src="assets/js/blog.js"></script>
+    <script>
+        const texto = document.querySelector("#texto");
+        const p = texto.querySelectorAll("p");
+        const h3 = texto.querySelectorAll("h3");
+        function traduzirConteudo(){
+            if(getCookie("idioma") == "portugues"){
+                texto.querySelector("#title").innerHTML = "Os Melhores Países Para Viajar: Uma Exploração de Destinos Incríveis";
+                p[2].innerHTML = `<br>O mundo é um vasto e maravilhoso lugar repleto de culturas vibrantes, paisagens de tirar o fôlego e experiências inesquecíveis. Viajar é uma oportunidade única de explorar essas riquezas e ampliar nossos horizontes. Mas com tantos destinos tentadores à nossa disposição, pode ser difícil decidir por onde começar. <br> Neste artigo, vamos embarcar em uma jornada para descobrir os melhores países para viajar, aqueles que oferecem uma combinação irresistível de beleza natural, diversidade cultural, aventura e oportunidades para crescimento pessoal. Prepare-se para se inspirar e adicionar novos destinos à sua lista de desejos!`;
+                p[3].innerHTML =`<br>A Itália é um país que não precisa de apresentações. Berço do Renascimento e lar de algumas das obras de arte mais famosas do mundo, a Itália é um destino obrigatório para os amantes da cultura e da história. Da icônica Coliseu de Roma e dos canais românticos de Veneza às pitorescas vilas da Toscana e às praias ensolaradas da Sicília, a Itália oferece uma infinidade de experiências para todos os gostos. <br> Além de sua riqueza cultural, a Itália também é conhecida por sua culinária excepcional. Prepare-se para se deliciar com pizzas crocantes, massas artesanais, sorvetes cremosos e vinhos de alta qualidade.`
+                p[4].innerHTML = `<br>O Japão é um país que fascina com sua mistura única de tradições milenares e tecnologia de ponta. Do antigo templo Senso-ji em Tóquio às florestas de bambu em Arashiyama, o Japão oferece uma experiência cultural imersiva que transporta os viajantes a um mundo diferente.<br> Os amantes da natureza também encontrarão no Japão uma beleza estonteante. As montanhas nevadas de Hokkaido, as fontes termais de Beppu e os santuários escondidos nas florestas são apenas alguns dos tesouros naturais que aguardam ser descobertos.`
+                p[5].innerHTML = `<br>A Nova Zelândia é um destino perfeito para os amantes da natureza e da aventura. Com seus glaciares imponentes, montanhas majestosas, fiordes profundos e paisagens de tirar o fôlego, a Nova Zelândia oferece uma infinidade de oportunidades para atividades ao ar livre, como caminhadas, rafting, escalada e bungee jumping.<br> Além de suas belezas naturais, a Nova Zelândia também possui uma cultura rica e acolhedora. Visite as vibrantes cidades de Auckland e Wellington, conheça a tradição maori e explore as pequenas vilas espalhadas pelas ilhas.`
+                p[6].innerHTML = `<br>A Índia é um país de contrastes, onde a espiritualidade milenar convive com a modernidade pulsante. Dos templos sagrados de Varanasi às ruas movimentadas de Mumbai, a Índia oferece uma experiência sensorial única que não deixa ninguém indiferente.<br>Prepare-se para se surpreender com a diversidade cultural da Índia, onde cada região possui suas próprias tradições, idiomas e costumes. Explore os palácios luxuosos de Rajasthan, navegue pelos rios sagrados de Kerala e descubra as maravilhas arquitetônicas de Agra.`
+                p[7].innerHTML = `<br>A Costa Rica é um pequeno país com uma grande riqueza natural. Com cerca de 5% da biodiversidade do planeta, a Costa Rica é um verdadeiro paraíso para os amantes da natureza. Florestas exuberantes, vulcões ativos, praias paradisíacas e uma vida selvagem exuberante são alguns dos atrativos que fazem da Costa Rica um destino imperdível.<br>Faça trilhas em meio à selva, mergulhe em águas cristalinas, observe animais selvagens e descubra a simpatia do povo costarriquenho.`
+                h3[0].innerHTML = "Itália: A Terra da Arte, História e Culinária"
+                h3[1].innerHTML = "Japão: Uma Fuga Oriental de Tradições e Modernidade"
+                h3[2].innerHTML = "Nova Zelândia: Um Paraíso Natural de Aventuras"
+                h3[3].innerHTML = "Índia: Uma Jornada de Espiritualidade e Diversidade"
+                h3[4].innerHTML = "Costa Rica: Um Refúgio Natural de Biodiversidade"
+
+            }else{
+                texto.querySelector("#title").innerHTML = "The Best Countries to Travel to: An Exploration of Incredible Destinations";
+                p[2].innerHTML = `<br>The world is a vast and wonderful place, full of vibrant cultures, breathtaking scenery, and unforgettable experiences. Traveling is a unique opportunity to explore these riches and broaden our horizons. But with so many tempting destinations at our disposal, it can be difficult to decide where to start.<br>In this article, we will embark on a journey to discover the best countries to travel to, those that offer an irresistible combination of natural beauty, cultural diversity, adventure, and opportunities for personal growth. Get ready to be inspired and add new destinations to your bucket list!`
+                p[3].innerHTML = `<br>Italy is a country that needs no introduction. The birthplace of the Renaissance and home to some of the world's most famous works of art, Italy is a must-visit destination for lovers of culture and history. From the iconic Colosseum in Rome and the romantic canals of Venice to the picturesque villages of Tuscany and the sunny beaches of Sicily, Italy offers an endless variety of experiences for all tastes. <br>In addition to its cultural richness, Italy is also known for its exceptional cuisine. Prepare to indulge in crispy pizzas, handmade pasta, creamy gelato, and high-quality wines.`
+                p[4].innerHTML = `<br>Japan is a country that fascinates with its unique blend of ancient traditions and cutting-edge technology. From the ancient Sensoji Temple in Tokyo to the bamboo forests of Arashiyama, Japan offers an immersive cultural experience that transports travelers to a different world.<br>Nature lovers will also find stunning beauty in Japan. The snow-capped mountains of Hokkaido, the hot springs of Beppu, and the hidden shrines in the forests are just a few of the natural treasures waiting to be discovered.`
+                p[5].innerHTML = `<br>New Zealand is a perfect destination for lovers of nature and adventure. With its towering glaciers, majestic mountains, deep fjords, and breathtaking scenery, New Zealand offers endless opportunities for outdoor activities, such as hiking, rafting, climbing, and bungee jumping.<br> In addition to its natural beauty, New Zealand also has a rich and welcoming culture. Visit the vibrant cities of Auckland and Wellington, learn about Maori tradition, and explore the small villages scattered throughout the islands.`
+                p[6].innerHTML = `<br>India is a country of contrasts, where ancient spirituality coexists with vibrant modernity. From the sacred temples of Varanasi to the bustling streets of Mumbai, India offers a unique sensory experience that leaves no one indifferent.<br>Prepare to be amazed by the cultural diversity of India, where each region has its own traditions, languages, and customs. Explore the luxurious palaces of Rajasthan, sail the sacred rivers of Kerala, and discover the architectural wonders of Agra.`
+                p[7].innerHTML = `<br>Costa Rica is a small country with a great natural wealth. With about 5% of the planet's biodiversity, Costa Rica is a true paradise for nature lovers. Lush forests, active volcanoes, paradisiacal beaches, and abundant wildlife are just some of the attractions that make Costa Rica an unmissable destination.<br>Go hiking in the jungle, dive in crystal-clear waters, observe wildlife, and discover the kindness of the Costa Rican people.`
+                h3[0].innerHTML = "Italy: The Land of Art, History, and Cuisine";
+                h3[1].innerHTML = "Japan: An Eastern Escape of Traditions and Modernity";
+                h3[2].innerHTML = "New Zealand: A Natural Paradise for Adventure";
+                h3[3].innerHTML = "India: A Journey of Spirituality and Diversity";
+                h3[4].innerHTML = "Costa Rica: A Natural Refuge of Biodiversity"
+            }
+        }
+    </script>
+</body>
+</html>

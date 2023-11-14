@@ -36,6 +36,22 @@ section div p{
     margin: 0;
 }
 
+h3{
+    width: 100%;
+    text-align: left;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+}
+
+main ul{
+    width: 100%;
+}
+main ul li{
+    cursor: pointer;
+    list-style-type: square;
+}
 
 
 @media only screen and (max-width:600px) {

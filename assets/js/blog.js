@@ -59,9 +59,6 @@ function traduzido() {
   if (getCookie("idioma") == "ingles") {
     document.getElementsByTagName("html")[0].lang = "en";
     h1[0].innerText = "COUNTRY WIKI";
-    topleft.querySelectorAll("a")[0].innerText = "AMERICA";
-    topleft.querySelectorAll("a")[1].innerText = "AFRICA";
-    topleft.querySelectorAll("a")[2].innerText = "ASIA";
     span[3].innerText = "CONTINENTS";
     span[5].innerText = "COUNTRIES";
     span[7].innerText = "RANDOM COUNTRY";
@@ -70,16 +67,13 @@ function traduzido() {
   } else if (getCookie("idioma") == "portugues") {
     document.getElementsByTagName("html")[0].lang = "pt-br";
     h1[0].innerText = "WIKI DOS PAÍSES";
-    h2[0].innerText = "CONTINENTES"
-    topleft.querySelectorAll("a")[0].innerText = "AMÉRICA";
-    topleft.querySelectorAll("a")[1].innerText = "ÁFRICA";
-    topleft.querySelectorAll("a")[2].innerText = "ÁSIA";
     span[3].innerText = "CONTINENTES";
     span[5].innerText = "PAÍSES";
     span[7].innerText = "PAÍS ALEATÓRIO";
     span[9].innerText = "MUDAR IDIOMA";
     footer[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
   }
+  traduzirConteudo();
 }
 
 window.onload = function () {

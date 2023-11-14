@@ -60,7 +60,7 @@ main {
     text-align: justify;
 }
 #meio p, #dados p{
-    color: #fff;
+    color: #000;
 }
 #right div {
     margin-bottom: 5vh;

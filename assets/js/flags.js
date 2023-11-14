@@ -167,8 +167,8 @@ function traduzido() {
     document.getElementsByClassName("escolha")[1].innerText = "MEDIUM";
     document.getElementsByClassName("escolha")[2].innerText = "HARD";
     document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
-    fimT = `Seu tempo acabou. Você conseguiu acertar ${rodada} capitais`
-    fimW = `Parabéns você conseguiu acertar todas bandeiras`
+    fimT = `Your time has ended. You got right ${rodada} capitals`;
+    fimW = `Congratulations you got all answers right`;
     document.getElementById("username").innerText = "Enter your username";
   } else if (getCookie("idioma") == "portugues") {
     document.getElementsByTagName("h1")[0].innerText = "WIKI DOS PAÍSES";
@@ -181,8 +181,8 @@ function traduzido() {
     document.getElementsByClassName("escolha")[2].innerText = "DÍFICIL";
     document.getElementsByTagName("span")[9].innerText = "MUDAR IDIOMA";
     document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
-    fimT = `Your time has ended. You got right ${rodada} capitals`;
-    fimW = `Congratulations you got all answers right`;
+    fimT = `Seu tempo acabou. Você conseguiu acertar ${rodada} capitais`
+    fimW = `Parabéns você conseguiu acertar todas bandeiras`
     document.getElementById("username").innerText = "Digite o seu nome de usuário";
   }
 }

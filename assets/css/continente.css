@@ -31,6 +31,14 @@ main {
     flex-direction: column;
 }
 
+#nome, #meio{
+    margin-bottom: 2vh;
+}
+
+#right img{
+    width: 80%;
+}
+
 #meio, #dados, #countrylist {
     background: #84A7A1;
     border-radius: 4vh;
@@ -65,4 +73,24 @@ main {
 #right div {
     margin-bottom: 5vh;
     flex: 1;
+}
+
+@media only screen and (max-width:600px){
+    #up{
+        flex-direction: column-reverse;
+    }
+
+    #right, #left{
+        width: 100%;
+    }
+    #right{
+        margin-left: auto;
+    }
+    #left div{
+        margin-bottom: 2vh;
+    }
+    #lista{
+        columns: 2;
+    }
+
 }
