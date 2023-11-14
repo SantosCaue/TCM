@@ -43,3 +43,7 @@ input[type=text]{
 main img{
     height: 14.0625vw;
 }
+
+@media only screen and (max-width:600px){
+    height: 50vw;
+}
