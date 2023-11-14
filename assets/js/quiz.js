@@ -66,7 +66,7 @@ if (document.cookie.length == 0) {
       document.getElementsByTagName("span")[7].innerText = "CAPITAIS"
       document.getElementsByTagName("span")[9].innerText = "MUDAR IDIOMA";
       document.getElementsByClassName("subtitulo")[0].innerHTML = "QUIZ GEOGRÁFICO";
-      document.getElementsByClassName("subtitulo")[1].innerHTML = "ONDE FICA";
+      document.getElementsByClassName("subtitulo")[1].innerHTML = "CAPITAIS";
       document.getElementsByClassName("subtitulo")[2].innerHTML = "ACERTE A BANDEIRA";
       document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
     }
