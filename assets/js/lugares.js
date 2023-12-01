@@ -8,7 +8,7 @@ var rodada = 0;
 var Nivel;
 var capitalEn;
 var capitalPt;
-
+let remainingSeconds = 90;
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
 }
@@ -72,7 +72,7 @@ function ChamarQuiz(dificuldade) {
   document.getElementById("dificuldade").style.display = 'none';
   document.getElementsByTagName("form")[0].style.display = 'flex';
   atualizar();
-  contagemregressiva();
+  countdownInterval;
   for (d = 0; d < Nivel.length; d++) {
     img = new Image();
     img.src = Nivel[d].bandeira;
@@ -115,9 +115,7 @@ function formatTime(seconds) {
   return `${minutes}:${remainingSeconds < 10 ? '0' : ''}${remainingSeconds}`;
 }
 
-function contagemregressiva() {
-  let remainingSeconds = 90;
-  countdownInterval = setInterval(function () {
+const countdownInterval = setInterval(function () {
     const countdownElement = document.getElementById("temporizador");
     remainingSeconds--;
 
@@ -125,17 +123,18 @@ function contagemregressiva() {
       clearInterval(countdownInterval);
       acabar("tempo");
     } else {
-      countdownElement.textContent = `${formatTime(remainingSeconds)}`;
+      countdownElement.innerText = `${formatTime(remainingSeconds)}`;
     }
   }, 1000); // Atualiza a cada segundo (1000 milissegundos)
-}
+
+
 
 function acabar(metodo) {
   switch (metodo) {
     case "tempo":
       document.getElementsByTagName("form")[0].style.display = 'none';
       document.getElementsByTagName("form")[1].style.display = 'flex';
-      document.getElementById("resultado").innerText = fimT;
+      document.getElementById("resultado").innerText = fimT.split("|")[0] + rodada + fimT.split("|")[2];
       break;
     case "ganhar":
       document.getElementById("resultado").innerText = fimW;
@@ -143,7 +142,7 @@ function acabar(metodo) {
       document.getElementsByTagName("form")[1].style.display = 'flex';
       break;
   }
-  document.querySelector("#tempo").value = 90 - countdownInterval;
+  document.querySelector("#tempo").value = 90 - remainingSeconds;
   document.querySelector("#pontuacao").value = rodada;
 
 }
@@ -176,7 +175,7 @@ function traduzido() {
     document.getElementsByClassName("escolha")[2].innerText = "HARD";
     document.getElementsByTagName("span")[9].innerText = "CHANGE LANGUAGE";
     document.getElementsByTagName("footer")[0].innerHTML = "<p> COPYRIGHT CAUÊ GONÇALVES SANTOS &COPY; 2023</p>"
-    fimT = `Your time has ended. You got right ${rodada} capitals`;
+    fimT = `Your time has ended. You got right | | capitals`;
     fimW = `Congratulations you got all answers right`;
     document.getElementById("username").innerText = "Type your username";
   } else if (getCookie("idioma") == "portugues") {
@@ -190,7 +189,7 @@ function traduzido() {
     document.getElementsByClassName("escolha")[1].innerText = "MÉDIO";
     document.getElementsByClassName("escolha")[2].innerText = "DIFÍCIL";
     document.getElementsByTagName("footer")[0].innerHTML = "<p>TODOS OS DIREITOS RESERVADOS CAUÊ GONÇALVES SANTOS &COPY; 2023</p>";
-    fimT = `Seu tempo acabou. Você conseguiu acertar ${rodada} capitais`
+    fimT = `Seu tempo acabou. Você conseguiu acertar | | capitais`
     fimW = `Parabéns você conseguiu acertar todas bandeiras`
     document.getElementById("username").innerText = "Digite o seu nome de usuário";
   }

@@ -7,11 +7,11 @@ var rodada = 0;
 var Nivel;
 var nomePais;
 var coutryName;
-var countdownInterval;
 var preload = [];
 if (document.cookie.length == 0) {
   document.cookie = "idioma=" + "portugues" + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/";
 }
+let remainingSeconds = 90;
 traduzido();
 
 
@@ -71,7 +71,7 @@ function ChamarQuiz(dificuldade) {
   document.getElementById("dificuldade").style.display = 'none';
   document.getElementsByTagName("form")[0].style.display = 'flex';
   atualizar();
-  contagemregressiva();
+  countdownInterval;
   for(d =0; d < Nivel.length; d++){
     img = new Image();
     img.src = Nivel[d].bandeira;
@@ -86,15 +86,13 @@ function atualizar() {
   document.getElementById("bandeira").src = Nivel[rodada].bandeira;
 }
 
-
-
 function pontuar() {
   if (document.getElementById('resposta').value.toLowerCase() == nomePais.toLowerCase() || document.getElementById('resposta').value.toLowerCase() == coutryName.toLowerCase()) {
     document.getElementById('resposta').value = null;
     rodada++;
     if (rodada == Nivel.length) {
-      acabar("ganhar");
       clearInterval(countdownInterval);
+      acabar("ganhar");
     } else {
       atualizar();
     }
@@ -107,39 +105,36 @@ function formatTime(seconds) {
   return `${minutes}:${remainingSeconds < 10 ? '0' : ''}${remainingSeconds}`;
 }
 
-function contagemregressiva() {
-  let remainingSeconds = 90;
-   countdownInterval = setInterval(function () {
-    const countdownElement = document.getElementById("temporizador");
-    remainingSeconds--;
+const countdownInterval = setInterval(function () {
+  const countdownElement = document.getElementById("temporizador");
+  remainingSeconds--;
 
-    if (remainingSeconds <= 0) {
-      acabar("tempo");
-      clearInterval(countdownInterval);
-    } else {
-      countdownElement.textContent = `${formatTime(remainingSeconds)}`;
-    }
-  }, 1000); // Atualiza a cada segundo (1000 milissegundos)
-}
+  if (remainingSeconds <= 0) {
+    clearInterval(countdownInterval);
+    acabar("tempo");
+  } else {
+    countdownElement.innerText = `${formatTime(remainingSeconds)}`;
+  }
+}, 1000); // Atualiza a cada segundo (1000 milissegundos)
+
+
 
 function acabar(metodo) {
-  switch (metodo) {
-    case "tempo":
-      document.getElementsByTagName("form")[0].style.display = 'none';
-      document.getElementsByTagName("form")[1].style.display = 'flex';
-      document.getElementById("resultado").innerText = "Seu tempo acabou. Você consegui acertar " + rodada + " bandeideras";
-      break;
-    case "ganhar":
-      document.getElementById("resultado").innerText = "Parabéns você conseguiu acertar todas bandeiras";
-      document.getElementsByTagName("form")[0].style.display = 'none';
-      document.getElementsByTagName("form")[1].style.display = 'flex';
-      break;
-  }
-  document.querySelector("#tempo").value = 90 - countdownInterval;
-  document.querySelector("#pontuacao").value = rodada;
-
+switch (metodo) {
+  case "tempo":
+    document.getElementsByTagName("form")[0].style.display = 'none';
+    document.getElementsByTagName("form")[1].style.display = 'flex';
+    document.getElementById("resultado").innerText = fimT.split("|")[0] + rodada + fimT.split("|")[2];
+    break;
+  case "ganhar":
+    document.getElementById("resultado").innerText = fimW;
+    document.getElementsByTagName("form")[0].style.display = 'none';
+    document.getElementsByTagName("form")[1].style.display = 'flex';
+    break;
 }
-
+document.querySelector("#tempo").value = 90 - remainingSeconds;
+document.querySelector("#pontuacao").value = rodada;
+}
 function traduzir() {
   if (getCookie("idioma") == "portugues") {
     document.cookie = "idioma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";

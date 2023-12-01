@@ -460,7 +460,7 @@
         "idioma_pt": "Khmer",
         "capital_en": "Phnom Penh",
         "capital_pt": "Pnom Pene",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cambodia_Cold_War_%28orthographic_projection%29.svg",
         "idh": 0.593
     },
     "cameroon": {
@@ -620,7 +620,7 @@
         "idioma_pt": "Francês",
         "capital_en": "Kinshasa",
         "capital_pt": "Quinxassa",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://commons.wikimedia.org/wiki/File:Democratic_Republic_of_the_Congo_(orthographic_projection).svg",
         "idh": 0.479
     },
     "congo": {
@@ -1068,7 +1068,7 @@
         "idioma_pt": "Inglês",
         "capital_en": "Saint George's",
         "capital_pt": "São Jorge",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://commons.wikimedia.org/wiki/File:LocationGrenada.png",
         "idh": 0.795
     },
     "guatemala": {
@@ -1100,7 +1100,7 @@
         "idioma_pt": "Português",
         "capital_en": "Bissau",
         "capital_pt": "Bissau",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://commons.wikimedia.org/wiki/File:Location_Guinea_Bissau_AU_Africa.svg",
         "idh": 0.483
     },
     "guinea": {
@@ -1308,7 +1308,7 @@
         "idioma_pt": "Francês",
         "capital_en": "Yamoussoukro (de jure), Abidjan (de facto)",
         "capital_pt": "Iamussucro  (de jure), Abidjã(de facto)",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/9/9b/C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg",
         "idh": 0.55
     },
     "jamaica": {
@@ -1548,7 +1548,7 @@
         "idioma_pt": "Alemão",
         "capital_en": "Vaduz",
         "capital_pt": "Vaduz",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/36/Location_Liechtenstein_Europe.png",
         "idh": 0.935
     },
     "lithuania": {
@@ -1692,7 +1692,7 @@
         "idioma_pt": "Marshallesa",
         "capital_en": "Majuro",
         "capital_pt": "Majuro",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/6/65/LocationMarshallIslands.png",
         "idh": 0.639
     },
     "mauritania": {
@@ -1868,7 +1868,7 @@
         "idioma_pt": "Burmês",
         "capital_en": "Nay Pyi Taw",
         "capital_pt": "Nepiedó",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Myanmar_%28orthographic_projection%29.svg",
         "idh": 0.585
     },
     "namibia": {
@@ -1900,7 +1900,7 @@
         "idioma_pt": "nauruana e Inglês",
         "capital_en": "Yaren District (de facto)",
         "capital_pt": "Distrito de Iarém (de facto)",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/2/21/NRU_orthographic.svg",
         "idh": 0.652
     },
     "nepal": {
@@ -2060,7 +2060,7 @@
         "idioma_pt": "Arábe",
         "capital_en": "Muscat",
         "capital_pt": "Mascate",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Oman_%28orthographic_projection%29.svg",
         "idh": 0.816
     },
     "pakistan": {
@@ -2476,7 +2476,7 @@
         "idioma_pt": "Inglês e Mandarim",
         "capital_en": "Singapore",
         "capital_pt": "Singapura",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/3/37/Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg",
         "idh": 0.939
     },
     "slovakia": {
@@ -2876,7 +2876,7 @@
         "idioma_pt": "Tuvaluano e Inglês",
         "capital_en": "Funafuti",
         "capital_pt": "Funafuti",
-        "mapa": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BRA_orthographic.svg",
+        "mapa": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LocationTuvalu.png",
         "idh": 0.641
     },
     "uganda": {
