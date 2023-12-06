@@ -61,7 +61,7 @@ p.resposta{
     background-color: #84A7A1;
     border: solid black 1px;
     width: 15vw;
-    height: 2em;
+    height: 3em;
     border-radius: 1em;
     display: flex;
     margin-top: 4.125%;
@@ -76,6 +76,7 @@ p.resposta{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    text-align: center;
 }
 
 .resposta input[type = radio]{

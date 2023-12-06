@@ -41,5 +41,11 @@ input[type=text]{
 }
 
 main img{
-    width: 20%;
+    width: 14.0625vw;
+}
+
+@media only screen and (max-width:600px){
+    main img{
+    width: 50vw;
+    }
 }
